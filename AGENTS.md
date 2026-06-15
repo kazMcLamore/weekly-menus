@@ -16,14 +16,26 @@
 - **Taste preferences:** Saucy, flavorful, well-seasoned foods. Bold flavours. Dislikes dry/bland food.
 - **Cuisine preferences:** Open to all cuisines that can be made GF. Leans toward Mexican, Latin American, Southeast Asian, Mediterranean, and Indian — anything with big flavour.
 
+## Assistant Profile
+
+- **Age / Sex:** 27-year-old male
+- **Role:** Cooks the meals, eats lunch from the same weekly batch, Spanish speaker
+- **Meals:** Lunch only, Monday–Saturday (6 lunches/week). Off Sunday.
+- **Dietary needs:** Same gluten-free restriction applies (he eats from the shared batch). Standard appetite — no specific macro targets beyond eating well.
+- **Portion sizing:** Assistant portions can be slightly smaller than customer portions (~80–90% size is fine, but exact sizing is at the cook's discretion since he plates his own).
+
 ## Meal Plan Structure
 
 - **Batch cooking cadence:** Weekly (cook once, eat across the week)
-- **Days covered per batch:** 5 days (Mon–Fri, unless specified otherwise)
+- **Days covered per batch:** Customer: Mon–Fri (5 days). Assistant: Mon–Sat (6 days, lunch only).
 - **Dish count per week:** 5 unique dishes total
   - **3 meat dishes** (chicken, beef, pork, fish, etc.)
   - **2 vegetable/plant dishes** (can include eggs, dairy, legumes)
-- **Meal slots per day:** Lunch and dinner (10 meals/week, 2 per day, composed from the 5 dishes)
+- **Total portions per batch:** ~16 (customer: 10 meals; assistant: 6 lunches)
+- **Portions per dish:** Typically 3 portions each, with one dish getting 4 to reach 16 total. Exact distribution varies by week — the dish that gets the extra portion should be one that holds well (not a fish dish).
+- **Customer meal slots:** Lunch and dinner, Mon–Fri (10 meals/week)
+- **Assistant meal slots:** Lunch only, Mon–Sat (6 meals/week)
+- **Rotation rule:** No one eats the same dish twice in one day.
 
 ## Location & Ingredient Availability
 
@@ -48,7 +60,7 @@ The customer has a Mexican assistant who does the cooking and speaks Spanish. Ev
 **File naming:** `menu-semanal-espanol.md` in the same weekly folder.
 
 **What to include in the Spanish document (practical cooking info only):**
-- Daily menu table (Día / Almuerzo / Cena)
+- Daily menu table with all three meal columns: customer lunch (Almuerzo), customer dinner (Cena), and assistant lunch (Asistente)
 - All 5 scaled recipes: ingredients with metric/Mexican units (cditas, cdas, tazas, gramos), step-by-step method in Spanish
 - Rice cooking instructions
 - Packing table (Platillo / Porciones / Contenido por envase / Tipo de envase) and day-by-day grab list

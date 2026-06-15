@@ -75,22 +75,34 @@ The customer has a Mexican assistant who does the cooking and speaks Spanish. Ev
 
 The English document (`weekly-menu.md`) remains the authoritative source with full nutritional data, source citations, and methodology. The Spanish document is the kitchen-ready working copy.
 
-## Shopping Guide for the Assistant
+## Weekly Supplement for the Assistant
 
-The assistant is a young, inexperienced cook from a small Mexican town. He may not recognise international ingredients or know where to find them. Every weekly plan should include a **shopping guide** in Spanish.
+The assistant is a young, inexperienced cook from a small Mexican town. He may not recognise international ingredients or know where to find them. Every weekly plan must include a **weekly supplement** with a shopping guide AND cooking tips. The supplement is produced in both English and Spanish — the Spanish version is for the assistant, the English version is a literal translation for the customer to review.
 
-**File naming:** `guia-de-compras-espanol.md` in the same weekly folder.
+**File naming:**
+- `weekly-supplement.md` — English version (literal translation of Spanish)
+- `suplemento-semanal-espanol.md` — Spanish version (kitchen-ready for assistant)
 
-**What to include:**
-- Ingredient-by-ingredient breakdown of unusual/foreign items: what it is, what it looks like, what it tastes like (in Spanish, with Mexican frame of reference)
+**What to include (both files, identical content):**
+
+**Part 1 — Shopping Guide:**
+- Ingredient-by-ingredient breakdown of unusual/foreign items: what it is, what it looks like, what it tastes like (in Spanish with Mexican frame of reference; English is a literal translation)
 - Store-by-store where-to-buy for Playa del Carmen: Walmart (30 Av. y Calle 8), Chedraui (Av. Juárez), Chedraui Selecto (Plaza Las Américas), Mega Soriana (30 Av. y Constituyentes), DAC Market (30 Av. entre Calle 14 y 14 Bis — best for bulk spices, Asian ingredients, rare herbs)
-- Amazon Mexico (amazon.com.mx) for items not available locally (kasoori methi, urad dal, garam masala imports)
+- Amazon Mexico (amazon.com.mx) for items not available locally
 - Substitutions for each hard-to-find ingredient (in priority order)
 - DIY instructions for blends that can be made from locally available spices (e.g., how to make garam masala from scratch)
-- Practical cooking tips for an inexperienced cook (spice burning, turmeric staining, mise en place)
 - Difficulty ratings: 🟢 fácil (any supermarket) / 🟡 medio (Walmart/Chedraui intl section) / 🔴 difícil (DAC Market or Amazon only)
+- Recommended shopping route (which store to visit first, second, third)
+- GF watch points specifically relevant to that week's ingredients
 
-**Tone:** Patient, encouraging, written entirely in Spanish at an accessible level. Explain foreign concepts in Mexican terms (e.g., "parece una lenteja pero negra" for urad dal). Never assume the cook knows what something is.
+**Part 2 — Cooking Tips:**
+- Research and cite specific cooking techniques from VERIFIED ONLINE SOURCES (not general knowledge)
+- Tips must be relevant to the SPECIFIC dishes being cooked that week
+- Cite sources by name and URL (e.g., "Chef Deepak Saxena, in Mashed (Jan 2024)")
+- Topics should cover techniques the assistant will actually use, such as: blooming/tempering spices, yogurt marinade technique, dal preparation, slow-cooking, mise en place for Indian cooking
+- Include a quick-reference checklist at the end
+
+**Tone:** Patient, encouraging, written in Spanish at an accessible level. Explain foreign concepts in Mexican terms (e.g., "parece una lenteja pero negra" for urad dal). Never assume the cook knows what something is. The English version is a direct translation — keeps the same explanations and examples.
 
 ## Storage & Reheating
 
@@ -111,6 +123,7 @@ The assistant is a young, inexperienced cook from a small Mexican town. He may n
 - Each week's folder contains:
   - `weekly-menu.md` — full English plan with macros, sources, and methodology
   - `menu-semanal-espanol.md` — Spanish kitchen-ready copy for the assistant
-  - `guia-de-compras-espanol.md` — Spanish shopping guide: what each unusual ingredient is, where to buy it in Playa del Carmen, and substitutions
+  - `weekly-supplement.md` — English shopping guide + cooking tips (literal translation of Spanish)
+  - `suplemento-semanal-espanol.md` — Spanish shopping guide + cooking tips for the assistant
   - Additional files as needed (shopping list, individual dish cards, notes)
 - Git commits at each weekly plan completion and profile update

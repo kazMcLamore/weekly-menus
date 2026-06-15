@@ -3,7 +3,7 @@
 > **Tema:** Curries indios 100% libres de gluten
 > **Estructura:** 5 platillos (3 con carne, 2 vegetarianos), 16 porciones totales
 > **Quién come:** Patrón (37H, atleta) — almuerzo y cena lun–vie (10 comidas). Asistente (27H) — almuerzo lun–sáb (6 comidas).
-> **📖 Guía de compras:** Lee `guia-de-compras-espanol.md` — explica qué es cada ingrediente raro, dónde comprarlo en Playa del Carmen, y qué hacer si no lo encuentras.
+> **📖 Guía de compras y consejos de cocina:** Lee `suplemento-semanal-espanol.md` — explica qué es cada ingrediente raro, dónde comprarlo en Playa del Carmen, y consejos de cocina india.
 
 ---
 

@@ -76,8 +76,9 @@ Si no lo encuentras, HAZLO TÚ MISMO: Mezcla en un frasco — 1 cda comino molid
 **🟡 Canela en Raja** (necesitas 2) — Cualquier súper, sección de especias. DAC Market. Muy común en México.
 
 **🔴 Vainas de Cardamomo Verde** (necesitas 6) — Vainitas verdes con semillas negras adentro, huelen floral-dulce.
-<img src="https://spicyorganic.com/cdn/shop/products/586437c41f644c40a7b00ed221b7eaf8.thumbnail.0000000_800x.jpg?v=1621559101" alt="Vainas de cardamomo verde" width="250">
+<img src="https://spicyorganic.com/cdn/shop/products/586437c41f644c40a7b00ed221b7eaf8.thumbnail.0000000_800x.jpg?v=1621559101" alt="Vainas de cardamomo verde" align="right" width="100">
 DAC Market es la mejor opción. También Amazon. No confirmado en Walmart/Chedraui. Si no hay: omite las vainas pero ASEGÚRATE de incluir cardamomo molido en el garam masala.
+<br clear="right">
 
 **🟡 Clavos de Olor Enteros** (necesitas 6) — Comunes en México (ponche, guisos). Cualquier súper.
 
@@ -90,8 +91,9 @@ DAC Market es la mejor opción. También Amazon. No confirmado en Walmart/Chedra
 **🔴 Semillas de Mostaza** (necesitas ¾ cdita) — Semillitas negras/cafés que truenan al calentarse. DAC Market especias a granel. Poco probable en súpers. Si no hay: omite — la receta funciona sin ellas.
 
 **🔴 Kasoori Methi / Hojas Secas de Fenogreco** (necesitas 2 cdas) — Huele a heno dulce y curry. Da ese sabor a "restaurante indio."
-<img src="https://trueindianspices.com.au/cdn/shop/articles/what-is-kasuri-methi-in-english-faq-true-indian-spices-752x390_e7cef2f7-7e68-43d2-a408-034a61eda34b.webp?v=1772973682&width=1100" alt="Hojas secas de fenogreco (kasoori methi)" width="250">
+<img src="https://trueindianspices.com.au/cdn/shop/articles/what-is-kasuri-methi-in-english-faq-true-indian-spices-752x390_e7cef2f7-7e68-43d2-a408-034a61eda34b.webp?v=1772973682&width=1100" alt="Hojas secas de fenogreco (kasoori methi)" align="right" width="100">
 Amazon México: Rani 28g (~$90-150 MXN). DAC Market — pregunta. Si no hay: omite en ambas recetas. NO uses epazote.
+<br clear="right">
 
 **🟡 Tamarindo (Concentrado/Pasta para cocinar, NO bebida)** — necesitas 3 cditas. Pasta marrón oscura, pegajosa, ácida. Walmart sección asiática/internacional — revisa la etiqueta. Chedraui internacional. DAC Market muy probable. Si no hay: sustituye 1 cda jugo de limón + ½ cdita azúcar morena por cdita de tamarindo.
 
@@ -106,8 +108,9 @@ Amazon México: Rani 28g (~$90-150 MXN). DAC Market — pregunta. Si no hay: omi
 **🟢 Garbanzos en Lata** (necesitas 2 latas) — Cualquier súper.
 
 **🔴 Urad Dal / Lenteja Negra India** (necesitas ¾ taza) — Lenteja negra ovalada pequeña. NO es lenteja café mexicana.
-<img src="https://m.media-amazon.com/images/I/411tDWZY-pL.jpg" alt="Urad dal entero (lenteja negra india)" width="250">
+<img src="https://m.media-amazon.com/images/I/411tDWZY-pL.jpg" alt="Urad dal entero (lenteja negra india)" align="right" width="100">
 Amazon México: busca "Urad Dal" o "Black Gram" (Rani, Swad). DAC Market — pregunta. Si no hay: usa 1 taza de LENTEJA CAFÉ NORMAL + reduce frijol rojo a 3 cdas. Lentejas cafés se cocen en ~30-40 min sin olla de presión.
+<br clear="right">
 
 **🟢 Frijol Rojo Seco** (necesitas 6 cdas) — Cualquier súper, a granel o en bolsa.
 

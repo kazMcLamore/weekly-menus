@@ -75,6 +75,23 @@ The customer has a Mexican assistant who does the cooking and speaks Spanish. Ev
 
 The English document (`weekly-menu.md`) remains the authoritative source with full nutritional data, source citations, and methodology. The Spanish document is the kitchen-ready working copy.
 
+## Shopping Guide for the Assistant
+
+The assistant is a young, inexperienced cook from a small Mexican town. He may not recognise international ingredients or know where to find them. Every weekly plan should include a **shopping guide** in Spanish.
+
+**File naming:** `guia-de-compras-espanol.md` in the same weekly folder.
+
+**What to include:**
+- Ingredient-by-ingredient breakdown of unusual/foreign items: what it is, what it looks like, what it tastes like (in Spanish, with Mexican frame of reference)
+- Store-by-store where-to-buy for Playa del Carmen: Walmart (30 Av. y Calle 8), Chedraui (Av. Juárez), Chedraui Selecto (Plaza Las Américas), Mega Soriana (30 Av. y Constituyentes), DAC Market (30 Av. entre Calle 14 y 14 Bis — best for bulk spices, Asian ingredients, rare herbs)
+- Amazon Mexico (amazon.com.mx) for items not available locally (kasoori methi, urad dal, garam masala imports)
+- Substitutions for each hard-to-find ingredient (in priority order)
+- DIY instructions for blends that can be made from locally available spices (e.g., how to make garam masala from scratch)
+- Practical cooking tips for an inexperienced cook (spice burning, turmeric staining, mise en place)
+- Difficulty ratings: 🟢 fácil (any supermarket) / 🟡 medio (Walmart/Chedraui intl section) / 🔴 difícil (DAC Market or Amazon only)
+
+**Tone:** Patient, encouraging, written entirely in Spanish at an accessible level. Explain foreign concepts in Mexican terms (e.g., "parece una lenteja pero negra" for urad dal). Never assume the cook knows what something is.
+
 ## Storage & Reheating
 
 - Fridge life: assume 4–5 days maximum for most cooked dishes
@@ -94,5 +111,6 @@ The English document (`weekly-menu.md`) remains the authoritative source with fu
 - Each week's folder contains:
   - `weekly-menu.md` — full English plan with macros, sources, and methodology
   - `menu-semanal-espanol.md` — Spanish kitchen-ready copy for the assistant
+  - `guia-de-compras-espanol.md` — Spanish shopping guide: what each unusual ingredient is, where to buy it in Playa del Carmen, and substitutions
   - Additional files as needed (shopping list, individual dish cards, notes)
 - Git commits at each weekly plan completion and profile update

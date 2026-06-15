@@ -15,11 +15,11 @@
 
 | Butter Chicken | Lamb Rogan Josh | Goan Fish Curry |
 |---------------|-----------------|-----------------|
-| ![Butter Chicken en salsa cremosa](https://media.30seconds.com/tip/lg/Savory-Indian-Butter-Chicken-Recipe-How-to-Make-Murgh-Makh-17349-16c808e54e-1707436179.jpg) | ![Lamb Rogan Josh en un tazón](https://silkroadrecipes.com/wp-content/uploads/2024/11/Rogan-Josh-Indian-Lamb-Curry-10.jpg) | ![Goan Fish Curry con arroz](https://greedy-panda.com/wp-content/uploads/2020/06/36_Goan-Fish-Curry-with-Basmati-Rice_002-1024x1024.jpg) |
+| <img src="https://media.30seconds.com/tip/lg/Savory-Indian-Butter-Chicken-Recipe-How-to-Make-Murgh-Makh-17349-16c808e54e-1707436179.jpg" alt="Butter Chicken en salsa cremosa" width="280"> | <img src="https://silkroadrecipes.com/wp-content/uploads/2024/11/Rogan-Josh-Indian-Lamb-Curry-10.jpg" alt="Lamb Rogan Josh en un tazón" width="280"> | <img src="https://greedy-panda.com/wp-content/uploads/2020/06/36_Goan-Fish-Curry-with-Basmati-Rice_002-1024x1024.jpg" alt="Goan Fish Curry con arroz" width="280"> |
 
 | Chana Masala | Dal Makhani |
 |-------------|-------------|
-| ![Chana Masala curry de garbanzos](https://biancazapatka.com/wp-content/uploads/2023/01/chana-masala-kichererbsen-eintopf-720x1008.jpg) | ![Dal Makhani lentejas negras cremosas](https://m.media-amazon.com/images/I/71s7TJqMxqL.jpg) |
+| <img src="https://biancazapatka.com/wp-content/uploads/2023/01/chana-masala-kichererbsen-eintopf-720x1008.jpg" alt="Chana Masala curry de garbanzos" width="350"> | <img src="https://m.media-amazon.com/images/I/71s7TJqMxqL.jpg" alt="Dal Makhani lentejas negras cremosas" width="350"> |
 
 ---
 
@@ -76,7 +76,7 @@ Si no lo encuentras, HAZLO TÚ MISMO: Mezcla en un frasco — 1 cda comino molid
 **🟡 Canela en Raja** (necesitas 2) — Cualquier súper, sección de especias. DAC Market. Muy común en México.
 
 **🔴 Vainas de Cardamomo Verde** (necesitas 6) — Vainitas verdes con semillas negras adentro, huelen floral-dulce.
-![Vainas de cardamomo verde](https://spicyorganic.com/cdn/shop/products/586437c41f644c40a7b00ed221b7eaf8.thumbnail.0000000_800x.jpg?v=1621559101)
+<img src="https://spicyorganic.com/cdn/shop/products/586437c41f644c40a7b00ed221b7eaf8.thumbnail.0000000_800x.jpg?v=1621559101" alt="Vainas de cardamomo verde" width="250">
 DAC Market es la mejor opción. También Amazon. No confirmado en Walmart/Chedraui. Si no hay: omite las vainas pero ASEGÚRATE de incluir cardamomo molido en el garam masala.
 
 **🟡 Clavos de Olor Enteros** (necesitas 6) — Comunes en México (ponche, guisos). Cualquier súper.
@@ -90,7 +90,7 @@ DAC Market es la mejor opción. También Amazon. No confirmado en Walmart/Chedra
 **🔴 Semillas de Mostaza** (necesitas ¾ cdita) — Semillitas negras/cafés que truenan al calentarse. DAC Market especias a granel. Poco probable en súpers. Si no hay: omite — la receta funciona sin ellas.
 
 **🔴 Kasoori Methi / Hojas Secas de Fenogreco** (necesitas 2 cdas) — Huele a heno dulce y curry. Da ese sabor a "restaurante indio."
-![Hojas secas de fenogreco (kasoori methi)](https://trueindianspices.com.au/cdn/shop/articles/what-is-kasuri-methi-in-english-faq-true-indian-spices-752x390_e7cef2f7-7e68-43d2-a408-034a61eda34b.webp?v=1772973682&width=1100)
+<img src="https://trueindianspices.com.au/cdn/shop/articles/what-is-kasuri-methi-in-english-faq-true-indian-spices-752x390_e7cef2f7-7e68-43d2-a408-034a61eda34b.webp?v=1772973682&width=1100" alt="Hojas secas de fenogreco (kasoori methi)" width="250">
 Amazon México: Rani 28g (~$90-150 MXN). DAC Market — pregunta. Si no hay: omite en ambas recetas. NO uses epazote.
 
 **🟡 Tamarindo (Concentrado/Pasta para cocinar, NO bebida)** — necesitas 3 cditas. Pasta marrón oscura, pegajosa, ácida. Walmart sección asiática/internacional — revisa la etiqueta. Chedraui internacional. DAC Market muy probable. Si no hay: sustituye 1 cda jugo de limón + ½ cdita azúcar morena por cdita de tamarindo.
@@ -106,7 +106,7 @@ Amazon México: Rani 28g (~$90-150 MXN). DAC Market — pregunta. Si no hay: omi
 **🟢 Garbanzos en Lata** (necesitas 2 latas) — Cualquier súper.
 
 **🔴 Urad Dal / Lenteja Negra India** (necesitas ¾ taza) — Lenteja negra ovalada pequeña. NO es lenteja café mexicana.
-![Urad dal entero (lenteja negra india)](https://m.media-amazon.com/images/I/411tDWZY-pL.jpg)
+<img src="https://m.media-amazon.com/images/I/411tDWZY-pL.jpg" alt="Urad dal entero (lenteja negra india)" width="250">
 Amazon México: busca "Urad Dal" o "Black Gram" (Rani, Swad). DAC Market — pregunta. Si no hay: usa 1 taza de LENTEJA CAFÉ NORMAL + reduce frijol rojo a 3 cdas. Lentejas cafés se cocen en ~30-40 min sin olla de presión.
 
 **🟢 Frijol Rojo Seco** (necesitas 6 cdas) — Cualquier súper, a granel o en bolsa.

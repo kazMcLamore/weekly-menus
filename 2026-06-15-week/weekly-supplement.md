@@ -15,11 +15,11 @@
 
 | Butter Chicken | Lamb Rogan Josh | Goan Fish Curry |
 |---------------|-----------------|-----------------|
-| ![Butter Chicken in creamy sauce](https://media.30seconds.com/tip/lg/Savory-Indian-Butter-Chicken-Recipe-How-to-Make-Murgh-Makh-17349-16c808e54e-1707436179.jpg) | ![Lamb Rogan Josh in a bowl](https://silkroadrecipes.com/wp-content/uploads/2024/11/Rogan-Josh-Indian-Lamb-Curry-10.jpg) | ![Goan Fish Curry with rice](https://greedy-panda.com/wp-content/uploads/2020/06/36_Goan-Fish-Curry-with-Basmati-Rice_002-1024x1024.jpg) |
+| <img src="https://media.30seconds.com/tip/lg/Savory-Indian-Butter-Chicken-Recipe-How-to-Make-Murgh-Makh-17349-16c808e54e-1707436179.jpg" alt="Butter Chicken in creamy sauce" width="280"> | <img src="https://silkroadrecipes.com/wp-content/uploads/2024/11/Rogan-Josh-Indian-Lamb-Curry-10.jpg" alt="Lamb Rogan Josh in a bowl" width="280"> | <img src="https://greedy-panda.com/wp-content/uploads/2020/06/36_Goan-Fish-Curry-with-Basmati-Rice_002-1024x1024.jpg" alt="Goan Fish Curry with rice" width="280"> |
 
 | Chana Masala | Dal Makhani |
 |-------------|-------------|
-| ![Chana Masala chickpea curry](https://biancazapatka.com/wp-content/uploads/2023/01/chana-masala-kichererbsen-eintopf-720x1008.jpg) | ![Dal Makhani creamy black lentils](https://m.media-amazon.com/images/I/71s7TJqMxqL.jpg) |
+| <img src="https://biancazapatka.com/wp-content/uploads/2023/01/chana-masala-kichererbsen-eintopf-720x1008.jpg" alt="Chana Masala chickpea curry" width="350"> | <img src="https://m.media-amazon.com/images/I/71s7TJqMxqL.jpg" alt="Dal Makhani creamy black lentils" width="350"> |
 
 ---
 
@@ -76,7 +76,7 @@ If you can't find it, MAKE IT YOURSELF: Mix in a jar — 1 tbsp ground cumin + 1
 **🟡 Cinnamon Sticks** (need 2) — Any supermarket spice section. DAC Market. Very common in Mexico.
 
 **🔴 Green Cardamom Pods** (need 6) — Small green pods with black seeds inside, smell floral-sweet.
-![Green cardamom pods](https://spicyorganic.com/cdn/shop/products/586437c41f644c40a7b00ed221b7eaf8.thumbnail.0000000_800x.jpg?v=1621559101)
+<img src="https://spicyorganic.com/cdn/shop/products/586437c41f644c40a7b00ed221b7eaf8.thumbnail.0000000_800x.jpg?v=1621559101" alt="Green cardamom pods" width="250">
 DAC Market is best bet. Also Amazon. Not confirmed at Walmart/Chedraui. If unavailable: skip whole pods but ensure cardamom powder is in your garam masala.
 
 **🟡 Whole Cloves** (need 6) — Common in Mexico (ponche, stews). Any supermarket.
@@ -90,7 +90,7 @@ DAC Market is best bet. Also Amazon. Not confirmed at Walmart/Chedraui. If unava
 **🔴 Mustard Seeds** (need ¾ tsp) — Tiny black/brown seeds that pop when heated. DAC Market bulk spices. Unlikely at supermarkets. If unavailable: skip — recipe works without.
 
 **🔴 Kasoori Methi / Dried Fenugreek Leaves** (need 2 tbsp) — Smells like sweet hay and curry. Gives that "Indian restaurant" flavour.
-![Dried fenugreek leaves (kasoori methi)](https://trueindianspices.com.au/cdn/shop/articles/what-is-kasuri-methi-in-english-faq-true-indian-spices-752x390_e7cef2f7-7e68-43d2-a408-034a61eda34b.webp?v=1772973682&width=1100)
+<img src="https://trueindianspices.com.au/cdn/shop/articles/what-is-kasuri-methi-in-english-faq-true-indian-spices-752x390_e7cef2f7-7e68-43d2-a408-034a61eda34b.webp?v=1772973682&width=1100" alt="Dried fenugreek leaves (kasoori methi)" width="250">
 Amazon Mexico: Rani brand 28g (~$90-150 MXN). DAC Market — ask. If unavailable: skip in both recipes. Do NOT use epazote.
 
 **🟡 Tamarind Concentrate** (cooking paste, NOT drink mix) — need 3 tsp. Dark brown, sticky, sour. Walmart Asian/international section — check label. Chedraui international. DAC Market very likely. If unavailable: substitute 1 tbsp lime juice + ½ tsp brown sugar per tsp tamarind.
@@ -106,7 +106,7 @@ Amazon Mexico: Rani brand 28g (~$90-150 MXN). DAC Market — ask. If unavailable
 **🟢 Canned Chickpeas** (need 2 cans) — Any supermarket.
 
 **🔴 Urad Dal / Black Indian Lentils** (need ¾ cup) — Small oval black lentil. NOT the same as Mexican brown lentils.
-![Whole urad dal (black gram lentils)](https://m.media-amazon.com/images/I/411tDWZY-pL.jpg)
+<img src="https://m.media-amazon.com/images/I/411tDWZY-pL.jpg" alt="Whole urad dal (black gram lentils)" width="250">
 Amazon Mexico: search "Urad Dal" or "Black Gram" (Rani, Swad). DAC Market — ask. If unavailable: use 1 cup REGULAR BROWN LENTILS + reduce kidney beans to 3 tbsp. Brown lentils cook faster (~30-40 mins without pressure cooker).
 
 **🟢 Dried Kidney Beans** (need 6 tbsp) — Any supermarket, bulk or bagged.

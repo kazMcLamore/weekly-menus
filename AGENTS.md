@@ -41,6 +41,28 @@
 - Food storage: glass or plastic containers for meal prep
 - **To confirm:** Instant Pot / pressure cooker? Air fryer? Slow cooker? Rice cooker?
 
+## Spanish-Speaking Assistant
+
+The customer has a Mexican assistant who does the cooking and speaks Spanish. Every weekly plan must include a Spanish translation.
+
+**File naming:** `menu-semanal-espanol.md` in the same weekly folder.
+
+**What to include in the Spanish document (practical cooking info only):**
+- Daily menu table (Día / Almuerzo / Cena)
+- All 5 scaled recipes: ingredients with metric/Mexican units (cditas, cdas, tazas, gramos), step-by-step method in Spanish
+- Rice cooking instructions
+- Packing table (Platillo / Porciones / Contenido por envase / Tipo de envase) and day-by-day grab list
+- Deduplicated shopping list (Lista de Compras) organised by supermarket section with Spanish category names (Frutas y Verduras, Carnes/Pescado/Huevo, Abarrotes, Lácteos, Especias y Condimentos, Aceites)
+- Notes about GF safety and local ingredient substitutions, written for a Mexican cook (e.g., call out "jitomate" not "tomate", mention local fish like huachinango, name local stores like Chedraui/Walmart)
+
+**What NOT to include in the Spanish document:**
+- Macro calculations and nutritional breakdowns
+- Source URLs (the English doc already has them)
+- Why-this-recipe justifications
+- Scaling notes and methodology details
+
+The English document (`weekly-menu.md`) remains the authoritative source with full nutritional data, source citations, and methodology. The Spanish document is the kitchen-ready working copy.
+
 ## Storage & Reheating
 
 - Fridge life: assume 4–5 days maximum for most cooked dishes
@@ -57,5 +79,8 @@
 ## Housekeeping
 
 - One directory per week: `YYYY-MM-DD-week` (e.g., `2026-06-15-week`)
-- Each week's folder contains: weekly menu summary, individual dish files, shopping list, notes
+- Each week's folder contains:
+  - `weekly-menu.md` — full English plan with macros, sources, and methodology
+  - `menu-semanal-espanol.md` — Spanish kitchen-ready copy for the assistant
+  - Additional files as needed (shopping list, individual dish cards, notes)
 - Git commits at each weekly plan completion and profile update

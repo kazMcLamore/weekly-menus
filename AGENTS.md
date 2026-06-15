@@ -87,6 +87,7 @@ The assistant is a young, inexperienced cook from a small Mexican town. He may n
 
 **Part 1 — Shopping Guide:**
 - Ingredient-by-ingredient breakdown of unusual/foreign items: what it is, what it looks like, what it tastes like (in Spanish with Mexican frame of reference; English is a literal translation)
+- **Images:** Include photo links for hard-to-identify ingredients (e.g., urad dal, cardamom pods, kasoori methi) and a dish gallery at the top showing all 5 finished dishes
 - Store-by-store where-to-buy for Playa del Carmen: Walmart (30 Av. y Calle 8), Chedraui (Av. Juárez), Chedraui Selecto (Plaza Las Américas), Mega Soriana (30 Av. y Constituyentes), DAC Market (30 Av. entre Calle 14 y 14 Bis — best for bulk spices, Asian ingredients, rare herbs)
 - Amazon Mexico (amazon.com.mx) for items not available locally
 - Substitutions for each hard-to-find ingredient (in priority order)

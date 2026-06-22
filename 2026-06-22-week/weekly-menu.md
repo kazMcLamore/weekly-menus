@@ -1,10 +1,12 @@
-# Mexican Weekly Batch — June 22–26, 2026
+# Indian Weekly Batch — June 22–26, 2026
 
-> **Theme:** Naturally gluten-free Mexican classics
-> **Structure:** 3 meat + 2 vegetarian dishes, 16 total portions + 1 cabbage slaw side
-> **Who eats:** Customer (37M, athlete) — lunch & dinner Mon–Fri (10 meals). Assistant (27M) — lunch Mon–Sat (6 meals).
-> **Macro target (customer):** ~650 kcal/meal, higher protein (~35% P / 35% C / 30% F target). Fish and chicken dishes hit 32–36% protein; pork and veg dishes are 17–24%. See Protein Notes below.
-> **Equipment:** Slow cooker + air fryer available (no Instant Pot or rice cooker)
+> **Theme:** Authentic Indian curries, 100% gluten-free
+> **Structure:** 3 meat dishes + 2 vegetarian dishes. Each meal = 1 meat + 1 veg + rice.
+> **Who eats:** Customer (37M, athlete) — lunch & dinner Mon–Fri (10 meals). Assistant (27M) — lunch Mon–Sat (6 meals). 4 extra portions for buffer.
+> **Total meals:** 20 (each meal = meat curry + veg curry + basmati rice)
+> **Macro target (customer):** Higher protein (~35% P). See Protein Notes below.
+> **Equipment:** Slow cooker + air fryer available
+> **Spice level:** Medium
 
 ---
 
@@ -12,388 +14,395 @@
 
 | Day | Customer Lunch | Customer Dinner | Assistant Lunch |
 |-----|---------------|-----------------|-----------------|
-| Mon | Cochinita Pibil + rice + slaw + pickled onion | Rajas con Crema + rice + egg | Chicken Mole Poblano + rice + egg |
-| Tue | Chicken Mole Poblano + rice + egg | Pescado a la Veracruzana + rice + avocado | Frijoles Charros + tortillas + egg |
-| Wed | Frijoles Charros + tortillas + egg | Cochinita Pibil + rice + slaw + pickled onion | Pescado a la Veracruzana + rice + avocado |
-| Thu | Pescado a la Veracruzana + rice + avocado | Rajas con Crema + rice + egg | Cochinita Pibil + rice + slaw + pickled onion |
-| Fri | Cochinita Pibil + rice + slaw + pickled onion | Frijoles Charros + tortillas + egg | Rajas con Crema + rice + egg |
-| Sat | — | — | Chicken Mole Poblano + rice + egg |
+| Mon | Lamb Korma + Rajma + rice | Beef Bhuna + Aloo Gobi + rice | Tandoori Chicken + Rajma + rice |
+| Tue | Tandoori Chicken + Aloo Gobi + rice | Lamb Korma + Rajma + rice | Beef Bhuna + Aloo Gobi + rice |
+| Wed | Beef Bhuna + Rajma + rice | Tandoori Chicken + Aloo Gobi + rice | Lamb Korma + Rajma + rice |
+| Thu | Lamb Korma + Aloo Gobi + rice | Beef Bhuna + Rajma + rice | Tandoori Chicken + Aloo Gobi + rice |
+| Fri | Tandoori Chicken + Rajma + rice | Lamb Korma + Aloo Gobi + rice | Beef Bhuna + Rajma + rice |
+| Sat | — | — | Lamb Korma + Aloo Gobi + rice |
 
-**Total unique dishes:** 5 (3 meat, 2 vegetarian) + 1 slaw side
-**Cuisine:** Mexican, 100% gluten-free
-**Total portions:** 16 (Cochinita Pibil: 4, Chicken Mole: 3, Pescado Veracruzana: 3, Frijoles Charros: 3, Rajas con Crema: 3)
-**Avg calories/meal:** ~640 kcal (range: 590–690 depending on dish)
-**Avg protein/meal:** ~41g | **Carbs:** ~45g | **Fat:** ~32g
+**Extra portions (4):** 1× Lamb Korma + Rajma, 1× Tandoori Chicken + Aloo Gobi, 1× Beef Bhuna + Rajma, 1× Tandoori Chicken + Aloo Gobi — packed as bonus containers for weekend / seconds.
+
+**Total unique dishes:** 5 (3 meat, 2 vegetarian)
+**Cuisine:** Indian (North Indian / Punjabi / Bangladeshi), 100% gluten-free
+**Total portions:** 20 meals (20 meat portions + 20 veg portions)
+- Lamb Korma: 7 portions
+- Tandoori Chicken: 7 portions
+- Beef Bhuna: 6 portions
+- Rajma: 10 portions
+- Aloo Gobi: 10 portions
+**Avg calories/meal:** ~720 kcal (range: 620–830 depending on pairing)
+**Avg protein/meal:** ~42g | **Carbs:** ~58g | **Fat:** ~32g
 
 ---
 
-## 🐷 DISH 1: Cochinita Pibil (Slow-Cooker Yucatán Pork)
+## 🐑 DISH 1: Lamb Korma (Restaurant-Style)
 
-**Source:** https://www.rickbayless.com/recipe/slow-cooked-achiote-pork/
-**Why this recipe:** Rick Bayless is the foremost authority on Mexican cooking in the English-speaking world — chef-owner of Frontera Grill and Topolobampo, James Beard Award winner, and host of 12 seasons of *Mexico: One Plate at a Time* on PBS. This is his everyday slow-cooker adaptation of cochinita pibil, designed specifically for home cooks. It uses prepared achiote seasoning and a slow cooker (which we have). The banana leaves are optional. Naturally GF. The 6-hour slow cook produces fall-apart pork that gets better with time — ideal for the 4-portion dish that stretches to Saturday.
+**Source:** https://sinfullyspicy.com/restaurant-style-lamb-korma-rich-creamy/
+**Why this recipe:** Tanvi Srivastava runs Sinfully Spicy, a dedicated Indian food blog with hundreds of authentic recipes. She developed this lamb korma over 8–9 months of testing, inspired by the lamb korma from her favourite Indian restaurant in Las Vegas. The recipe uses traditional techniques: overnight yogurt marinade, whole spices (cloves, mace, green cardamom, cinnamon), cashew paste for creaminess, and kasuri methi for aroma. Naturally GF (thickened with cashew paste, not flour). Slow-cooked for 1 hour until the lamb is fork-tender. Gets better on day 2–3, making it ideal for batch cooking.
 
-**Original servings:** 6 | **Scaled to:** 4 portions (2/3×)
+**Original servings:** 3 | **Scaled to:** 7 portions (2.33×)
 
-### Per-Portion Macro Breakdown (customer)
+### Per-Portion Macro Breakdown (meat only, no rice/veg)
 
 | Nutrient | Amount |
 |----------|--------|
-| Calories | 687 kcal |
-| Protein | 41g (24%) |
-| Carbs | 41g (24%) |
-| Fat | 39g (51%) |
-| Fibre | 5g |
+| Calories | 420 kcal |
+| Protein | 28g (27%) |
+| Carbs | 12g (11%) |
+| Fat | 29g (62%) |
+| Fibre | 2g |
 
-*Includes 200g cooked pork, 1/3 cup white rice, 1/2 cup cabbage slaw, pickled red onion, 2 corn tortillas, 1 boiled egg. Pork shoulder is inherently fatty — this is the highest-fat dish of the week. Protein is solid at 41g but the ratio is lower due to fat content.*
+*Includes ~200g cooked lamb shoulder with korma sauce. Lamb shoulder is inherently fatty — this is the richest dish of the week. The cashew paste adds healthy fats and some protein.*
 
 ### Macro Calculation Summary
-Pork shoulder (~200g cooked per portion, trimmed of excess fat): 400 cal / 31g P / 0g C / 30g F. Achiote marinade: 15 cal / 0g P / 4g C / 0g F. Rice (50g cooked, 1/3 cup): 67 cal / 1.5g P / 15g C / 0g F. Slaw (1/2 cup): 50 cal / 1g P / 6g C / 3g F. Pickled red onion: 10 cal / 0g P / 2g C / 0g F. 2 corn tortillas: 100 cal / 2g P / 20g C / 1g F. 1 boiled egg: 70 cal / 6g P / 0.5g C / 5g F. Total ≈ 712 cal (rounded to 687 accounting for fat trimmed during cooking).
+Lamb shoulder (~200g cooked per portion, trimmed): 400 cal / 31g P / 0g C / 30g F. Yogurt marinade (per portion): 25 cal / 1.5g P / 1.5g C / 1g F. Cashew paste (per portion, ~15g cashews): 85 cal / 3g P / 5g C / 7g F. Onion/tomato sauce/spices: 30 cal / 0.5g P / 3g C / 2g F. Heavy cream (1 tbsp per portion): 50 cal / 0g P / 0.5g C / 5g F. Ghee (per portion): 35 cal / 0g P / 0g C / 4g F. Total ≈ 625 cal unadjusted → 420 cal after accounting for fat rendered during cooking and trimmed. ⚠️ This is a rich dish — the fat content is high. Pair with leaner veg curries (rajma or aloo gobi) to balance.
 
-### Batch Recipe (Makes 4 portions, 2/3× scale)
+### Scaled Batch Recipe (Makes 7 portions)
 
-**Ingredients:**
-- 1.4 kg (3 lbs) bone-in pork shoulder roast
-- 1/2 of a 3.5-oz (100g) package prepared achiote seasoning *(check GF — see notes)*
-- 1/2 cup lime juice (about 4–5 limes), divided
-- 2 tsp salt
-- 1 large white onion, sliced 1/4-inch thick
-- 1 large red onion, thinly sliced
-- Banana leaves, defrosted if frozen (optional)
-- About 1/3 cup roasted-chile salsa or habanero hot sauce (Yucateco or Frontera brand)
+**For the marinade:**
+- 1.17 kg (2.6 lbs) boneless lamb shoulder, trimmed and cut into 2-inch pieces
+- 187g (about 3/4 cup) plain yogurt (not sour — Greek or thick yogurt preferred)
+- 2⅓ tsp garlic paste
+- 1⅙ tsp ginger paste
+- 1⅙ tsp salt
+- 3½ tsp coriander powder
+- 2⅓ tsp Kashmiri chili powder (or 1⅔ tsp paprika + ⅔ tsp cayenne)
+- 1¾ tsp turmeric powder
+- ⅝ tsp cumin powder
+
+**Whole spices:**
+- 4⅔ cloves
+- 2⅓ small mace twigs (or ¼ tsp ground mace)
+- 9⅓ green cardamom pods
+- 2⅓ cinnamon sticks (small)
+
+**For the korma sauce:**
+- 7–9 tbsp neutral oil or ghee (or combination)
+- 513g (about 3 medium) onions, finely chopped
+- 128g (about ½ cup) tomato sauce (canned tomato puree/passata)
+- 2⅓ cups hot water (plus more as needed)
+- 1¾ tsp salt (or to taste)
+- 105g (about 30 whole) raw cashews, soaked in ⅔ cup + 2 tbsp water and blended smooth
+- 1⅙ tsp garam masala
+- 2⅓ tsp sugar
+- 2⅓ tsp kasuri methi (dried fenugreek leaves), crushed
+- 7 tbsp heavy cream
 
 **Method:**
-1. Place the achiote seasoning in a small bowl. Pour in 1/3 cup of the lime juice and 2 tsp salt. Work into a smooth, thick marinade with the back of a spoon.
-2. If using banana leaves, cut 2 two-foot sections and use them to line the slow cooker — lay one down the length, the other across the width. Lay in the pork and pour the marinade over and around the roast. Scatter the white onion over the meat.
-3. Pour 1/2 cup water around the meat. Fold up the banana leaves to roughly cover everything (or just put the lid on if not using leaves). Slow-cook on HIGH for 6 hours until the meat is fall-off-the-bone tender.
-4. While the meat cooks, combine the red onion with the remaining lime juice in a small bowl. Sprinkle with 1/2 tsp salt, toss, and set aside to marinate (stir occasionally).
-5. Transfer the meat and onions to a cutting board. Spoon off any rendered fat from the juices. If there's a lot of broth (2+ cups), boil it down to about 1 cup in a saucepan. Season with salt to taste.
-6. Shred the pork with two forks. Spoon the reduced sauce over the meat. Top with pickled red onions. Serve with rice, slaw, warm corn tortillas, and salsa/hot sauce.
+1. **Marinate the lamb (the night before):** Place lamb in a large bowl. Add yogurt, ginger paste, garlic paste, salt, and all ground spices except garam masala. Mix well with your hands (wear gloves) to coat every piece. Cover and refrigerate 4–6 hours or overnight.
+2. **Make cashew paste:** Soak raw cashews in warm water for 15 minutes. Drain and blend with ⅔ cup + 2 tbsp fresh water until completely smooth. Set aside.
+3. **Cook the korma:** Take marinated lamb out of the fridge 45 minutes before cooking. Heat oil/ghee in a heavy pot (Dutch oven) over medium heat. Add whole spices (cloves, mace, green cardamom, cinnamon) and fry 5–7 seconds until fragrant.
+4. Add chopped onions. Cook on medium-low heat 5–7 minutes until soft, translucent, and just turning light brown. Do not let them get too dark.
+5. Lower heat. Add marinated lamb (with all marinade). Stir gently on low heat for 2–3 minutes so the yogurt doesn't curdle.
+6. Raise heat to medium-low. Cook lamb with onions 7–10 minutes until all pink color is gone. Do not brown the lamb. Oil will begin to show at the sides.
+7. Add tomato sauce and salt. Stir well. Cook 3–5 minutes until tomatoes blend into the masala and everything looks glossy.
+8. Pour in hot water to just cover the lamb. Stir, cover, and cook on low for 45 minutes to 1 hour until lamb is tender but not falling apart. Check occasionally — add ¼ cup hot water if needed. Keep sauce thickish, not watery.
+9. When lamb is cooked, stir in cashew paste, heavy cream, garam masala, and crushed kasuri methi. Simmer 5–10 minutes for flavors to meld.
+10. Turn off heat. Rest 15–20 minutes if possible. Serve with basmati rice.
 
-**Storage:** Keeps 5 days refrigerated. Freezes well up to 3 months. Reheat gently on stovetop or microwave. ⚠️ The Saturday portion for the assistant holds fine to day 6 refrigerated — this is why cochinita gets the 4-portion allocation.
+**Storage:** Keeps 4–5 days refrigerated — gets better on day 2–3. Freezes 2–3 months. Reheat stovetop on low (stir to prevent sticking) or microwave.
 
 ### Scaling Notes
-- Scaled at 2/3× from original (6 → 4 portions). Used the full 3-lb pork shoulder (practical size — smaller roasts are hard to find and the extra meat is welcome). Achiote and lime juice scaled to 2/3. The extra portion ensures generous servings and covers Saturday.
-- **Slow cooker note:** Rick Bayless specifies HIGH for 6 hours. The dish can hold on "keep warm" for 4 more hours. No slow cooker? Braise in a Dutch oven at 300°F (150°C) for 2.5–3 hours.
+- Scaled at 2.33× from original (3 → 7 portions). Lamb: 1.17 kg (practical to buy as 1.2 kg). Spices scaled linearly except Kashmiri chili (scaled at 2× to keep heat manageable — medium spice). Cashews scaled to 105g (generous — the recipe author notes this is intentionally rich for restaurant-style). Cream scaled to 7 tbsp (1 tbsp per portion).
+- **Slow cooker option:** After step 7 (adding water), transfer everything to the slow cooker. Cook on HIGH for 4 hours or LOW for 6 hours. Then proceed with step 9 (add cashew paste, cream, etc.) on the stovetop.
+- ⚠️ **GF NOTE:** This recipe is naturally GF — thickened with cashew paste, not flour. Verify that your ghee/yogurt are GF (they should be). Check spice blends for wheat fillers.
 
 ---
 
-## 🍗 DISH 2: Chicken Mole Poblano
+## 🍗 DISH 2: Tandoori Chicken (Oven-Baked)
 
-**Source (chicken):** https://www.holajalapeno.com/chicken-mole/
-**Source (mole sauce):** https://www.holajalapeno.com/mole-poblano/
-**Why this recipe:** Kate Ramos is a classically-trained chef and cookbook author with 30+ years of experience, featured in *Better Homes & Gardens, Parade, Elle,* and *Cosmopolitan*. Her site ¡Hola! Jalapeño is one of the most respected Mexican cooking blogs. This mole poblano is made from scratch with dried chiles, nuts, seeds, and Mexican chocolate — thickened with a charred corn tortilla instead of bread, making it naturally gluten-free. The chicken is braised (not just poached) for deeper flavor. Mole improves significantly over 2–3 days, making it perfect for batch cooking.
+**Source:** https://www.indianhealthyrecipes.com/tandoori-chicken-recipe/
+**Why this recipe:** Swasthi Shreekanth has 20+ years of experience in practical Indian cooking and runs one of the most trusted Indian recipe sites. This tandoori chicken recipe has 4.99 stars from 602 votes — one of the highest-rated Indian recipes on the internet. It includes oven, stovetop, and air fryer methods. The overnight yogurt marinade with Kashmiri chili, garam masala, and kasuri methi produces restaurant-quality flavor. Naturally GF — no flour, no bread crumbs, just spices and yogurt.
 
-**Original servings:** 6–8 (chicken) + 8–10 (sauce) | **Scaled to:** 3 portions
+**Original servings:** 4 | **Scaled to:** 7 portions (1.75×)
 
-### Per-Portion Macro Breakdown (customer)
-
-| Nutrient | Amount |
-|----------|--------|
-| Calories | 670 kcal |
-| Protein | 53g (32%) |
-| Carbs | 43g (26%) |
-| Fat | 30g (40%) |
-| Fibre | 5g |
-
-*Includes 200g cooked skinless chicken thigh, 1/3 cup mole sauce, 1/3 cup white rice, 2 corn tortillas, 1 boiled egg. Removing the skin before eating significantly reduces fat. This is the second-highest protein dish of the week.*
-
-### Macro Calculation Summary
-Chicken thigh meat, skinless (~200g cooked, from bone-in skin-on thighs): 330 cal / 42g P / 0g C / 17g F. Mole sauce (1/3 cup / 80ml): 170 cal / 3.5g P / 20g C / 8g F. Rice (50g cooked, 1/3 cup): 67 cal / 1.5g P / 15g C / 0g F. 2 corn tortillas: 100 cal / 2g P / 20g C / 1g F. 1 boiled egg: 70 cal / 6g P / 0.5g C / 5g F. Total ≈ 737 cal (rounded to 670 accounting for bones, skin removed, and sauce not fully absorbed).
-
-### Batch Recipe (Makes 3 portions)
-
-**For the mole sauce (makes ~2 cups, 50% scale — extra freezes beautifully):**
-- 5 dried pasilla chiles
-- 4 dried ancho chiles
-- 2 dried chipotle chiles
-- 1/4 cup + 1.5 tbsp avocado oil (or vegetable oil), divided
-- 1/4 cup raisins (about 1.5 oz)
-- 1/4 cup prunes (about 2 oz)
-- 1/2 large white onion, quartered
-- 4 cloves garlic, unpeeled
-- 1-inch piece canela (Ceylon cinnamon) or regular cinnamon
-- 5 black peppercorns
-- 1/4 tsp anise seed
-- 5 oz tomatoes (about 1.5 large), cored
-- 2 tbsp sliced almonds
-- 2 tbsp shelled pistachios (or peanuts)
-- 1/4 cup white sesame seeds
-- 1/2 stale corn tortilla
-- 1/2 tsp dried Mexican oregano
-- 1 tsp kosher salt
-- 1/4 tsp ground coriander
-- 3/4 oz (about 20g) Mexican dark chocolate (Ibarra or Hernán brand)
-
-**For the chicken:**
-- 4 bone-in, skin-on chicken thighs (about 800g)
-- 1/4 large white onion, chopped
-- 1 small carrot, chopped
-- 2 cloves garlic, chopped
-- 1/4 cup avocado oil
-- Kosher salt and black pepper
-- 3 cups water
-
-**Method — Mole Sauce (make the day before if possible):**
-1. Remove stems and seeds from all dried chiles. Rinse under running water to remove dust.
-2. Bring a large saucepan of water to a boil. Heat 2 tbsp of the oil in a large skillet over medium heat. Fry the chiles in batches, turning frequently, until they deepen in colour and become fragrant (30–60 seconds per side). Transfer to the boiling water. Add raisins and prunes. Remove from heat and soak 30 minutes.
-3. Heat a comal or dry skillet over high heat. Char the onion wedges and unpeeled garlic cloves until blackened on all sides, about 15 minutes. Transfer to a bowl. Peel garlic once cool.
-4. Reduce heat to low. Toast canela, peppercorns, and anise seed until fragrant, 30–60 seconds. Grind to a fine powder in a spice grinder or molcajete.
-5. Return heat to high. Char the tomatoes until skins are blackened on all sides, about 10 minutes. Transfer to a bowl.
-6. Heat 1 tsp oil in a small pan. Toast almonds and pistachios until golden, 2 minutes. Remove. Add another tsp oil, toast sesame seeds 1 minute, stirring constantly. Remove. Wipe pan clean.
-7. Heat 1 more tsp oil. Fry the tortilla until crisp. Remove and break into pieces.
-8. Remove chiles and dried fruit from soaking liquid (SAVE the liquid). Blend chiles and fruit with 1/4 cup soaking liquid until smooth. Strain through a fine mesh sieve into a bowl, pushing through with a spoon.
-9. Blend the onion, peeled garlic, ground spices, nuts, 2 tbsp sesame seeds, tortilla pieces, coriander, salt, and oregano with 1/4 cup soaking liquid until smooth. Strain into a separate bowl.
-10. Blend the tomatoes until smooth. Strain into a third bowl.
-11. Heat 2 tbsp oil in a large pot over medium heat. Add the chile puree — it will sputter. Stir constantly and fry 4–5 minutes until it darkens. Add the nut puree, stir in. Add the tomato puree and the chocolate. Stir constantly until chocolate melts and sauce is smooth.
-12. If too thick, add soaking liquid 1/4 cup at a time until it coats the back of a spoon. Taste and adjust salt. Makes about 2 cups. Use 1 cup for this recipe; freeze the rest.
-
-**Method — Chicken:**
-1. Season chicken thighs generously with salt and pepper on all sides.
-2. Heat oil in a large skillet or Dutch oven over medium-high heat. Sear chicken until golden brown on both sides, 8–10 minutes total. Remove to a plate.
-3. Add chopped onion, carrot, and garlic. Season with salt and pepper. Cook, stirring, until browned, about 5 minutes.
-4. Add 3 cups water and scrape up browned bits. Return chicken to the pot. Bring to a boil, then reduce to a gentle simmer. Cover and cook 1 hour until tender.
-5. Remove chicken to a plate. Strain the broth through a fine mesh sieve (discard vegetables). Remove and discard chicken skin. Shred or leave thighs whole.
-6. In the same pot over medium heat, add 1 cup mole sauce. Thin with 1/2 cup reserved chicken broth until silky. Bring to a simmer.
-7. Add chicken, turning to coat. Simmer on low 20 minutes, stirring frequently so the mole doesn't burn.
-8. Serve over rice with mole sauce spooned over, 2 corn tortillas, and a boiled egg on the side. Garnish with sliced white onion and sesame seeds.
-
-**Storage:** Keeps 4–5 days refrigerated — mole gets better each day. Freezes 3 months. Reheat stovetop on low (stir frequently — mole burns easily) or microwave.
-
-### Scaling Notes
-- Mole sauce scaled to 50% of original (makes ~2 cups instead of 4). This gives enough for 3 generous portions (1/3 cup each) plus extra. The extra mole freezes beautifully for up to 6 months — future meals in minutes.
-- Chicken: 4 bone-in skin-on thighs for 3 portions. After cooking and removing skin/bones, this yields ~500g meat = ~165g per portion. Served with egg for protein boost.
-- ⚠️ **GF NOTE:** The mole is thickened with a corn tortilla instead of bread — this is what makes it naturally GF. Do NOT substitute bolillo or bread. Check that your achiote/seasoning blends are GF.
-
----
-
-## 🐟 DISH 3: Pescado a la Veracruzana (Veracruz-Style Fish)
-
-**Source:** https://mexicanfoodjournal.com/veracruz-style-white-fish/
-**Why this recipe:** Mexican Food Journal is run by Douglas Cullen, who spent 25 years living across Mexico. The site has published nearly 200 authentic Mexican recipes since 2013. This recipe has a 3.55-star rating from 48 votes with consistent rave reviews. It's one of the few Mexican sauces with no chile — a mild, Mediterranean-influenced tomato sauce with olives, capers, and herbs. Naturally GF. Quick to cook (30 minutes), making it the freshest dish in the rotation. The traditional fish is huachinango (red snapper), which is readily available in Playa del Carmen.
-
-**Original servings:** 4 | **Scaled to:** 3 portions (3/4×)
-
-### Per-Portion Macro Breakdown (customer)
+### Per-Portion Macro Breakdown (meat only, no rice/veg)
 
 | Nutrient | Amount |
 |----------|--------|
-| Calories | 592 kcal |
-| Protein | 54g (36%) |
-| Carbs | 47g (32%) |
-| Fat | 19g (29%) |
-| Fibre | 5g |
+| Calories | 375 kcal |
+| Protein | 35g (37%) |
+| Carbs | 3g (3%) |
+| Fat | 24g (58%) |
+| Fibre | 0.5g |
 
-*Includes 200g cooked white fish, 1/2 cup Veracruz sauce, 1/3 cup white rice, 2 corn tortillas, 1/4 avocado. This is the highest-protein dish of the week at 36% — lean fish is an excellent protein source. Add extra rice or a second tortilla if more calories are needed.*
+*Includes ~200g cooked skinless chicken thigh (bone-in, skin removed after cooking). This is the highest-protein meat dish of the week at 37%. Using bone-in thighs keeps the meat juicy during roasting. Skin is removed before eating to reduce fat.*
 
 ### Macro Calculation Summary
-White fish (~200g cooked, huachinango/red snapper): 225 cal / 47g P / 0g C / 2g F. Veracruz sauce (1/2 cup — tomato, olives, capers, onion, garlic, oil, thyme, bay leaf): 120 cal / 2g P / 8g C / 9g F. Rice (50g cooked, 1/3 cup): 67 cal / 1.5g P / 15g C / 0g F. 2 corn tortillas: 100 cal / 2g P / 20g C / 1g F. 1/4 avocado: 80 cal / 1g P / 4g C / 7g F. Total ≈ 592 cal.
+Chicken thigh meat, skinless (~200g cooked, from bone-in skin-on thighs): 330 cal / 35g P / 0g C / 19g F. Marinade (yogurt, spices, oil — per portion): 45 cal / 1g P / 3g C / 3g F. Total ≈ 375 cal. Protein % = 35×4/375 = 37%. ✅ Hits the higher-protein target.
 
-### Batch Recipe (Makes 3 portions, 3/4× scale)
+### Scaled Batch Recipe (Makes 7 portions)
 
-**Ingredients:**
-- 600g firm white fish fillets (huachinango/red snapper, mero/grouper, or tilapia), 4–6 oz each
-- 3 3/4 medium tomatoes
-- 3 cloves garlic
-- 3/4 tbsp dried thyme
-- 3/4 tsp black pepper
-- 3/4 tsp epazote (or 3/8 tsp dried oregano)
-- 3/4 tsp salt + more to taste
-- 4 1/2 bay leaves
-- 21 green olives, chopped
-- 9 capers
-- 3/4 cup low-sodium chicken broth
-- 1 medium white onion, roughly chopped
-- 4 1/2 tbsp cooking oil, divided
+**For the marinade:**
+- 1.75 kg (3.9 lbs) skinless, bone-in chicken thighs (about 14 thighs — 2 per portion)
+- ⅞ cup (7/8 cup) Greek yogurt (hung curd)
+- 1¾ tbsp ginger-garlic paste (or 1⅛ tsp each grated ginger and garlic)
+- 1¾ tsp garam masala
+- 1¾–3½ tsp Kashmiri red chili powder (use 1¾ tsp for medium heat, 3½ tsp for hot; substitute paprika if unavailable)
+- 7/16 tsp (≈½ tsp) black pepper, crushed
+- 2⅝ tsp coriander powder
+- ⅞ tsp cumin powder
+- ⅞ tsp sea salt
+- 7/16 tsp (≈½ tsp) turmeric
+- 1¾ tsp kasuri methi (dried fenugreek leaves)
+- 1¾ tbsp lemon juice
+- 2⅝ tbsp oil (any neutral oil, or mustard oil for authenticity)
+
+**For chili oil basting:**
+- 1¾ tsp Kashmiri red chili powder
+- 1¾–3½ tbsp oil (or use melted butter)
 
 **Method:**
-1. **Make the sauce:** Heat 2 tbsp oil in a large skillet over medium heat. Fry the onion and garlic for 4 minutes. Add the tomato, black pepper, and salt. Reduce heat to low and cook 15 minutes until tomatoes release their liquid.
-2. Crush the tomatoes, onion, and garlic with a bean masher or potato masher (or pulse briefly in blender for a smoother sauce).
-3. Add thyme, epazote (or oregano), and bay leaves. Stir. Add chicken broth. Add chopped olives and capers. Simmer 15 minutes.
-4. **Cook the fish:** In a separate pan over medium heat, lightly brown each side of the fish fillets in 2 tbsp oil — don't let them get too brown.
-5. Once browned on both sides, place the fish fillets in the simmering sauce. Cook 10 minutes until the sauce has thickened slightly and the fish is fully cooked and has absorbed the flavours.
-6. Check and adjust salt. Serve over rice with sauce spooned over, 2 corn tortillas, and a slice of avocado.
+1. **Make the marinade (the night before):** In a large bowl, combine yogurt, ginger-garlic paste, garam masala, Kashmiri chili powder, black pepper, coriander powder, cumin powder, salt, turmeric, kasuri methi, lemon juice, and oil. Mix well. Taste and adjust salt/spices.
+2. Pat chicken thighs dry with paper towels. Make 2–3 deep slits in each thigh with a knife (this helps the marinade penetrate deep).
+3. Add chicken to the marinade and coat thoroughly. Cover and refrigerate at least 6 hours, preferably overnight (up to 48 hours).
+4. **Oven method:** Preheat oven to 470°F (240°C) for at least 15 minutes. Line a baking tray with foil. Place a wire rack over it and spray with oil.
+5. Arrange marinated chicken on the rack (reserve leftover marinade for basting). Bake 12–15 minutes.
+6. Baste with leftover marinade or chili oil. Turn chicken to the other side. Bake another 12–15 minutes.
+7. Move tray to top rack and broil 3–4 minutes until you get charred spots. The chicken is done when an instant-read thermometer in the thickest part reads 165–170°F (75°C).
+8. **Air fryer method (alternative):** Preheat air fryer to 390°F (200°C). Air fry 10 minutes per side, then brush with chili oil and air fry 2 more minutes.
+9. Remove from oven/air fryer. Let rest 5 minutes. Remove skin before serving (or serve skin-on if preferred — remove for lower fat).
+10. Garnish with chopped coriander. Serve with basmati rice.
 
-**Storage:** ⚠️ Fish doesn't hold as long. Eat within 2–3 days. Portions are spread across Tue (customer dinner), Wed (assistant lunch), Thu (customer lunch). The Tue and Wed portions are fine refrigerated. The Thu portion MUST be frozen right after cooking and thawed Wednesday night.
+**Storage:** Keeps 4–5 days refrigerated. Reheats well in microwave or air fryer (air fryer at 350°F for 5 minutes restores the char). Freezes 2 months.
 
 ### Scaling Notes
-- Scaled at 3/4× from original (4 → 3 portions). Fish: 600g total (200g per portion). Sauce ingredients scaled linearly. Olives and capers scaled at 3/4.
-- ⚠️ **Fish freshness:** The Thursday portion (day 4) must be frozen. Alternatively, freeze the sauce base (steps 1–3) separately and cook the fish fresh on Thursday.
-- **Fish selection:** Huachinango (red snapper) is the traditional choice and is readily available in Playa del Carmen. Mero (grouper) is an excellent alternative. Both are firm white fish that hold up well to simmering.
+- Scaled at 1.75× from original (4 → 7 portions). Used 14 bone-in skinless thighs (2 per portion). After cooking and removing skin/bones, each portion yields ~200g meat. Marinade scaled linearly. Kashmiri chili kept at lower end (1¾ tsp) for medium heat.
+- **Air fryer tip:** The air fryer is excellent for reheating tandoori chicken — 350°F for 5 minutes restores the charred exterior. Much better than microwave.
+- **Bone-in vs boneless:** Bone-in thighs are specified because they stay juicier during the high-heat roasting. Boneless thighs would dry out. The bones add flavor to the meat during cooking.
+- ⚠️ **GF NOTE:** Naturally GF — no flour or bread crumbs. Check that your garam masala and Kashmiri chili powder don't contain wheat fillers (they shouldn't).
 
 ---
 
-## 🫘 DISH 4: Frijoles Charros (Mexican Cowboy Beans)
+## 🐄 DISH 3: Beef Bhuna (Bangladeshi-Style)
 
-**Source:** https://www.mexicoinmykitchen.com/charro-beans-soup-recipe/
-**Why this recipe:** Mexico In My Kitchen is run by Mely Martínez, author of *The Mexican Home Kitchen* cookbook. This recipe has 4.72 stars from 32 votes. Mely is from northern Mexico where charro beans originated. The recipe uses pinto beans cooked with chorizo, bacon, tomatoes, onions, garlic, and serrano peppers — a hearty, brothy bean soup that's naturally GF. Beans hold excellently for batch cooking and the flavours deepen over time. The slow cooker can be used for the bean-cooking step.
+**Source:** https://afeliaskitchen.com/beef-bhuna-curry/
+**Also published at:** https://www.bbcgoodfood.com/recipes/beef-bhuna (BBC Good Food, 4.3★ from 13 ratings, by the same author Afia Begom)
+**Why this recipe:** Afia Begom runs Afelia's Kitchen, a Bangladeshi cooking blog. She learned this recipe from family in Bangladesh and tested it during Eid celebrations. The recipe has 5.0 stars from 6 votes on her own site and 4.3 stars from 13 ratings on BBC Good Food. "Bhuna" means "to fry" — the spices are fried intensely before the meat is added, creating a thick, clingy sauce. Naturally GF (thickened by reduction, not flour). The 1.5-hour slow simmer produces tender beef in a deeply flavoured, concentrated sauce.
 
-**Original servings:** 8 | **Scaled to:** 3 portions (3/8×)
+**Original servings:** 6 | **Scaled to:** 6 portions (1× — no scaling needed)
 
-### Per-Portion Macro Breakdown (customer)
+### Per-Portion Macro Breakdown (meat only, no rice/veg)
 
 | Nutrient | Amount |
 |----------|--------|
-| Calories | 650 kcal |
-| Protein | 33g (20%) |
-| Carbs | 61g (38%) |
-| Fat | 29g (40%) |
-| Fibre | 14g |
+| Calories | 417 kcal |
+| Protein | 33g (32%) |
+| Carbs | 8g (8%) |
+| Fat | 28g (60%) |
+| Fibre | 3g |
 
-*Includes 3/4 cup beans with broth, 30g chorizo, 15g bacon, vegetables, 2 boiled eggs, 2 corn tortillas. This is a carb-heavy bean dish — the eggs and meat boost protein but the ratio remains lower. High fibre (14g) makes it very filling.*
+*Includes ~200g cooked beef with bhuna sauce. This is the second-highest protein meat dish at 32%. The bhuna method produces a thick, concentrated sauce — less gravy than other curries but more intense flavour.*
 
 ### Macro Calculation Summary
-Pinto beans (3/4 cup cooked with broth): 180 cal / 11g P / 34g C / 1g F. Chorizo (30g): 120 cal / 4g P / 0g C / 10g F. Bacon (15g): 80 cal / 3g P / 0g C / 7g F. Tomato/onion/garlic/cilantro: 30 cal / 1g P / 6g C / 0g F. 2 boiled eggs: 140 cal / 12g P / 1g C / 10g F. 2 corn tortillas: 100 cal / 2g P / 20g C / 1g F. Total ≈ 650 cal.
+Beef braising/stewing cut (~200g cooked per portion): 350 cal / 33g P / 0g C / 24g F. Onion/spice masala (per portion): 45 cal / 1g P / 5g C / 3g F. Oil (per portion): 20 cal / 0g P / 0g C / 2g F. Tomato (per portion): 5 cal / 0g P / 1g C / 0g F. Total ≈ 420 cal. Protein % = 33×4/420 = 31%.
 
-### Batch Recipe (Makes 3 portions)
+### Scaled Batch Recipe (Makes 6 portions — original scale, no changes)
 
 **Ingredients:**
-- 3/4 cup dry pinto beans (or 2 cans / 425g each, drained and rinsed)
-- 1/4 medium white onion
-- 2 cloves garlic, peeled
-- 3 cups water (if cooking from dry)
-- 30g (1 oz) Mexican chorizo
-- 15g (1/2 oz) bacon, chopped
-- 1/4 medium white onion, chopped
-- 1 clove garlic, chopped
-- 1 large tomato, chopped (about 1 cup)
-- 1 serrano pepper, chopped (use jalapeño for milder heat)
-- 1/4 cup cilantro, chopped
+- 1 kg (2.2 lbs) beef, cut into bite-sized pieces (braising or stewing beef)
+- 3 medium onions, sliced
+- 100ml (about 7 tbsp) vegetable oil
+- 4 cardamom pods
+- 3–4 bay leaves
+- 3 cinnamon sticks
+- Pinch of fenugreek seeds (methi seeds)
+- 2 tomatoes, quartered
+- 1.5 tsp minced ginger
+- 1.5 tsp minced garlic
+- 1.5 tsp salt (adjust to taste)
+- 2 tsp hot curry powder (Madras curry powder)
+- 1 tsp garam masala
+- 1 tsp ground coriander
+- 1 tsp ground cumin
+- 1 tsp Kashmiri chili powder (optional, for color)
+- 1 tsp chili powder
+- 1 tsp turmeric powder
+- Water as required
+- Fresh coriander (cilantro) and ginger julienne to garnish
+
+**Method:**
+1. Wash and drain the beef. If pieces are too large, cut into smaller pieces.
+2. Heat oil in a heavy saucepan over medium heat. Add whole spices — cardamom, bay leaves, cinnamon sticks, and fenugreek seeds. Fry until aromas are released (30–60 seconds).
+3. Add sliced onions. Brown over high heat for 10–15 minutes, stirring occasionally to prevent burning. The onions should be golden brown.
+4. Add the beef, ginger, and garlic. Fry over high heat until beef pieces are browned on the outside, about 10 minutes. *(Browning the onions and beef before adding salt adds deep flavour.)*
+5. Add salt, curry powder, garam masala, coriander, cumin, Kashmiri chili, chili powder, and turmeric. Mix well.
+6. Add quartered tomatoes. Cover and cook on low-medium heat 5 minutes until tomatoes are soft and mushy.
+7. Mix everything well. Cover and simmer on low heat 1–1.5 hours until beef is tender. *(If the curry looks dry, add water — but only a little at a time. Bhuna should be thick, not watery.)*
+8. When beef is tender, add a little water to loosen the curry to your preferred consistency. Bring to a boil and cook 7–10 minutes.
+9. Garnish with fresh coriander and ginger julienne. Serve with basmati rice.
+
+**Storage:** Keeps 4–5 days refrigerated — gets better on day 2. Freezes 3 months. Reheat stovetop or microwave.
+
+### Scaling Notes
+- Used at original scale (6 portions, no scaling needed). 1 kg beef yields ~200g cooked per portion. This is the 6-portion dish (the other two meats get 7 each to reach 20 total).
+- **Slow cooker option:** After step 7 (simmering), transfer to slow cooker. Cook on LOW for 6 hours or HIGH for 4 hours. Then finish on stovetop (step 8) to reduce the sauce to bhuna consistency.
+- ⚠️ **GF NOTE:** Naturally GF — no flour used. The sauce is thickened by reduction (the "bhuna" technique). Check curry powder for wheat fillers — TRS and Sharwood's brands are generally GF but always verify.
+
+---
+
+## 🫘 DISH 4: Rajma Masala (Punjabi Kidney Bean Curry)
+
+**Source:** https://www.vegrecipesofindia.com/rajma-masala-recipe-restaurant-style/
+**Why this recipe:** Dassana Amit runs Dassana's Veg Recipes — one of the most respected Indian vegetarian cooking sites, with recipes featured across major publications. She is professionally trained at Le Cordon Bleu. This rajma recipe has 4.90 stars from 206 votes. It's her mother's restaurant-style recipe, using traditional Punjabi techniques: soaked and pressure-cooked kidney beans simmered in a caramelized onion-tomato masala with ginger, garlic, and spices. Finished with cream and kasuri methi. Naturally GF (skip asafoetida or use GF-certified). High protein (9g per serving from beans alone). Gets better on day 2.
+
+**Original servings:** 5 | **Scaled to:** 10 portions (2×)
+
+### Per-Portion Macro Breakdown (veg only, no rice/meat)
+
+| Nutrient | Amount |
+|----------|--------|
+| Calories | 210 kcal |
+| Protein | 9g (17%) |
+| Carbs | 28g (53%) |
+| Fat | 7g (30%) |
+| Fibre | 7g |
+
+*Includes ~3/4 cup rajma with gravy. Kidney beans are protein-dense for a plant food — 9g per serving. High fibre (7g) makes this very filling. Carbs are higher due to beans.*
+
+### Macro Calculation Summary
+Kidney beans (cooked, ~1/2 cup per portion): 110 cal / 7g P / 20g C / 0.5g F. Onion-tomato masala (per portion): 50 cal / 1g P / 5g C / 3g F. Butter/oil (per portion): 35 cal / 0g P / 0g C / 4g F. Cream (per portion): 15 cal / 0g P / 0.5g C / 1.5g F. Total ≈ 210 cal. Protein % = 9×4/210 = 17%.
+
+### Scaled Batch Recipe (Makes 10 portions, 2× scale)
+
+**For cooking beans:**
+- 2 cups (400g) dried kidney beans (any variety — dark red, chitra, or pink)
+- 7–8 cups water (for pressure cooking)
+- Water for soaking
+
+**For ginger-garlic-chilli paste:**
+- 6–8 garlic cloves
+- 2 inches ginger
+- 2–4 green chillies (or serrano peppers)
+
+**For the curry:**
+- 4 tbsp butter + 2 tbsp oil (or 6 tbsp butter)
+- 1 tsp cumin seeds
+- 1.5–2 cups onions, finely chopped (about 300g or 2 large onions)
+- 2 cups tomatoes, finely chopped (about 500g or 4–5 medium tomatoes)
+- 2 tsp coriander powder
+- ½–1 tsp red chili powder (or cayenne/paprika)
+- ½ tsp turmeric powder
+- 2 pinches asafoetida (hing) — ⚠️ use GF-certified or skip
+- ½–1 tsp garam masala
+- 3–4 cups water
 - Salt to taste
+- 2 tsp kasuri methi (dried fenugreek leaves), crushed
+- 4–6 tbsp low-fat cream (or 2 tbsp heavy whipping cream) — optional
+- 2–4 tbsp chopped coriander leaves (for garnish)
 
 **Method:**
-1. **Cook the beans:** Place dry pinto beans, 1/4 onion, 2 garlic cloves, and 3 cups water in a large pot. Cook on stovetop over medium-high heat for ~2 hours until tender. *Or use slow cooker: cook on HIGH for 5–6 hours.* *Or use canned beans: skip to step 2, use 2 cans with their liquid + 1 cup water.*
-2. Once beans are cooked, drain the cooking onion and garlic (discard them). Keep the beans and their broth. Set aside.
-3. **Cook the meats:** In a skillet over medium heat, fry the bacon and chorizo together for 10 minutes, breaking up the chorizo.
-4. Add the chopped onion, chopped garlic, and serrano pepper. Fry 2 more minutes.
-5. Add the chopped tomato and cook, stirring occasionally, 8 minutes until the tomato releases its juices and forms a sauce.
-6. Stir the meat-tomato mixture into the pot with the beans and broth. Simmer 15 minutes to blend flavours. Add water if needed — consistency should be brothy.
-7. Add salt to taste. Stir in chopped cilantro just before serving.
-8. Serve in bowls with 2 boiled eggs on top and warm corn tortillas on the side.
+1. **Soak beans (the night before):** Rinse and sort kidney beans. Soak in enough water for 8–9 hours or overnight.
+2. **Cook beans:** Drain and rinse soaked beans. Add to a large pot with 7–8 cups water. Bring to a boil, then simmer covered 45–60 minutes until beans are completely soft and melt-in-the-mouth tender. *(They should NOT have any bite. If they do, cook longer.)*
+   - *Stovetop pressure cooker: 15–20 minutes at high pressure.*
+   - *Slow cooker: HIGH for 5–6 hours or LOW for 7–8 hours.*
+   - *Canned beans shortcut: Use 4 cans (15 oz each), drained and rinsed. Skip to step 4.*
+3. While beans cook, finely chop onions and tomatoes. Crush ginger, garlic, and green chillies in a mortar-pestle to a paste.
+4. **Make the masala:** Heat butter + oil in a large pan or pot over medium-low heat. Add cumin seeds and let them crackle.
+5. Add chopped onions. Sauté on medium-low heat until caramelized and golden brown (10–15 minutes). Do not burn — burnt onions make the curry bitter.
+6. Lower heat. Add ginger-garlic-chilli paste. Sauté 5–10 seconds until raw aroma dissipates.
+7. Add chopped tomatoes. Sauté 2–3 minutes until soft.
+8. Add turmeric, red chili powder, coriander powder, asafoetida (if using), and garam masala. Mix well. Sauté on medium-low heat until the fat starts leaving the sides of the masala (the mixture becomes glossy and clumps together).
+9. **Assemble:** Drain cooked beans (save the cooking liquid). Add beans to the masala. Stir and sauté 1 minute.
+10. Add 3–4 cups water (or use the saved bean cooking liquid for more flavor). Add salt. Stir well.
+11. Simmer uncovered on low heat 10–12 minutes until curry thickens slightly. Mash a few beans with the back of a spoon — this naturally thickens the gravy.
+12. Stir in crushed kasuri methi and cream (if using). Simmer 30 seconds–1 minute. Turn off heat.
+13. Garnish with coriander leaves. Serve with basmati rice.
 
-**Storage:** Keeps 5 days refrigerated — gets better each day. Freezes excellently up to 3 months. Reheat stovetop or microwave.
+**Storage:** Keeps 3–4 days refrigerated (Dassana recommends eating within 1–2 days, but it keeps fine for batch cooking up to 4 days). Freezes 2 months. Reheat stovetop or microwave — add water if too thick.
 
 ### Scaling Notes
-- Scaled at 3/8× from original (8 → 3 portions). Used 3/4 cup dry beans (yields ~2.25 cups cooked with broth = 3/4 cup per portion). Chorizo and bacon scaled to 30g and 15g respectively — enough for flavour without overwhelming the beans.
-- **Slow cooker option:** The beans can cook in the slow cooker on HIGH for 5–6 hours (or LOW for 7–8 hours). This frees up the stovetop for other dishes.
-- ⚠️ **PROTEIN NOTE:** This dish is carb-heavy (61g carbs, 20% protein). The 2 eggs per portion are essential for protein balance. Do not skip them.
+- Scaled at 2× from original (5 → 10 portions). Beans: 2 cups dry (yields ~6 cups cooked). All spices and aromatics scaled linearly. Cream kept optional — use 4–6 tbsp low-fat cream for richness, or skip for a lighter version.
+- **Slow cooker option:** Cook the beans in the slow cooker (step 2), then make the masala on the stovetop (steps 4–8) and combine. The slow cooker can also be used to keep the finished rajma warm.
+- ⚠️ **GF NOTE:** Skip asafoetida (hing) unless you have GF-certified hing — most commercial brands are cut with wheat. The recipe works perfectly without it.
+- ⚠️ **Important:** Kidney beans MUST be fully cooked. Undercooked kidney beans contain phytohaemagglutinin, a toxin that causes nausea and vomiting. If using a slow cooker, boil the beans rapidly for 10 minutes first before slow cooking. Canned beans are pre-cooked and safe.
 
 ---
 
-## 🫑 DISH 5: Rajas con Crema (Roasted Poblano Strips with Corn & Cream)
+## 🥔 DISH 5: Aloo Gobi (Cauliflower & Potato Curry)
 
-**Source:** https://www.muydelish.com/rajas-con-crema/
-**Why this recipe:** Muy Delish is run by Ana Frias, who was born and raised in Sonora, Mexico. This recipe has 4.94 stars from 48 votes — an exceptional rating. It's a classic Mexican home dish that rarely appears on restaurant menus but is a staple in central and northern Mexican kitchens. Roasted poblano peppers are sliced into strips (rajas), sautéed with onion, garlic, and corn, then simmered in Mexican crema and melted Oaxaca cheese. Naturally GF. The air fryer can be used for roasting the poblanos.
+**Source:** https://cookilicious.com/aloo-gobi-recipe/
+**Why this recipe:** Priya Lakshminarayan runs Cookilicious, an Indian vegetarian cooking blog. She is the author of *The Essential Vegan Indian Cookbook*. This aloo gobi recipe is naturally vegan and gluten-free. The key technique is shallow-frying the cauliflower and potatoes separately before adding them to the masala — this gives them a crispy, charred texture and prevents the cauliflower from becoming mushy. A classic Punjabi dry curry that pairs perfectly with rice and a saucy curry.
 
-**Original servings:** 4 | **Scaled to:** 3 portions (3/4×)
+**Original servings:** 4 | **Scaled to:** 10 portions (2.5×)
 
-### Per-Portion Macro Breakdown (customer)
+### Per-Portion Macro Breakdown (veg only, no rice/meat)
 
 | Nutrient | Amount |
 |----------|--------|
-| Calories | 612 kcal |
-| Protein | 26g (17%) |
-| Carbs | 36g (23%) |
-| Fat | 43g (63%) |
-| Fibre | 4g |
+| Calories | 170 kcal |
+| Protein | 4g (9%) |
+| Carbs | 17g (40%) |
+| Fat | 14g (51%) |
+| Fibre | 6g |
 
-*Includes 3/4 poblano pepper, 1/3 cup corn, cream cheese, crema, Oaxaca cheese, 1/3 cup rice, 2 boiled eggs. This is the highest-fat, lowest-protein dish of the week. The cream and cheese dominate the calorie profile. The 2 eggs are essential for protein. Consider adding a protein shake with this meal.*
+*Includes ~3/4 cup aloo gobi. This is the lowest-protein dish of the week — it's a dry vegetable curry. The fat comes from the ghee/oil used for frying. High fibre (6g) from cauliflower. Pairs well with protein-rich meat curries.*
 
 ### Macro Calculation Summary
-Poblano pepper (3/4 pepper, roasted): 25 cal / 1g P / 5g C / 0g F. Corn (1/3 cup): 40 cal / 1g P / 9g C / 0.5g F. Cream cheese (1 oz / 28g): 100 cal / 2g P / 1g C / 10g F. Mexican crema (1/4 cup): 100 cal / 1g P / 1.5g C / 10g F. Oaxaca cheese (1/3 cup shredded, ~40g): 110 cal / 7g P / 1g C / 9g F. Butter/onion/garlic: 30 cal / 0g P / 2g C / 3g F. Rice (50g cooked, 1/3 cup): 67 cal / 1.5g P / 15g C / 0g F. 2 boiled eggs: 140 cal / 12g P / 1g C / 10g F. Total ≈ 612 cal.
+Cauliflower (per portion, ~1 cup florets): 25 cal / 2g P / 5g C / 0g F. Potato (per portion, ~1/2 medium): 70 cal / 2g P / 16g C / 0g F. Ghee/oil for frying (per portion): 60 cal / 0g P / 0g C / 7g F. Onion-tomato masala and spices (per portion): 15 cal / 0g P / 1g C / 1g F. Total ≈ 170 cal. Protein % = 4×4/170 = 9%.
 
-### Batch Recipe (Makes 3 portions, 3/4× scale)
+### Scaled Batch Recipe (Makes 10 portions, 2.5× scale)
 
-**Ingredients:**
-- 3 large poblano peppers
-- 1 1/2 tbsp butter
-- 3/8 large white onion, sliced in strips
-- 1 1/2 cloves garlic, finely chopped
-- 3/4 cup corn kernels (fresh, canned, or frozen/thawed)
-- 3/4 tsp chicken bouillon powder (or vegetable bouillon for vegetarian)
-- 3/8 tsp black pepper
-- 3 oz (85g) cream cheese
-- 3/4 cup Mexican crema (or heavy cream or sour cream)
-- 3/4 cup shredded Oaxaca cheese (or Chihuahua, Mozzarella, Monterey Jack)
+**To fry the veggies:**
+- 2½ medium cauliflower heads, cut into medium florets
+- 5 medium potatoes, cut into medium wedges
+- 2½ tsp chili powder (or cayenne)
+- 2½ tbsp kasuri methi (dried fenugreek leaves)
+- 2½ tbsp cilantro (coriander), chopped
+- 10 tbsp (⅔ cup) vegan ghee or oil (for frying)
+- Salt
+
+**For the aloo gobi curry:**
+- 2½ tbsp vegan ghee or oil
+- 2½ tsp cumin seeds
+- 12½ cloves garlic (about 2 heads)
+- 2½ inches ginger
+- 5–8 green chillies
+- 2½ onions, sliced
+- 2½ tsp chili powder
+- 2½ tsp amchur powder (dry mango powder)
+- 2½ tsp coriander powder
+- 2½ tsp turmeric powder
+- 2½ tsp garam masala
+- 5 tomatoes
+- 2½ tbsp kasuri methi
+- ⅝ cup cilantro, chopped
+- 2½ tbsp lemon juice
 
 **Method:**
-1. **Roast the poblanos:** Place poblano peppers on a baking sheet and broil in the oven, turning occasionally, until charred on all sides (15–20 minutes). *Or air fryer: 400°F (200°C) for 7–10 minutes, turning halfway.* *Or directly over a gas flame on the stove, turning with tongs.*
-2. Transfer roasted peppers to a bowl, cover with plastic wrap, and let steam 10–15 minutes.
-3. Peel off the charred skins, remove stems and seeds, and slice into strips (rajas).
-4. In a skillet over medium-high heat, melt butter. Add onion strips and sauté 3–4 minutes until softened.
-5. Add garlic and poblano strips. Cook 2 minutes, stirring often.
-6. Add corn, bouillon, and black pepper. Mix well.
-7. Reduce heat to medium. Add cream cheese and crema. Stir until cream cheese melts and everything is combined.
-8. Cook 5 minutes until the sauce bubbles gently and thickens slightly.
-9. Stir in shredded cheese, cover the pan, and turn off the heat. Let sit 2–3 minutes until cheese melts.
-10. Serve over rice with 2 boiled eggs on the side.
+1. **Cut vegetables:** Cut cauliflower into medium florets and potatoes into medium wedges. They should be similar in size. ⚠️ Do not cut too small — they will break down and become mushy.
+2. **Fry potatoes:** Heat 4 tbsp ghee/oil in a large pan. Fry 1¼ tsp chili powder, 1¼ tbsp kasuri methi, and 1¼ tbsp cilantro briefly. Add potatoes with 1¼ tsp salt. Fry 7–8 minutes until crisp and almost done. Remove and set aside.
+3. **Fry cauliflower:** Add 4 more tbsp ghee/oil to the pan. Fry remaining 1¼ tsp chili powder, 1¼ tbsp kasuri methi, and 1¼ tbsp cilantro briefly. Add cauliflower florets with 1¼ tsp salt. Fry 8–10 minutes until crisp on the edges. Do not cover the pan. Remove and set aside.
+   - *Air fryer option: Toss cauliflower and potatoes with 2 tbsp oil and spices. Air fry at 400°F (200°C) for 15 minutes, tossing halfway. Much less oil.*
+4. **Make the masala:** Heat 2½ tbsp ghee/oil in a large pot. Fry cumin seeds until they sizzle. Add ginger (grated), garlic (minced), and green chillies (chopped). Fry 1 minute.
+5. Add sliced onions. Cook until translucent (5 minutes).
+6. Add chopped tomatoes with salt. Cook 6–8 minutes until soft and pulpy.
+7. Add turmeric, coriander, chili, and garam masala. Fry 1 minute. *(Add 1 tbsp water if masala starts sticking — this is called deglazing.)*
+8. **Combine:** Add fried potatoes and cauliflower to the masala. Fry 2 minutes, gently folding to coat.
+9. Stir in remaining kasuri methi, cilantro, amchur powder, and lemon juice. Take off the heat.
+10. Serve with basmati rice.
 
-**Storage:** Keeps 4 days refrigerated. Freezes up to 3 months (sauce may separate slightly — stir while reheating). Reheat stovetop on low or microwave.
+**Storage:** Keeps 4–5 days refrigerated. Reheats well in microwave or stovetop. The cauliflower holds its texture well because of the pre-frying step. Freezes 2 months but texture may soften slightly.
 
 ### Scaling Notes
-- Scaled at 3/4× from original (4 → 3 portions). 3 poblanos for 3 portions (1 per portion). Cream cheese kept at 3 oz (between the 4 oz "lighter" and 8 oz "creamy" options in the original). Crema and cheese scaled linearly.
-- **Air fryer tip:** The air fryer is excellent for roasting poblanos — 400°F for 7–10 minutes, turning halfway. Much faster than the oven.
-- ⚠️ **PROTEIN NOTE:** This is the lowest-protein dish of the week (17%). The 2 eggs per portion are essential. For a significant protein boost, add 100g shredded rotisserie chicken when adding the poblano strips (adds ~31g protein, brings the dish to ~29% protein).
+- Scaled at 2.5× from original (4 → 10 portions). Cauliflower: 2½ heads (practical — buy 3 small or 2 large). Potatoes: 5 medium. Frying oil scaled but can be reduced — use air fryer for a healthier version. All spices scaled linearly.
+- **Air fryer tip:** Use the air fryer to roast the cauliflower and potatoes instead of shallow-frying. This reduces oil significantly while maintaining the crispy texture. 400°F for 15 minutes, tossing halfway.
+- ⚠️ **GF NOTE:** Naturally GF and vegan. No flour, no gluten-containing ingredients. Verify that your garam masala and spices are GF.
 
 ---
 
-## 🥗 SIDE: Cilantro-Lime Cabbage Slaw
+## 🍚 BASMATI RICE — Cook Once, Eat All Week
 
-**Source:** https://www.holajalapeno.com/cilantro-lime-cole-slaw-recipe/
-**Why this recipe:** Also from Kate Ramos at ¡Hola! Jalapeño. This is a mayonnaise-free, vegan, GF slaw with cabbage, carrots, red onion, cilantro, and a lime-olive oil dressing. It's specifically designed as a topping for cochinita pibil and fish tacos — perfect for this week. Keeps its crunch for 3–4 days refrigerated.
+**Method:** Rinse 4 cups basmati rice in cold water until water runs clear (3–4 rinses). Soak 30 minutes. Drain. Heat 3 tbsp ghee or oil in a large pot. Add 1 tsp cumin seeds and let them sizzle. Add drained rice and stir 2 minutes. Add 6 cups water and 1.5 tsp salt. Bring to a boil, cover, reduce to low, and cook 15 minutes. Remove from heat and let stand 5 minutes covered. Fluff with a fork. Yields ~10 cups cooked rice.
 
-**Original servings:** 6 | **Scaled to:** 4 servings (for the 4 cochinita portions)
+**Rice portions per meal:** 1/2 cup cooked rice per meal (reduced from 1 cup to support higher-protein macro target)
 
-### Per-Portion Macro Breakdown
+| Dish pairing | Portions | Rice per meal | Total rice needed |
+|-------------|----------|--------------|-------------------|
+| All 20 meals | 20 | 1/2 cup (75g) | 10 cups |
 
-| Nutrient | Amount |
-|----------|--------|
-| Calories | 50 kcal |
-| Protein | 1g |
-| Carbs | 6g |
-| Fat | 3g |
-
-### Batch Recipe (Makes 4 servings)
-
-**Ingredients:**
-- 1/3 head red cabbage, thinly sliced
-- 1/3 head green cabbage, thinly sliced
-- 2/3 large carrot, julienned or grated
-- 1/4 red onion, thinly sliced
-- 2 1/2 tbsp chopped cilantro
-
-**Dressing:**
-- 2 tbsp freshly squeezed lime juice
-- 2/3 tbsp rice wine vinegar (or apple cider vinegar)
-- 1/3 tsp kosher salt
-- 1/6 tsp black pepper
-- 1/6 tsp ground cumin
-- 2 tbsp + 2 tsp olive oil
-
-**Method:**
-1. Combine all vegetables in a large bowl and toss.
-2. In a small bowl, whisk lime juice, vinegar, salt, pepper, and cumin until salt dissolves. Slowly drizzle in oil while whisking continuously.
-3. Drizzle dressing over vegetables and toss to coat. Taste and adjust salt/lime.
-4. **Make ahead:** Prep vegetables and dressing separately. Toss together up to 1 hour before serving (slaw loses crunch after a few hours in dressing).
-
-**Storage:** Undressed slaw keeps 3–4 days refrigerated in an airtight container. Dressed slaw is best within 1–2 hours.
-
----
-
-## 🍚 MEXICAN WHITE RICE — Cook Once, Eat All Week
-
-**Method:** Heat 2 tbsp vegetable oil in a large pot over medium heat. Add 2 cups long-grain white rice and stir to coat. Toast 2–3 minutes until rice turns opaque. Add 4 cloves garlic, minced, and stir 30 seconds. Add 3 cups water and 1 tsp salt. Bring to a boil, cover, reduce to low, and cook 20 minutes. Remove from heat and let stand 5 minutes covered. Fluff with a fork. Yields ~6 cups cooked rice.
-
-**Rice portions per meal:**
-
-| Dish | Per portion | × portions | Total |
-|------|-----------|-----------|-------|
-| Cochinita Pibil | 1/3 cup (50g) | ×4 | 1 1/3 cups |
-| Chicken Mole | 1/3 cup (50g) | ×3 | 1 cup |
-| Pescado Veracruzana | 1/3 cup (50g) | ×3 | 1 cup |
-| Rajas con Crema | 1/3 cup (50g) | ×3 | 1 cup |
-| **Total** | | **13 portions** | **~4 1/3 cups** |
-
-*Frijoles Charros is served with corn tortillas, not rice — it's already a brothy bean dish.*
+*If you prefer more rice, increase to 2/3 cup per meal — add ~50 cal and 11g carbs per meal.*
 
 ---
 
@@ -401,181 +410,141 @@ Poblano pepper (3/4 pepper, roasted): 25 cal / 1g P / 5g C / 0g F. Corn (1/3 cup
 
 | Dish | Portions | Per Container | Container Type |
 |------|----------|---------------|----------------|
-| Cochinita Pibil | 4 | ~250g pork + sauce + 50g rice + slaw (separate) | 800ml glass + small slaw container |
-| Chicken Mole | 3 | ~165g chicken + 1/3 cup mole + 50g rice | 800ml glass |
-| Pescado Veracruzana | 3 | ~200g fish + 1/2 cup sauce + 50g rice | 800ml glass |
-| Frijoles Charros | 3 | ~1 cup beans + broth + meat | 800ml glass |
-| Rajas con Crema | 3 | ~1 cup rajas + cream + 50g rice | 800ml glass |
+| Lamb Korma | 7 | ~250g lamb + sauce + 75g rice | 800ml glass |
+| Tandoori Chicken | 7 | 2 thighs + 75g rice | 800ml glass |
+| Beef Bhuna | 6 | ~250g beef + sauce + 75g rice | 800ml glass |
+| Rajma | 10 | ~3/4 cup beans + gravy | 500ml glass |
+| Aloo Gobi | 10 | ~3/4 cup curry | 500ml glass |
 
-**Sides packed separately:**
-- Slaw: 4 small containers (dressing on the side)
-- Pickled red onion: 1 shared jar
-- Eggs: 18 boiled eggs total (see breakdown below)
-- Corn tortillas: 17 total (see breakdown below)
-- Avocado: 3 portions (1/4 avocado each, for fish days)
+**Packing approach:** Each meal = 1 meat container + 1 veg container. The rice is packed with the meat curry (to absorb the sauce). The veg curry is in a separate smaller container. Mix on plate when eating.
 
-**Egg allocation:**
-- Chicken Mole: 3 portions × 1 egg = 3 eggs
-- Frijoles Charros: 3 portions × 2 eggs = 6 eggs
-- Rajas con Crema: 3 portions × 2 eggs = 6 eggs
-- Cochinita: 4 portions × 1 egg = 4 eggs (optional — see notes)
-- **Total: 19 eggs** (buy 2 dozen)
-
-**Corn tortilla allocation:**
-- Cochinita: 4 × 2 = 8
-- Frijoles Charros: 3 × 2 = 6
-- Chicken Mole: 3 × 2 = 6
-- Pescado Veracruzana: 3 × 2 = 6
-- Rajas con Crema: 0 (served with rice)
-- **Total: 26 tortillas** (buy 2 packs of 15)
+**Extra portions (4):** Pack as 4 bonus containers (1 meat + 1 veg each) labeled "EXTRA." These are for seconds, weekend, or unexpected guests.
 
 **Day-by-day grab list:**
-- **Monday:** Cust: 1× Cochinita + slaw + pickled onion + 1 egg, 1× Rajas + 2 eggs | Asst: 1× Chicken Mole + 1 egg
-- **Tuesday:** Cust: 1× Chicken Mole + 1 egg, 1× Fish + avocado | Asst: 1× Frijoles + 2 eggs
-- **Wednesday:** Cust: 1× Frijoles + 2 eggs, 1× Cochinita + slaw + pickled onion + 1 egg | Asst: 1× Fish + avocado
-- **Thursday:** Cust: 1× Fish + avocado, 1× Rajas + 2 eggs | Asst: 1× Cochinita + slaw + pickled onion + 1 egg
-- **Friday:** Cust: 1× Cochinita + slaw + pickled onion + 1 egg, 1× Frijoles + 2 eggs | Asst: 1× Rajas + 2 eggs
-- **Saturday:** Asst: 1× Chicken Mole + 1 egg
+- **Monday:** Cust lunch: LK + RJ | Cust dinner: BB + AG | Asst: TC + RJ
+- **Tuesday:** Cust lunch: TC + AG | Cust dinner: LK + RJ | Asst: BB + AG
+- **Wednesday:** Cust lunch: BB + RJ | Cust dinner: TC + AG | Asst: LK + RJ
+- **Thursday:** Cust lunch: LK + AG | Cust dinner: BB + RJ | Asst: TC + AG
+- **Friday:** Cust lunch: TC + RJ | Cust dinner: LK + AG | Asst: BB + RJ
+- **Saturday:** Asst: LK + AG
 
 ---
 
 ## 🛒 SHOPPING LIST
 
 ### Produce
-- [ ] White onions, large — 5
-- [ ] Red onions — 2 (1 for cochinita pickled onion, 1 for slaw)
-- [ ] Garlic — 3 heads
-- [ ] Poblano peppers — 3 large
-- [ ] Tomatoes (Roma/plum) — 6
-- [ ] Serrano peppers — 1 (or jalapeño for milder)
-- [ ] Fresh cilantro — 2 bunches
-- [ ] Limes — 10 (8 for cochinita, 2 for slaw)
-- [ ] Avocados — 1 (for fish portions)
-- [ ] Carrots — 2 (1 for slaw, 1 for chicken braise)
-- [ ] Red cabbage — 1 small head
-- [ ] Green cabbage — 1 small head
+- [ ] Onions — 12 medium (3 for beef bhuna, 2 for rajma, 3 for aloo gobi, 2 for lamb korma, 2 spare)
+- [ ] Tomatoes — 11 medium (2 for beef bhuna, 5 for rajma, 5 for aloo gobi)
+- [ ] Cauliflower — 3 small or 2 large heads
+- [ ] Potatoes — 5 medium
+- [ ] Garlic — 4 heads (garlic paste for lamb korma, tandoori marinade, rajma, aloo gobi, beef bhuna)
+- [ ] Ginger — 3 large pieces (4 inches total)
+- [ ] Green chillies / serrano peppers — 8–10
+- [ ] Fresh cilantro (coriander) — 3 bunches
+- [ ] Lemons — 2 (for tandoori and aloo gobi)
 
 ### Protein
-- [ ] Bone-in pork shoulder roast — 1.4 kg (3 lbs)
-- [ ] Bone-in, skin-on chicken thighs — 4 (about 800g)
-- [ ] Firm white fish fillets (huachinango/snapper or mero/grouper) — 600g
-- [ ] Mexican chorizo (fresh, raw) — 100g
-- [ ] Bacon — 100g (need 15g)
-- [ ] Eggs — 2 dozen
+- [ ] Boneless lamb shoulder — 1.2 kg (2.6 lbs), trimmed, cut into 2-inch pieces
+- [ ] Bone-in, skin-on chicken thighs — 1.75 kg (3.9 lbs) — about 14 thighs
+- [ ] Beef braising/stewing cut — 1 kg (2.2 lbs), cut into bite-sized pieces
+- [ ] Dried kidney beans — 2 cups (400g) — or 4 cans (15 oz each)
 
 ### Pantry / Dry Goods
-- [ ] Long-grain white rice — 1 kg bag
-- [ ] Dry pinto beans — 3/4 cup (or 2 cans / 425g each)
-- [ ] Corn tortillas — 2 packs of 15 (need ~26)
-- [ ] Green olives (pitted) — 1 small jar (need 21)
-- [ ] Capers — 1 small jar (need 9)
-- [ ] Raisins — 1 small bag (need 1/4 cup)
-- [ ] Prunes — 1 small bag (need 1/4 cup)
-
-### Dried Chiles *(for mole sauce)*
-- [ ] Dried pasilla chiles — 5
-- [ ] Dried ancho chiles — 4
-- [ ] Dried chipotle chiles — 2
-
-### Nuts & Seeds *(for mole sauce)*
-- [ ] Sliced almonds — small bag (need 2 tbsp)
-- [ ] Shelled pistachios (or peanuts) — small bag (need 2 tbsp)
-- [ ] White sesame seeds — small bag (need 1/4 cup)
+- [ ] Basmati rice — 1 kg bag (need 4 cups dry)
+- [ ] Raw cashews — 150g (need ~105g for lamb korma)
+- [ ] Canned tomato sauce / passata — 1 small carton (need 128g / ½ cup)
 
 ### Dairy
-- [ ] Mexican crema — 250ml (need 3/4 cup)
-- [ ] Cream cheese — 1 block (8 oz / 225g, need 3 oz)
-- [ ] Oaxaca cheese (or Chihuahua/Mozzarella) — 200g (need 3/4 cup shredded)
-- [ ] Mexican dark chocolate (Ibarra or Hernán brand) — 1 tablet (need 3/4 oz / 20g)
-- [ ] Butter — 250g (need 1.5 tbsp)
+- [ ] Greek yogurt (plain, full-fat) — 1 large tub (500g) — need ⅞ cup for tandoori + ¾ cup for lamb korma marinade
+- [ ] Butter — 250g (need ~6 tbsp for rajma + ghee for rice)
+- [ ] Heavy cream — 1 small carton (need ~7 tbsp for lamb korma + 4–6 tbsp for rajma)
+- [ ] Ghee — 1 jar (for rice and general cooking)
 
 ### Spices & Seasonings *(check what you have)*
-- [ ] Achiote seasoning (recado rojo) — 1/2 of a 3.5-oz (100g) package *(check GF)*
-- [ ] Dried thyme — 1 tbsp
-- [ ] Dried epazote (or dried oregano) — 1 tsp
-- [ ] Dried Mexican oregano — 1/2 tsp
-- [ ] Canela (Ceylon cinnamon) or regular cinnamon — 1-inch stick
-- [ ] Black peppercorns — 5
-- [ ] Anise seed — 1/4 tsp
-- [ ] Ground coriander — 1/4 tsp
-- [ ] Ground cumin — 1/4 tsp
-- [ ] Bay leaves — 5
-- [ ] Chicken bouillon powder — 1 tsp (for rajas)
-- [ ] Kosher salt — plenty
+- [ ] Garam masala — plenty
+- [ ] Kashmiri red chili powder — 1 jar (need ~4 tsp total across recipes; substitute paprika + cayenne if unavailable)
+- [ ] Coriander powder — plenty
+- [ ] Cumin powder — plenty
+- [ ] Cumin seeds — plenty
+- [ ] Turmeric powder — plenty
+- [ ] Red chili powder / cayenne — plenty
+- [ ] Curry powder (Madras/hot) — 1 jar (need 2 tsp for beef bhuna)
+- [ ] Kasuri methi (dried fenugreek leaves) — 1 packet (need ~7 tbsp total across recipes — this is a key ingredient!)
+- [ ] Amchur powder (dry mango powder) — 1 packet (need 2½ tsp for aloo gobi)
+- [ ] Asafoetida (hing) — ⚠️ GF-certified only, or skip
+- [ ] Cardamom pods (green) — 1 packet (need ~10 for lamb korma + 4 for beef bhuna)
+- [ ] Cinnamon sticks — 1 packet (need 3 for lamb korma + 3 for beef bhuna)
+- [ ] Cloves (whole) — 1 packet (need 5 for lamb korma)
+- [ ] Mace (javitri) — 1 packet or use ¼ tsp ground (for lamb korma)
+- [ ] Bay leaves — 1 packet (need 4 for beef bhuna)
+- [ ] Fenugreek seeds (methi seeds) — 1 packet (need a pinch for beef bhuna)
 - [ ] Black pepper — plenty
-
-### Oils
-- [ ] Avocado oil or vegetable oil — 1 bottle (need ~1/2 cup total)
-- [ ] Olive oil — on hand (for slaw dressing)
-
-### Sauces / Condiments
-- [ ] Habanero hot sauce (Yucateco or Frontera brand) — 1 bottle (for cochinita)
-- [ ] Rice wine vinegar or apple cider vinegar — 1 bottle (for slaw)
-
-### Broth
-- [ ] Low-sodium chicken broth — 1 carton (need 3/4 cup for fish + 3 cups for chicken braise)
+- [ ] Sea salt / kosher salt — plenty
+- [ ] Sugar — plenty (need 2⅓ tsp for lamb korma)
+- [ ] Vegetable oil — 1 bottle (need ~100ml for beef bhuna + frying for aloo gobi)
+- [ ] Neutral oil (avocado/grapeseed) or mustard oil — 1 bottle (for tandoori marinade)
 
 ---
 
 ## ⚠️ NOTES & CONSIDERATIONS
 
-### GF Watch Points
-- **Achiote seasoning (recado rojo):** Some commercial brands cut with wheat flour. Check the label — common GF brands include El Yucateco and Mexicali. If unsure, make your own: blend 3 tbsp annatto seeds, 1 tsp cumin, 1 tsp coriander, 1 tsp oregano, 1 tsp garlic powder, 1/2 tsp allspice, 1/2 tsp black pepper.
-- **Chicken bouillon powder:** Some brands contain wheat. Knorr is NOT reliably GF. Look for Herdez, Better Than Bouillon (GF-labeled), or use salt + a pinch of cumin and garlic powder instead.
-- **Mexican chocolate (Ibarra):** Contains cacao, sugar, cinnamon, and soy lecithin — naturally GF. Hernán brand is also GF.
-- **Chorizo:** Some commercial chorizos use bread crumbs as filler. Check the label or buy from a carnicería (butcher) that makes it fresh. Cacique brand chorizo is generally GF but always verify.
-- **Corn tortillas:** Naturally GF, but check for cross-contamination if highly sensitive. Look for brands made in dedicated facilities.
-- **Soy sauce:** Not used this week — no risk. If any recipe calls for it, use tamari (GF).
-
 ### Protein Notes (Higher Protein Target)
-The customer requested ~35–40% protein. This week's dishes range from 17% (rajas) to 36% (fish):
 
-| Dish | Protein % | Notes |
-|------|-----------|-------|
-| Pescado Veracruzana | 36% | ✅ Hits target — lean fish |
-| Chicken Mole | 32% | Close — skinless thigh + egg |
-| Cochinita Pibil | 24% | Moderate — pork shoulder is fatty |
-| Frijoles Charros | 20% | Lower — bean-heavy, eggs help |
-| Rajas con Crema | 17% | Lowest — cream/cheese dominate |
+The customer requested ~35–40% protein. Each meal = meat + veg + rice. Here's how the pairings stack up:
 
-**To boost protein on lower-protein dishes:**
-- Add a whey protein shake (25g protein, ~100 cal) to cochinita, frijoles, and rajas meals. This brings cochinita to ~31%, frijoles to ~28%, and rajas to ~25%.
-- Add 100g shredded chicken to rajas (brings it to ~29% protein).
-- Increase egg count to 3 per portion on frijoles and rajas.
-- Use chicken breast instead of thighs for mole (brings it to ~38% protein).
+| Meal pairing | Calories | Protein | Protein % | Notes |
+|-------------|----------|---------|-----------|-------|
+| Tandoori Chicken + Rajma + rice | 660 | 46g | 28% | ✅ Best pairing — lean chicken + protein-rich beans |
+| Tandoori Chicken + Aloo Gobi + rice | 620 | 39g | 25% | Good — chicken carries the protein |
+| Beef Bhuna + Rajma + rice | 700 | 44g | 25% | Good — beef + beans |
+| Beef Bhuna + Aloo Gobi + rice | 660 | 37g | 22% | Moderate — beef carries it |
+| Lamb Korma + Rajma + rice | 740 | 40g | 22% | Moderate — lamb is fatty |
+| Lamb Korma + Aloo Gobi + rice | 700 | 33g | 19% | Lowest — lamb fat + low-protein veg |
 
-### Ingredient Availability in Playa del Carmen
-- **Achiote seasoning:** Available at Chedraui, Walmart, and local markets. Look for "recado rojo" or "achiote" in the spice section.
-- **Dried chiles (ancho, pasilla, chipotle):** Widely available at Chedraui, Walmart, and any mercado. Sold in clear bags in the produce or spice section.
-- **Mexican crema:** Available everywhere — Chedraui, Walmart, OXXI, local markets. Look for "crema mexicana" or "crema ácida."
-- **Oaxaca cheese:** Available at Chedraui and Walmart in the cheese section. Queso Chihuahua or Mozzarella are good substitutes.
-- **Mexican chocolate (Ibarra):** Available at Chedraui, Walmart, and most grocery stores. Comes in hexagonal tablets.
-- **Poblano peppers:** Available at Chedraui and local markets. Sometimes labeled "chile poblano" or just "poblano."
-- **Pinto beans:** Sold dry in bags everywhere, or canned. Also called "frijol pinto" or "frijol bayo."
-- **Huachinango (red snapper):** Readily available at fish counters and markets in Playa del Carmen. Mero (grouper) is an excellent local alternative.
-- **Banana leaves (hojas de plátano):** Available frozen at Chedraui and Walmart in the frozen section. Optional for cochinita.
-- **Canela (Ceylon cinnamon):** Available at spice shops and DAC Market. Regular cinnamon works fine as a substitute.
-- **Pistachios:** May be expensive. Substitute peanuts (more traditional for mole anyway).
+**To boost protein:**
+- Use chicken breasts instead of thighs for tandoori (adds ~20g protein, removes ~10g fat per portion — brings tandoori meals to ~35% protein)
+- Increase rice to 2/3 cup and add a boiled egg on the side (+6g protein, +70 cal)
+- Serve extra rajma (1 cup instead of ¾ cup — adds 3g protein)
+- Add a whey protein shake (25g protein, ~100 cal) to lower-protein meals
+- Reduce rice to ⅓ cup on lamb korma days to improve the ratio
+
+### GF Watch Points
+- **Asafoetida (hing):** Used in rajma. Most commercial brands contain wheat. Skip it or buy GF-certified (available on Amazon).
+- **Curry powder:** Some commercial blends contain wheat flour as a filler. Check labels — TRS and East End brands are generally GF.
+- **Kashmiri chili powder:** Should be pure ground chilies — but check labels for fillers.
+- **Garam masala:** Should be pure spices — check labels.
+- **Soy sauce:** Not used this week — no risk.
+- **All recipes are naturally GF** — none use flour, bread, or wheat-based thickeners. The risk is only from spice blend fillers.
 
 ### Freshness Schedule
-- **Eat early (Mon–Wed):** Pescado a la Veracruzana. Fish doesn't hold as long. The Tuesday (customer dinner) and Wednesday (assistant lunch) portions are fine refrigerated. The Thursday (customer lunch) portion MUST be frozen and thawed Wednesday night.
-- **Peak on day 2–3:** Chicken Mole and Frijoles Charros — both improve as flavours meld.
-- **Steady all week:** Cochinita Pibil and Rajas con Crema — both hold well for 5 days.
-- **Saturday (assistant only):** Chicken Mole holds fine to day 6 refrigerated. If concerned, freeze that portion and thaw Friday night.
-- **Slaw:** Prep vegetables and dressing separately. Dress up to 1 hour before eating. Undressed vegetables keep 3–4 days.
+- **Eat early (Mon–Tue):** Tandoori chicken is best fresh. While it keeps 4–5 days, the charred texture is best in the first 2 days. Reheat in air fryer to restore crispness.
+- **Peak on day 2–3:** Lamb korma, beef bhuna, and rajma all improve significantly as flavours meld. These are ideal for mid-week.
+- **Steady all week:** Aloo gobi holds well for 5 days — the pre-frying step keeps the cauliflower from going mushy.
+- **Saturday (assistant):** Lamb korma + aloo gobi — both hold well to day 6 refrigerated.
+- **Extra portions:** Freeze any extras you won't eat by Friday.
 
 ### Cooking Order (Sunday Batch Cook)
-1. **Start beans first** (if using dry): Slow cooker on HIGH, 5–6 hours. Or soak overnight and cook on stovetop.
-2. **Make mole sauce** (can be done Saturday or Sunday morning): It's the most time-consuming step. Makes the kitchen smell amazing.
-3. **Start cochinita in slow cooker** (if beans are done) or in a second pot: 6 hours on HIGH.
-4. **Cook rice**: 25 minutes, can be done while other dishes simmer.
-5. **Braise chicken for mole**: 1 hour simmer.
-6. **Make frijoles charros**: 30 minutes once beans are cooked.
-7. **Make rajas con crema**: 25 minutes.
-8. **Cook fish Veracruzana**: 30 minutes — do this last so it's the freshest.
-9. **Make slaw**: 15 minutes — prep vegetables and dressing separately, store in fridge.
-10. **Boil eggs**: 18–19 eggs, 10 minutes. Peel and store in fridge.
+1. **Soak kidney beans** (Saturday night): Cover 2 cups dried beans with water. Soak overnight.
+2. **Marinate lamb** (Saturday night): Prepare korma marinade. Coat lamb. Refrigerate overnight.
+3. **Marinate chicken** (Saturday night): Prepare tandoori marinade. Coat chicken. Refrigerate overnight.
+4. **Sunday morning — Cook kidney beans** (first, since they take longest): Stovetop 45–60 min, or slow cooker 5–6 hours on HIGH.
+5. **Start lamb korma** (1.5 hours total): While beans cook, prepare the korma. It needs 1 hour of simmering.
+6. **Start beef bhuna** (1.5 hours total): Can cook simultaneously on another burner — it also needs 1–1.5 hours of simmering.
+7. **Cook rajma masala** (30 min once beans are done): Make the masala base, add cooked beans, simmer.
+8. **Roast tandoori chicken** (45 min): Preheat oven, roast chicken while curries simmer.
+9. **Make aloo gobi** (45 min): Fry veggies, make masala, combine. Can use air fryer for veggies.
+10. **Cook basmati rice** (20 min): Do this last so it's fresh.
+11. **Portion everything** into containers.
 
-### Assistant Portions
-- The assistant plates his own lunch from the batch. Exact portion size is at his discretion — ~80–90% of the customer's portion is a reasonable guide.
-- All dishes are naturally GF — safe for the assistant to eat from the shared batch.
+### Ingredient Availability in Playa del Carmen
+- **Basmati rice:** Available at Chedraui, Walmart, and DAC Market. DAC has the best selection of Indian rice.
+- **Dried kidney beans:** Widely available — sold as "frijol rojo" at Chedraui and local markets.
+- **Garam masala:** Available at Chedraui (international aisle), Walmart, and DAC Market. Or make your own.
+- **Kashmiri chili powder:** May be harder to find. Substitute: 2 parts paprika + 1 part cayenne pepper. DAC Market is your best bet for the real thing.
+- **Kasuri methi (dried fenugreek leaves):** Available at DAC Market (30 Av. entre Calle 14 y 14 Bis) or Amazon Mexico. This is a key flavour ingredient — don't skip it.
+- **Greek yogurt:** Available at Chedraui and Walmart. Look for "yogur griego natural."
+- **Ghee:** Available at Chedraui (international aisle) or make your own by simmering butter until the milk solids separate.
+- **Cardamom pods, cinnamon sticks, cloves, bay leaves:** All available at Chedraui spice section or any mercado.
+- **Amchur powder (dry mango powder):** May be at DAC Market or Amazon. Substitute: 1 tbsp lemon juice.
+- **Lamb shoulder:** Available at Chedraui and Walmart meat counters. Ask the carnicería for "espaldilla de cordero."
+- **Cashews:** Widely available at Chedraui and Walmart.

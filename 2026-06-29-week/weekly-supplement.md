@@ -4,7 +4,7 @@
 > **For:** Assistant (cook)
 > **From:** Customer
 > **Theme:** Classic Mexican food, 100% gluten-free (GF)
-> **5 dishes:** Cochinita Pibil, Chicken Mole Poblano, Pescado a la Veracruzana, Frijoles Charros, Rajas con Crema
+> **5 dishes:** Cochinita Pibil, Tinga de Pollo, Chile Colorado de Res, Frijoles Charros, Calabacitas con Elote
 
 ---
 
@@ -15,22 +15,22 @@ These are the 5 dishes you will be cooking this week:
 <table>
 <tr>
 <td align="center"><b>Cochinita Pibil</b></td>
-<td align="center"><b>Chicken Mole Poblano</b></td>
-<td align="center"><b>Pescado a la Veracruzana</b></td>
+<td align="center"><b>Tinga de Pollo</b></td>
+<td align="center"><b>Chile Colorado de Res</b></td>
 </tr>
 <tr>
 <td><img src="https://muybuenoblog.com/wp-content/uploads/2018/04/Cochinita-Pibil-Yucatan-Style-Pulled-Pork.jpeg" width="280"></td>
-<td><img src="https://mexicanfoodjournal.com/wp-content/uploads/2021/06/Chicken-Mole-with-Sesame-Seeds.jpg" width="280"></td>
-<td><img src="https://mission-food.com/wp-content/uploads/2022/06/Pescado-a-la-Veracruzana-Veracruz-Style-Fish-10.jpg" width="280"></td>
+<td><img src="https://www.mexicoinmykitchen.com/wp-content/uploads/2020/12/Chicken-Tinga-recipe-3-ing.jpg" width="280"></td>
+<td><img src="https://www.isabeleats.com/wp-content/uploads/2024/10/chile-colorado-24-pinterest-5.jpg" width="280"></td>
 </tr>
 <tr>
 <td align="center"><b>Frijoles Charros</b></td>
-<td align="center"><b>Rajas con Crema</b></td>
+<td align="center"><b>Calabacitas con Elote</b></td>
 <td></td>
 </tr>
 <tr>
 <td><img src="https://www.mexicoinmykitchen.com/wp-content/uploads/2024/11/Frijoles-Charros-6.jpg" width="350"></td>
-<td><img src="https://www.mexicoinmykitchen.com/wp-content/uploads/2022/11/Rajas-con-crema.jpg" width="350"></td>
+<td><img src="https://www.mexicoinmykitchen.com/wp-content/uploads/2023/01/Calabacitas-con-elote-2.jpg" width="350"></td>
 <td></td>
 </tr>
 <tr>
@@ -104,161 +104,6 @@ If you are not sure that the packaged achiote is GF, you can make it yourself. Y
 
 ---
 
-## 2. Dried Chiles: Ancho, Pasilla, Chipotle (for the mole)
-
-<img src="https://m.media-amazon.com/images/I/51yLDqS0a5L.jpg" align="right" width="100">
-
-**What are they?** They are chiles that have been dried in the sun. When they dry, their flavor changes — they become more complex, smoky, and deep. For the mole we need three types:
-
-- **Chile ancho:** It is the dried poblano pepper. It is large, flat, dark reddish-brown (like old leather). It is the sweetest of the three. It gives body and color to the mole. It tastes like dried fruit, chocolate, and tobacco.
-- **Chile pasilla:** It is long, thin, and dark (almost black). It has a smoky, slightly bitter flavor, with notes of plum and chocolate. It is spicier than the ancho.
-- **Chile chipotle:** It is the smoked and dried jalapeño pepper. It comes in two types: *meco* (golden brown) and *morita* (dark brown to purple). For the mole, either works. It gives the characteristic smoky flavor.
-
-**What do they look like?** They come in clear plastic bags in the spice or produce section. They look wrinkled, dry, like leather leaves. Sometimes they are sold loose in bulk at markets.
-
-**What do they taste like?** Each one is different:
-- **Ancho:** Sweet, fruity, like raisins and chocolate. Mildly spicy.
-- **Pasilla:** Smoky, earthy, with a touch of plum. Medium heat.
-- **Chipotle:** Intensely smoky, spicy. Tastes like wood and smoke.
-
-**Where to buy:**
-- 🟢 **Chedraui (Av. Juárez)** — Produce or spice section, in clear bags
-- 🟢 **Walmart (30 Av. y Calle 8)** — Spice section
-- 🟢 **Mega Soriana (30 Av. y Constituyentes)** — Spice section
-- 🟢 **Any local market** — Sold loose in bulk
-
-**Substitutes:**
-- **Ancho:** There is no good substitute, it is essential for the mole. If you can't find it, use more pasilla.
-- **Pasilla:** You can use more ancho, but the flavor will be less complex.
-- **Chipotle:** You can use 1 tsp of canned chipotle in adobo (but check that it is GF — some brands have gluten).
-
-**Buying tip:** Choose chiles that are flexible, not brittle. If they break when you bend them, they are too old and dry. They should smell like chile, not like old dust. If they have white spots (mold), do not buy them.
-
-**Difficulty:** 🟢 easy (any supermarket)
-
-**⚠️ GF watch point:** Dried chiles are naturally GF. Just check that they are not mixed with other ingredients in bags that say "mole mix" — those mixes sometimes have gluten. Buy loose chiles or bags that only contain the chile.
-
-<br clear="right">
-
----
-
-## 3. Mexican Chocolate (Ibarra or Hernán)
-
-<img src="https://i0.wp.com/eathealthy365.com/wp-content/uploads/ibarra-mexican-hot-chocolate.webp" align="right" width="100">
-
-**What is it?** It is Mexican table chocolate. It is not like the sweet chocolate you eat as a dessert. It is chocolate without milk, with sugar, cinnamon, and sometimes almonds. It is used to make hot chocolate and also for mole poblano. It gives the mole that deep, dark, and slightly sweet flavor that makes it special.
-
-**What does it look like?** It comes in hexagonal tablets (honeycomb shape). The most common brand is **Ibarra**, which comes in a red box with a hexagonal tablet divided into triangles. The **Hernán** brand comes in a more elegant box. Each tablet divides into easy-to-break triangles.
-
-**What does it taste like?** Like dark chocolate, with cinnamon, slightly sweet. It is not as sweet as milk chocolate. It has a slightly grainy texture (from the unrefined sugar) that dissolves when cooked.
-
-**Where to buy:**
-- 🟢 **Chedraui (Av. Juárez)** — Candy or baking section
-- 🟢 **Walmart (30 Av. y Calle 8)** — Baking or Mexican food section
-- 🟢 **Mega Soriana (30 Av. y Constituyentes)** — Baking section
-- 🟢 **Any corner store** — It is very common
-
-**Substitutes:**
-1. Hernán chocolate (more artisanal brand, also GF)
-2. Any Mexican brand of table chocolate (verify it is GF)
-3. If you can't find it: 3 tbsp pure cocoa powder + 2 tbsp sugar + 1/4 tsp ground cinnamon. It's not the same but it works.
-
-**Difficulty:** 🟢 easy (any supermarket)
-
-**⚠️ GF watch point:** Ibarra chocolate contains cacao, sugar, cinnamon, and soy lecithin — all naturally GF. The Hernán brand is also GF. **Do not use sweet milk chocolate** because it has milk and other ingredients that change the flavor of the mole.
-
-<br clear="right">
-
----
-
-## 4. Canela (Ceylon Cinnamon) vs Regular Cinnamon
-
-<img src="https://muybuenoblog.com/wp-content/uploads/2024/06/canela-cinnamon-sticks.jpeg" align="right" width="100">
-
-**What is it?** The cinnamon used in Mexican cooking is different from the ground cinnamon that comes in the supermarket. Mexican cinnamon is called **canela de Ceilón** (or true cinnamon). It is milder, sweeter, and more aromatic than regular cinnamon (which comes from Cassia, another plant).
-
-**What does it look like?** Ceylon cinnamon comes in thin, soft, light brown sticks. The layers come apart easily with your fingers — they are like rolled paper. Regular cinnamon (Cassia) is thicker, harder, and darker brown.
-
-**What does it taste like?** Ceylon cinnamon is more delicate, floral, and sweet. Regular cinnamon is stronger, spicier, and less sweet. For the mole, Ceylon cinnamon is better because it does not overpower the other flavors.
-
-**Where to buy:**
-- 🟡 **DAC Market (30 Av. entre Calle 14 y 14 Bis)** — Sold in sticks, best quality
-- 🟢 **Chedraui (Av. Juárez)** — Spice section, look for "canela entera" or "canela en rama"
-- 🟢 **Walmart (30 Av. y Calle 8)** — Spice section
-- 🟢 **Local markets** — Ask for "canela"
-
-**Substitutes:**
-1. Regular cinnamon stick (Cassia) — works well, just use a smaller piece because it is stronger
-2. Ground cinnamon — use 1/2 tsp per 1-inch (2.5 cm) stick
-
-**Difficulty:** 🟢 easy (any supermarket) / 🟡 medium (if you specifically want Ceylon cinnamon)
-
-**⚠️ GF watch point:** Cinnamon is naturally GF. No risk.
-
-<br clear="right">
-
----
-
-## 5. Mexican Crema
-
-<img src="https://tabethastable.com/wp-content/uploads/2023/08/Sour-Cream-vs-Mexican-Crema-1.jpeg" align="right" width="100">
-
-**What is it?** It is a slightly sour cream, more liquid than American sour cream. It is used a lot in Mexican cooking — for rajas con crema, for tacos, for soups, for everything. It is not the same as heavy cream or sour cream.
-
-**What does it look like?** It comes in plastic or carton containers, usually 250ml or 500ml. It is white, slightly liquid (it pours, it does not spread). Sometimes it separates a bit (liquid on top, cream on bottom) — that is normal, just shake the container.
-
-**What does it taste like?** Slightly sour, mild, creamy. It is not as sour as yogurt or as sweet as heavy cream. It has a fresh flavor that goes with everything.
-
-**Where to buy:**
-- 🟢 **Chedraui (Av. Juárez)** — Dairy section, look for "crema mexicana" or "crema ácida"
-- 🟢 **Walmart (30 Av. y Calle 8)** — Dairy section
-- 🟢 **Mega Soriana (30 Av. y Constituyentes)** — Dairy section
-- 🟢 **Any corner store or OXXO** — It is very common
-
-**Recommended brands:** Lala, Alpura, Santa Clara, any Mexican brand.
-
-**Substitutes:**
-1. Sour cream mixed with a splash of milk or water to make it more liquid
-2. Media crema (also sold in supermarkets, it is lighter)
-3. Heavy cream with 1 tsp lime juice mixed in and left to rest 10 minutes
-
-**Difficulty:** 🟢 easy (any supermarket)
-
-**⚠️ GF watch point:** Mexican crema is naturally GF. Just check that it does not have additional thickeners on the label (rare but possible).
-
-<br clear="right">
-
----
-
-## 6. Oaxaca Cheese
-
-<img src="https://thumbs.dreamstime.com/b/oaxaca-cheese-quesillo-string-fresh-soft-originally-central-valleys-state-355733726.jpg" align="right" width="100">
-
-**What is it?** It is a Mexican string cheese, like a braided cheese. It comes from the state of Oaxaca. It shreds like mozzarella cheese. It is used for rajas con crema because it melts very well. In Oaxaca they call it "quesillo."
-
-**What does it look like?** It comes in rolls of cheese thread, rolled up like a ball or cylinder. It is white, soft, elastic. When you touch it, it shreds into strands. Sometimes it comes in plastic bags or wrapped in paper.
-
-**What does it taste like?** Mild, creamy, slightly salty. It does not have a strong flavor — it is like mozzarella but a bit more acidic. It melts forming long, elastic strings.
-
-**Where to buy:**
-- 🟢 **Chedraui (Av. Juárez)** — Cheese or refrigerated section
-- 🟢 **Walmart (30 Av. y Calle 8)** — Cheese section
-- 🟢 **Mega Soriana (30 Av. y Constituyentes)** — Cheese section
-- 🟢 **Local markets** — Ask for "queso Oaxaca" or "quesillo"
-
-**Substitutes:**
-1. Chihuahua cheese (also melts well, similar flavor)
-2. Mozzarella cheese (not the same but melts well)
-3. Monterey Jack or Muenster cheese
-
-**Difficulty:** 🟢 easy (any supermarket)
-
-**⚠️ GF watch point:** Oaxaca cheese is naturally GF. No risk.
-
-<br clear="right">
-
----
-
 ## 7. Banana Leaves (optional, for the cochinita)
 
 <img src="https://i0.wp.com/parce.ca/wp-content/uploads/2024/12/hojas-platano-_processed.png" align="right" width="100">
@@ -282,104 +127,6 @@ If you are not sure that the packaged achiote is GF, you can make it yourself. Y
 **Difficulty:** 🟢 easy (any supermarket with a frozen section)
 
 **⚠️ GF watch point:** Banana leaves are naturally GF. No risk.
-
-<br clear="right">
-
----
-
-## 8. Capers and Green Olives (for the Veracruz sauce)
-
-<img src="https://i5.walmartimages.com/seo/Goya-Capers-Jarred-Vegetables-2-25-oz-Jar_7654f0fa-cf59-41fd-8c02-875578f1fa3f_1.9cd6023470d1162a985c0ce0de44619f.jpeg" align="right" width="100">
-
-**What are they?**
-
-**Capers:** They are small flower buds preserved in vinegar and salt. They are very small (the size of a pea), green and round. They come in glass jars. They have a salty, acidic, and slightly bitter flavor. They are used in the Veracruz sauce to give an acidic and salty touch that combines with the tomato and olives.
-
-**Green olives:** They are pitted green olives preserved in brine or vinegar. For this recipe, buy pitted green olives (descarozadas). They are chopped and added to the sauce.
-
-**What do they look like?**
-- **Capers:** Small glass jars, the capers are small green balls the size of a pea.
-- **Olives:** Glass jars, whole or sliced green olives.
-
-**What do they taste like?**
-- **Capers:** Salty, acidic, slightly bitter and pungent. A very distinctive flavor — like a touch of lemon and salt together.
-- **Olives:** Salty, slightly bitter, with a rich and deep flavor.
-
-**Where to buy:**
-- 🟢 **Chedraui (Av. Juárez)** — Pickle or snack section, look for "alcaparras" and "aceitunas verdes"
-- 🟢 **Walmart (30 Av. y Calle 8)** — Pickle or international food section
-- 🟢 **Mega Soriana (30 Av. y Constituyentes)** — Pickle section
-- 🟡 **DAC Market (30 Av. entre Calle 14 y 14 Bis)** — May have more brand variety
-
-**Recommended brands:** Goya, La Costeña, Cid. Any brand works.
-
-**Substitutes:**
-- **Capers:** There is no good substitute. If you can't find them, use chopped caper berries (large capers), or add 1 tsp extra lime juice and a bit more salt.
-- **Olives:** Any green olive works. If you can only find pitted ones, remove the pits yourself.
-
-**Difficulty:** 🟢 easy (any supermarket)
-
-**⚠️ GF watch point:** Capers and olives in vinegar are naturally GF. Just check that they do not have strange additives on the label. Avoid stuffed olives (with pimento or anchovy) because they sometimes use thickeners with gluten.
-
-<br clear="right">
-
----
-
-## 9. Epazote (for the Veracruz sauce)
-
-<img src="https://blog.amigofoods.com/wp-content/uploads/2022/06/mexican-herb-epazote.jpg" align="right" width="100">
-
-**What is it?** It is a Mexican herb used a lot in traditional cooking. It has a very particular flavor — it does not taste like any other herb. It is used in beans, quesadillas, soups, and sauces. For this week, we use it in the Veracruz sauce.
-
-**What does it look like?** If fresh, it has green leaves with jagged edges, on sprigs. If dried, it comes in small bags like oregano — small, dark, fragmented leaves.
-
-**What does it taste like?** It has a strong, herbaceous, slightly medicinal flavor. Some say it tastes like earth, eucalyptus, or turpentine. It is an acquired taste — if you have not tried it, it may seem strange at first, but in food it gives a very Mexican flavor. A little goes a long way.
-
-**Where to buy:**
-- 🟢 **Chedraui (Av. Juárez)** — Spice section, look for "epazote seco" in small bags
-- 🟢 **Walmart (30 Av. y Calle 8)** — Spice section
-- 🟢 **Local markets** — Ask for "epazote," sometimes they have it fresh
-- 🟡 **DAC Market (30 Av. entre Calle 14 y 14 Bis)** — May have fresh or dried
-
-**Substitutes:**
-1. Dried Mexican oregano (use half the amount) — not the same but works
-2. Dried cilantro (use the same amount) — changes the flavor but adds freshness
-3. If you can't find it, simply omit it. The sauce will still be good.
-
-**Difficulty:** 🟢 easy (dried in any supermarket) / 🟡 medium (fresh at markets)
-
-**⚠️ GF watch point:** Epazote is naturally GF. No risk.
-
-<br clear="right">
-
----
-
-## 10. Poblano Peppers
-
-<img src="https://www.alecooks.com/wp-content/uploads/2021/05/chiles-poblanos-8-scaled.jpg" align="right" width="100">
-
-**What are they?** They are large peppers, dark green, with shiny skin. They are the most used pepper in Mexican cooking after the jalapeño. They are mild — almost not spicy. They are used for rajas con crema, chiles rellenos, and many other dishes. When dried, they become the ancho chile.
-
-**What do they look like?** They are large (10 to 15 cm long), dark green, triangular or heart-shaped, with smooth, shiny skin. Sometimes they have a bit of natural waxy shine.
-
-**What do they taste like?** They have a mild, slightly sweet flavor, like bell pepper but deeper. They are almost not spicy, but occasionally you get a spicy one (it is unpredictable). When roasted, they develop a delicious smoky flavor.
-
-**Where to buy:**
-- 🟢 **Chedraui (Av. Juárez)** — Produce section, look for "chile poblano" or "poblano"
-- 🟢 **Walmart (30 Av. y Calle 8)** — Produce section
-- 🟢 **Mega Soriana (30 Av. y Constituyentes)** — Produce section
-- 🟢 **Any local market** — Very common
-
-**Buying tip:** Choose large, firm poblanos, uniform dark green. Avoid those with soft black spots (they may be spicy) or wrinkles (they are old).
-
-**Substitutes:**
-1. Anaheim pepper (milder, larger)
-2. Green bell pepper (not spicy at all, but the flavor is different)
-3. If you want more heat: use a jalapeño instead of one of the poblanos
-
-**Difficulty:** 🟢 easy (any supermarket)
-
-**⚠️ GF watch point:** Poblano peppers are naturally GF. No risk.
 
 <br clear="right">
 
@@ -413,26 +160,6 @@ If you are not sure that the packaged achiote is GF, you can make it yourself. Y
 **⚠️ GF watch point:** El Yucateco and Frontera sauces are GF. Check the label of other brands. Avoid sauces that contain soy sauce — if any recipe calls for soy sauce, use tamari (which is GF).
 
 <br clear="right">
-
----
-
-## 12. Pistachios vs Peanuts (for the mole)
-
-**What are they?** Mole poblano contains toasted nuts that give it body and flavor. This week's recipe calls for pistachios, but peanuts are more traditional in Mexican mole. Both work.
-
-**Pistachios:** They are small green seeds, with shells. They come already shelled (without shell) in the supermarket. They are more expensive but give a more delicate and sophisticated flavor.
-
-**Peanuts:** They are cheaper, more traditional, and easier to find. Traditional Mexican mole almost always uses peanuts, not pistachios. If you want to make the mole more authentic, use peanuts.
-
-**Where to buy?**
-- 🟢 **Shelled pistachios:** Chedraui, Walmart, Mega Soriana — nut or snack section
-- 🟢 **Peanuts:** Any supermarket or corner store — they are cheap and easy to find
-
-**Recommendation:** Use peanuts. They are cheaper, more traditional, and the mole's flavor will be more authentic. If you already have pistachios at home, use them — they also work well.
-
-**Difficulty:** 🟢 easy (any supermarket)
-
-**⚠️ GF watch point:** Natural pistachios and peanuts are GF. **Be careful with roasted salted or flavored peanuts** — some have gluten. Buy raw or unsalted roasted peanuts and toast them yourself.
 
 ---
 
@@ -490,58 +217,48 @@ To save time, I recommend visiting the stores in this order:
 
 ### Stop 1: DAC Market (30 Av. entre Calle 14 y 14 Bis)
 **First stop because it has the most special ingredients.** If you can't find them here, look for them at the other stores.
-- [ ] Epazote (fresh or dried, best quality here)
-- [ ] Ceylon cinnamon (in sticks, best quality)
 - [ ] Annatto seeds (if you are making homemade recado rojo)
-- [ ] Dried chiles in bulk (ancho, pasilla, chipotle — better quality and price in bulk)
+- [ ] Dried guajillo, ancho, and árbol chiles (bulk — best quality and price for chile colorado)
 
 ### Stop 2: Chedraui (Av. Juárez)
 **The main stop for most ingredients.**
 - [ ] Pork (shoulder/leg) — 1.4 kg
-- [ ] Bone-in, skin-on chicken thighs — 7 pieces (~1.4 kg)
-- [ ] White fish (huachinango or mero) — 600g
+- [ ] Boneless, skinless chicken thighs — 500g (about 3 large)
+- [ ] Beef chuck (stew meat) — 900g (2 lbs)
 - [ ] Fresh Mexican chorizo — 60g
 - [ ] Bacon — 30g
 - [ ] Eggs — 2 dozen
-- [ ] Poblano peppers — 6 large
 - [ ] Tomatoes (Roma) — 6
 - [ ] Serrano peppers — 3
+- [ ] Zucchini (calabacitas) — 3 medium
 - [ ] Fresh cilantro — 2 bunches
 - [ ] Fresh parsley (perejil liso, not cilantro) — 1 bunch
 - [ ] Limes — 10
-- [ ] Avocados — 1
 - [ ] White onions — 5 large
 - [ ] Red onions — 1.5
 - [ ] Garlic — 3 heads
 - [ ] Carrots — 2
 - [ ] Red cabbage — 1 small
 - [ ] Green cabbage — 1 small
-- [ ] Mexican crema — 375ml (~1.5 cups)
-- [ ] Cream cheese — 170g / 6 oz
-- [ ] Oaxaca cheese — 300g (~1.5 cups shredded)
-- [ ] Ibarra chocolate — 1 tablet
-- [ ] Butter — 250g
+- [ ] Queso fresco — 100g (optional, for calabacitas)
 - [ ] Recado rojo / achiote — 1 package (check GF)
 - [ ] Dry pinto beans — 1 bag (enough for 1.5 cups dry beans)
 - [ ] Long-grain white rice — 1 kg
 - [ ] Canned diced tomatoes (fire-roasted preferred) — 1 can (15 oz)
+- [ ] Cornstarch — 1 box
+- [ ] Chipotles in adobo — 1 can (check GF — need 2 peppers for tinga)
 - [ ] Corn tortillas — 2 packs of 15 (optional, for serving)
-- [ ] Pitted green olives — 1 jar
-- [ ] Capers — 1 jar
-- [ ] Raisins — 1 bag
-- [ ] Prunes — 1 bag
-- [ ] Sliced almonds — 1 bag
-- [ ] Peanuts (or pistachios) — 1 bag
-- [ ] White sesame seeds — 1 bag
 - [ ] Habanero hot sauce (Yucateco) — 1 bottle
 - [ ] Chicken bouillon powder (check GF)
+- [ ] Beef broth — 1 carton (check GF, for chile colorado)
 - [ ] Bay leaves — 1 package
-- [ ] Dried thyme — 1 jar
 - [ ] Dried Mexican oregano — 1 jar
-- [ ] Black peppercorns — 1 jar
-- [ ] Anise seed — 1 jar
 - [ ] Ground cumin — 1 jar
 - [ ] Ground coriander — 1 jar
+- [ ] Black pepper (ground or whole) — 1 jar
+- [ ] Dried guajillo chiles — 8
+- [ ] Dried ancho chiles — 2
+- [ ] Dried árbol chile — 1
 - [ ] Kosher salt — 1 package
 - [ ] Avocado or vegetable oil — 1 bottle
 - [ ] Olive oil — 1 bottle
@@ -569,17 +286,9 @@ This week we are cooking classic Mexican food, which is mostly naturally gluten-
 | **Corn tortillas** | 🟢 LOW | Naturally GF, but check for cross-contamination if highly sensitive. Look for brands made in dedicated facilities. |
 
 **Ingredients that are 100% GF with no risk:**
-- Dried chiles (ancho, pasilla, chipotle)
-- Mexican chocolate (Ibarra, Hernán)
-- Cinnamon
-- Mexican crema
-- Oaxaca cheese
+- Dried chiles (guajillo, ancho, árbol)
 - Banana leaves
-- Capers and olives
-- Epazote
-- Poblano peppers
 - Habanero hot sauce (Yucateco, Frontera)
-- Pistachios and peanuts (natural, unflavored)
 - Beans, rice, tomatoes, onions, garlic, limes, cilantro, etc.
 
 ---
@@ -590,41 +299,36 @@ This week we are cooking 5 Mexican dishes. Some require techniques you may not k
 
 ---
 
-## 1. How to Roast and Peel Poblano Peppers (for Rajas con Crema)
+## 1. How to Rehydrate Dried Chiles for Chile Colorado
 
-Poblano peppers need to be roasted before using them in rajas. Roasting means putting them over direct heat until the skin burns and blisters. Then they are peeled and cut into strips. This gives them a delicious smoky flavor and removes the tough skin.
+The chile colorado sauce uses dried guajillo, ancho, and árbol chiles. These are not used straight from the package — they must be rehydrated (softened in hot water) before blending into a sauce.
 
-**According to Chili Pepper Madness** (https://www.chilipeppermadness.com/cooking-with-chili-peppers/how-to-roast-poblano-peppers/), the correct method is:
+**According to Isabel Orozco-Moore at Isabel Eats** (https://www.isabeleats.com/chile-colorado-recipe/), the correct method is:
 
-1. **Place the poblanos on a baking sheet** and put them under the broiler at high temperature.
-2. **Turn them every 5 minutes** until the skin is completely black and blistered on all sides (15-20 minutes total). Do not be afraid that they look burnt — that is what we want.
-3. **As soon as you take them out of the oven, put them in a bowl and cover with plastic wrap** or a towel. Let them rest 10-15 minutes. This step is **critical**: the steam generated inside softens the skin and makes it easy to remove.
-4. **Peel the burnt skin** with your fingers or a knife. It should come off easily. Do not wash them under water — it removes the smoky flavor.
-5. **Remove the stem and seeds.** Make a lengthwise cut, open them, and scrape the seeds with a spoon.
-6. **Cut them into strips** (rajas) approximately 1 cm wide.
+1. **Remove the stems and seeds.** Open each chile with scissors or your hands, take out the seeds, and discard the stem. Rinse the chiles under water to remove dust.
+2. **Place the chiles and onion in a pot** and cover with water until completely submerged. Bring to a boil over high heat.
+3. **Remove from heat immediately once boiling.** This is critical — do not let the chiles continue to boil. Cover the pot and let sit for 20 minutes to soften. Boiling chiles makes them bitter.
+4. **Transfer the softened chiles and onion to a blender.** Add 1 cup of the chile-soaking water, oregano, salt, garlic, and cumin. Blend until smooth.
 
-**Air fryer option:** According to My Texas Kitchen (https://mytxkitchen.com/how-to-roast-poblano-peppers-in-the-oven/), you can roast poblanos in the air fryer at 200°C (400°F) for 7-10 minutes, turning halfway. It is faster than the oven.
+**Why not boil the chiles?** According to Isabel Eats, continuous boiling destroys the flavor compounds in dried chiles and makes them taste bitter. The gentle heat of just-br boiled water, then removed from the stove, is enough to soften them without damaging the flavor.
 
-**Gas stove option:** If you have a gas stove, you can put the poblanos directly over the flame with tongs, turning them until they are charred on all sides. It is the most traditional method and gives the best smoky flavor.
-
-**Important tip from Isabel Eats** (https://www.isabeleats.com/how-to-roast-poblano-peppers/): If you do not want the rajas to be spicy, make a vertical slit along the chile and remove the seeds and veins (the white parts) before cutting the strips. The seeds and veins are what make it spicy.
+**Spice control:** The árbol chile is the hottest of the three. Keep its seeds in for medium-hot, or remove them for mild. For more heat, add 2-3 árbol chiles instead of 1.
 
 ---
 
-## 2. How to Toast and Rehydrate Dried Chiles for the Mole
+## 2. How to Make Tinga — The Chipotle-Tomato Base
 
-Dried chiles (ancho, pasilla, chipotle) are not used straight from the package. They need two steps: **toasting** (to awaken the flavor) and **rehydrating** (to soften them so they can be blended). The correct technique is to **fry them in oil first and then soak them in hot water**, not just soak them.
+Tinga de pollo is shredded chicken in a smoky chipotle-tomato sauce. The key is building the sauce properly before adding the chicken.
 
-**According to The Spruce Eats** (https://www.thespruceeats.com/how-to-re-hydrate-chiles-2343043), the correct method is:
+**According to Mely Martínez at Mexico In My Kitchen** (https://www.mexicoinmykitchen.com/chicken-tinga-recipe/), the technique is:
 
-1. **Remove the stems and seeds.** Open each chile with scissors or your hands, take out the seeds, and discard the stem. Rinse the chiles under water to remove dust.
-2. **Heat a skillet with a bit of oil** over medium heat. Fry the chiles in batches (do not crowd them), turning frequently, until they change color and release their aroma (30-60 seconds per side). **Careful: do not burn them.** If they burn, they taste bitter and ruin the mole. If they burn, throw them away and start over.
-3. **Transfer the fried chiles to a bowl of boiling water.** Add the raisins and prunes. Remove from heat and let soak 30 minutes.
-4. **Save the soaking water** — you will need it to blend the chiles. If the water tastes bitter, discard it and use chicken broth or clean water.
+1. **Cook the onions first.** Heat oil in a pan, add sliced onions, and stir-fry 3 minutes. Add garlic and cook 2 more minutes until fragrant. This builds the flavor base.
+2. **Let the tomatoes release their juices.** Add cubed tomatoes and parsley. Lower the heat and cook 6-7 minutes until the tomatoes break down and form a sauce. If the tomatoes are not juicy enough, add a couple tablespoons of the chicken cooking liquid.
+3. **Add chicken and chipotle last.** Add the shredded chicken and chopped chipotle peppers. Simmer 8 minutes until all flavors blend and the sauce thickens slightly.
 
-**Why fry them first and not just soak them?** According to How to Cooking (https://howto.cooking/recipes/traditional-mole-sauce-recipe/), toasting the chiles in oil for exactly 30 seconds awakens the fat-soluble flavor compounds that remain dormant in their dried state. This means the oil helps release flavors that water alone cannot extract. It is like the difference between toasting bread and eating it untoasted — heat transforms the flavor.
+**Chipotle heat control:** Mely notes that 2 chipotle peppers give a medium spice level. Use 1 for mild, 3 for hot. The chipotles in adobo are smoky and spicy — a little goes a long way. Chop them finely so they distribute evenly through the sauce.
 
-**Tip:** Do not use boiling water to soak — very hot water destroys some flavors. Use hot but not boiling water (around 80°C). If the water is boiling when you add the chiles, turn off the heat first.
+**Tip from Mely:** "If you like your chicken tinga a little dry, let it cook a little longer." The longer you cook it, the more the sauce reduces and clings to the chicken.
 
 ---
 
@@ -649,28 +353,23 @@ But there is a trick: if you cook at very high temperature, the muscle fibers co
 
 ---
 
-## 4. How to Make the Mole Silky (Straining)
+## 4. How to Cook Calabacitas Without Making Them Mushy
 
-Mole has many ingredients: chiles, nuts, seeds, spices, tomatoes, chocolate. If you blend it and use it as is, it will have a grainy texture — like sand. To make it silky and luxurious, you need to **strain it through a fine mesh sieve**.
+Calabacitas con elote is a quick vegetable dish — zucchini, corn, tomato, onion, and serrano. The challenge is cooking the zucchini until tender without turning it to mush.
 
-**According to Kate Ramos at ¡Hola! Jalapeño** (https://www.holajalapeno.com/mole-poblano/):
+**According to Mely Martínez at Mexico In My Kitchen** (https://www.mexicoinmykitchen.com/corn-and-zucchini-mexican-style/), the technique is:
 
-> "Strain the chile mixture into a large bowl by pushing it through a fine mesh strainer. You don't have to do this, but it makes for a very silky, luxurious sauce."
+1. **Sauté the onion and garlic first** in oil for 1 minute — this builds the flavor base.
+2. **Add the zucchini and cover the pan.** Covering creates steam, which cooks the zucchini evenly without browning. Cook 5 minutes.
+3. **Add corn and serrano after 5 minutes.** Corn cooks faster than zucchini, so it goes in later. Stir to prevent browning. Cook 3 minutes.
+4. **Add tomatoes last.** Tomatoes release water and can make the dish soggy if added too early. Add them, season with salt and pepper, cover, and simmer just until everything is tender — about 5 more minutes.
 
-The process is:
-1. **Blend each group of ingredients separately** (chiles, nuts/seeds, tomatoes) with some of the chile soaking liquid until very smooth.
-2. **Pass each puree through a fine mesh sieve** (wire strainer with small holes). Use a spoon or rubber spatula to push and scrape the mixture through the sieve. What remains in the sieve (skins, seeds, chunks) is discarded.
-3. **Then fry each strained puree** in a pot with oil. First the chile puree (it will splatter — be careful), then the nut puree, then the tomato puree with the chocolate.
+**Key rules:**
+- **Do not overcook.** The total cooking time is about 13-15 minutes. If you cook longer, the zucchini gets soft and watery.
+- **Cut zucchini into even cubes** (about 1/2 inch / 1 cm) so they cook at the same rate.
+- **Do not add water** unless the tomatoes are very dry. The vegetables release their own liquid.
 
-**According to Serious Eats** (https://www.seriouseats.com/mole-poblano-recipe-how-to-make-mole), this process of blending and straining is what gives mole its velvety texture:
-
-> "The meticulous process of puréeing ingredients and passing everything through a fine-mesh strainer ensures the sauce has a velvety smooth texture."
-
-**According to Tasting Table** (https://www.tastingtable.com/1372856/tips-making-incredible-mole-from-scratch/), some cooks debate whether straining is traditional, but the result is undeniable:
-
-> "Some cooks argue that it's not traditional, but straining your mole can achieve a velvety texture. This removes any gritty herbs interfering with the sauce's silky passage across the palate."
-
-**Practical tip:** If you do not have a fine mesh sieve, you can use a powerful blender and blend longer (3-4 minutes per batch). It will not be as silky as strained, but it will be acceptable. If you have a sieve, use it — the difference is enormous.
+**Optional cheese:** Sprinkle crumbled queso fresco on top after cooking. The heat of the vegetables will soften it slightly. This is optional — the dish is delicious without it.
 
 ---
 
@@ -714,7 +413,7 @@ Frijoles charros uses dried pinto beans. You can use canned beans, but dried bea
 
 ## 6. How to Char Tomatoes, Onion, and Garlic on a Comal
 
-Charring (tatemar in Spanish) means roasting ingredients directly on a hot comal or griddle until they are burnt on the outside. This is a fundamental technique in Mexican cooking. It is used for the mole (tomato, onion, garlic) and for the Veracruz sauce (although in that recipe we fry them in oil instead of charring).
+Charring (tatemar in Spanish) means roasting ingredients directly on a hot comal or griddle until they are burnt on the outside. This is a fundamental technique in Mexican cooking that adds smoky depth to salsas and sauces.
 
 **According to Pati Jinich** (https://patijinich.com/charring_ingredients/), Mexican chef and host of the PBS show *Pati's Mexican Table*:
 
@@ -742,13 +441,13 @@ Charring (tatemar in Spanish) means roasting ingredients directly on a hot comal
 
 > "Preheat the comal over medium heat for several minutes, allowing it to reach an even temperature. Test the temperature by sprinkling a few drops of water — they should sizzle and evaporate quickly."
 
-**Why char instead of roasting in the oven or boiling?** The direct heat of the comal burns the natural sugar in the tomatoes and onion, creating a smoky, caramelized flavor that cannot be obtained any other way. It is the difference between a flavorful mole and a flat one.
+**Why char instead of roasting in the oven or boiling?** The direct heat of the comal burns the natural sugar in the tomatoes and onion, creating a smoky, caramelized flavor that cannot be obtained any other way. It is the difference between a flavorful salsa and a flat one.
 
 ---
 
 ## 7. Mise en Place for Mexican Cooking (Organize Before You Start)
 
-Mise en place (pronounced "meez ahn plahs") is a French term that means "everything in its place." It is the practice of preparing and organizing **all** ingredients before you start cooking. In Mexican cooking, where many recipes have many steps that move fast (especially the mole), this is essential.
+Mise en place (pronounced "meez ahn plahs") is a French term that means "everything in its place." It is the practice of preparing and organizing **all** ingredients before you start cooking. In Mexican cooking, where many recipes have multiple steps, this is essential.
 
 **According to Made In Cookware** (https://madeincookware.com/blogs/mise-en-place):
 
@@ -765,16 +464,15 @@ Before you start cooking any dish, do this:
 1. **Read the recipe from beginning to end.** Understand all the steps before starting.
 2. **Weigh and measure all ingredients.** Put each ingredient in a small bowl or plate.
 3. **Chop everything you need to chop** before turning on the stove: onion, garlic, tomato, cilantro, chiles.
-4. **Group ingredients by step.** For example, for the mole:
-   - Group 1 (chiles): ancho, pasilla, chipotle, raisins, prunes
-   - Group 2 (char): onion, garlic, tomato
-   - Group 3 (spices): cinnamon, peppercorns, anise
-   - Group 4 (nuts and seeds): almonds, pistachios/peanuts, sesame seeds
-   - Group 5 (other): tortilla, chocolate, oregano, ground coriander, salt
-5. **Prepare your tools:** clean blender, fine mesh sieve, pots and pans, wooden spoon, spatula.
+4. **Group ingredients by step.** For example, for the chile colorado:
+   - Group 1 (chiles): guajillo (8), ancho (2), árbol (1)
+   - Group 2 (sauce aromatics): onion, garlic, oregano, cumin, salt
+   - Group 3 (meat): beef chuck, cornstarch, salt, pepper
+   - Group 4 (liquid): beef broth, bay leaf
+5. **Prepare your tools:** clean blender, pots and pans, wooden spoon, spatula.
 6. **Line everything up** left to right, in the order you will use it.
 
-**For the mole especially:** The mole has 12 steps and many ingredients. If you try to make it without mise en place, you will get stressed and things will burn while you look for the next ingredient. Prepare everything before turning on the stove.
+**For the chile colorado especially:** The chile sauce has multiple steps (soak, blend, strain) and the meat needs to be browned in batches. If you prepare everything before turning on the stove, the process flows smoothly.
 
 **Practical tip:** Use small bowls or measuring cups. Put all the bowls on a tray or sheet pan so you can move them all together from the counter to the stove. This way you do not forget anything.
 
@@ -825,105 +523,89 @@ After fluffing, remove the whole serrano chiles with a fork or tongs — they we
 Before you start cooking on Sunday, check that you have everything:
 
 ### Critical ingredients (you cannot cook without these):
-- [ ] Pork (shoulder/leg) — 1.4 kg
-- [ ] Bone-in, skin-on chicken thighs — 7 pieces
-- [ ] White fish (huachinango or mero) — 600g
-- [ ] Poblano peppers — 6 large
-- [ ] Dried chiles: ancho (4), pasilla (5), chipotle (2)
-- [ ] Recado rojo / achiote (check GF) — 1 package
-- [ ] Ibarra chocolate — 1 tablet
-- [ ] Mexican crema — 375ml (~1.5 cups)
-- [ ] Oaxaca cheese — 300g (~1.5 cups shredded)
-- [ ] Pinto beans (dried) — 1.5 cups dry
+- [ ] Pork shoulder (bone-in) — 1.4 kg (3 lbs)
+- [ ] Boneless, skinless chicken thighs — 500g
+- [ ] Beef chuck (stew meat) — 900g (2 lbs)
+- [ ] Pinto beans (dried) — 1.5 cups dry (or 3 cans)
 - [ ] White rice — 1 kg (for arroz rojo)
 - [ ] Canned diced tomatoes (fire-roasted preferred) — 1 can (15 oz)
+- [ ] Chipotles in adobo — 1 can (need 2 peppers) *(check GF)*
+- [ ] Dried guajillo chiles — 8
+- [ ] Dried ancho chiles — 2
+- [ ] Dried árbol chile — 1
+- [ ] Cornstarch — 1 box (need 2 tbsp, GF thickening)
+- [ ] Recado rojo / achiote (check GF) — 1/2 package
 - [ ] Fresh parsley (perejil) — 1 bunch
-- [ ] Serrano peppers — 3
+- [ ] Zucchini (calabacitas) — 3 medium
+- [ ] Corn (fresh or frozen) — 3.5 cups kernels
 
 ### Arroz rojo ingredients:
 - [ ] Canned diced tomatoes — 1 can (15 oz)
-- [ ] White onion — 1/2 small (already counted in main list)
-- [ ] Garlic — 2 cloves (already counted in main list)
+- [ ] White onion — 1/2 small
+- [ ] Garlic — 2 cloves
 - [ ] Vegetable oil — 1.5 tbsp
-- [ ] White rice — 1.5 cups (already counted in main list)
-- [ ] Chicken broth — 1.75 cups (use carton broth or bouillon)
+- [ ] White rice — 1.5 cups
+- [ ] Chicken broth — 1.75 cups
 - [ ] Serrano chiles (slit, not chopped) — 3
 - [ ] Fresh parsley (perejil) — 1/4 cup chopped
 - [ ] Salt
 
-### Ingredients for the Veracruz sauce:
-- [ ] Pitted green olives — 1 jar
-- [ ] Capers — 1 jar
-- [ ] Epazote (or oregano)
-- [ ] White fish — 600g
-
-### Ingredients for the mole:
-- [ ] Raisins — 1/4 cup
-- [ ] Prunes — 1/4 cup
-- [ ] Sliced almonds — 2 tbsp
-- [ ] Peanuts or pistachios — 2 tbsp
-- [ ] White sesame seeds — 1/4 cup
-- [ ] Cinnamon stick — 1 piece of 1 inch (2.5 cm)
-- [ ] Black peppercorns — 5
-- [ ] Anise seed — 1/4 tsp
-- [ ] Corn tortilla (half, for thickening)
-
 ### Herbs and spices:
-- [ ] Dried thyme
-- [ ] Dried Mexican oregano
-- [ ] Ground cumin
-- [ ] Ground coriander
-- [ ] Bay leaves — 5
-- [ ] Chicken bouillon powder (check GF)
+- [ ] Dried oregano — 1 tsp
+- [ ] Ground cumin — 3/4 tsp
+- [ ] Bay leaves — 1
 - [ ] Kosher salt
 - [ ] Black pepper
 
 ### Liquids and oils:
-- [ ] Avocado or vegetable oil
-- [ ] Olive oil
-- [ ] Low-sodium chicken broth — 1 carton
+- [ ] Vegetable oil — 1 bottle
+- [ ] Olive oil — 1 bottle
+- [ ] Beef broth — 1 carton (need 2.5 cups) *(check GF)*
+- [ ] Chicken broth — 1 carton (need 1.75 cups)
 - [ ] Rice wine vinegar or apple cider vinegar
 - [ ] Habanero hot sauce (Yucateco)
-- [ ] Limes — 10
+- [ ] Limes — 8
 
 ### Vegetables and fresh items:
-- [ ] White onions — 5 large
-- [ ] Red onions — 1.5
-- [ ] Garlic — 3 heads
-- [ ] Tomatoes (Roma) — 6
-- [ ] Serrano peppers — 3 (for arroz rojo)
-- [ ] Fresh cilantro — 2 bunches
+- [ ] White onions — 4 large
+- [ ] Red onions — 2 large
+- [ ] Yellow onion — 1/2 (for chile colorado)
+- [ ] Garlic — 2 heads
+- [ ] Tomatoes (Roma) — 8 medium
+- [ ] Serrano peppers — 7
+- [ ] Fresh cilantro — 1 bunch
 - [ ] Fresh parsley (perejil liso, not cilantro) — 1 bunch
-- [ ] Avocados — 1
-- [ ] Carrots — 2
-- [ ] Red cabbage — 1 small
-- [ ] Green cabbage — 1 small
+- [ ] Carrots — 1
+- [ ] Red cabbage — 1/2 head
+- [ ] Green cabbage — 1/2 head
+- [ ] Corn — 2 ears (or frozen)
 
 ### Dairy:
-- [ ] Mexican crema — 375ml (~1.5 cups)
-- [ ] Cream cheese — 170g / 6 oz
-- [ ] Oaxaca cheese — 300g (~1.5 cups shredded)
-- [ ] Butter — 250g
+- [ ] Queso fresco — 100g (optional, for calabacitas)
 
 ### Other:
-- [ ] Frozen banana leaves (optional)
 - [ ] Fresh Mexican chorizo — 60g (check GF)
 - [ ] Bacon — 30g
+- [ ] Frozen banana leaves (optional, for cochinita)
 
 ### Before you start cooking:
 - [ ] I read all the recipes completely
 - [ ] I checked that the recado rojo / achiote is GF
-- [ ] I checked that the chicken bouillon is GF
+- [ ] I checked that the chipotles in adobo are GF
+- [ ] I checked that the beef broth is GF
 - [ ] I checked that the chorizo is GF
 - [ ] I have all ingredients measured and ready (mise en place)
 - [ ] I have the blender clean
-- [ ] I have the fine mesh sieve (for the mole)
 - [ ] I have the slow cooker clean
 - [ ] I have enough glass containers to store the food
 - [ ] I have space in the refrigerator
+- [ ] Dried chiles soaked (not boiled — boiling makes them bitter)
+- [ ] Chipotles en adobo label checked for GF
+- [ ] Cornstarch used instead of flour (GF thickening)
+- [ ] Calabacitas: zucchini not overcooked (cover to steam, then add corn)
 - [ ] Rice fried in oil until milky white (not stirred while simmering)
 - [ ] Arroz rojo: tomato puree cooked into rice before adding broth
 
 ---
 
-> **Final note:** This week we are cooking 5 classic Mexican dishes. All are naturally gluten-free. If you follow the recipes and the tips in this guide, they will turn out delicious. Take your time, especially with the mole — it is the most complicated dish but also the most delicious. Good luck!
+> **Final note:** This week we are cooking 5 classic Mexican dishes — cochinita pibil, tinga de pollo, chile colorado, frijoles charros, and calabacitas con elote. All are naturally gluten-free. If you follow the recipes and the tips in this guide, they will turn out delicious. Take your time, especially with the chile colorado sauce — rehydrating the chiles properly is the key to a rich, flavorful sauce. Good luck!

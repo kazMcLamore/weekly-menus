@@ -11,17 +11,17 @@
 
 | Día | Almuerzo (Cliente) | Cena (Cliente) | Almuerzo (Asistente) |
 |-----|-------------------|----------------|----------------------|
-| Lun | Cochinita Pibil + Frijoles + arroz rojo + ensalada | Pollo con Mole + Rajas + arroz rojo | Pescado Veracruzana + Frijoles + arroz rojo + aguacate |
-| Mar | Pescado Veracruzana + Rajas + arroz rojo + aguacate | Cochinita Pibil + Frijoles + arroz rojo + ensalada | Pollo con Mole + Rajas + arroz rojo |
-| Mié | Pollo con Mole + Frijoles + arroz rojo | Pescado Veracruzana + Rajas + arroz rojo + aguacate | Cochinita Pibil + Frijoles + arroz rojo + ensalada |
-| Jue | Cochinita Pibil + Rajas + arroz rojo + ensalada | Pollo con Mole + Frijoles + arroz rojo | Pescado Veracruzana + Rajas + arroz rojo + aguacate |
-| Vie | Pollo con Mole + Frijoles + arroz rojo | Cochinita Pibil + Rajas + arroz rojo + ensalada | Pollo con Mole + Rajas + arroz rojo |
-| Sáb | — | — | Cochinita Pibil + Frijoles + arroz rojo + ensalada |
+| Lun | Cochinita Pibil + Frijoles + arroz rojo + ensalada | Chile Colorado + Calabacitas + arroz rojo | Tinga de Pollo + Frijoles + arroz rojo |
+| Mar | Tinga de Pollo + Calabacitas + arroz rojo | Cochinita Pibil + Frijoles + arroz rojo + ensalada | Chile Colorado + Calabacitas + arroz rojo |
+| Mié | Chile Colorado + Frijoles + arroz rojo | Cochinita Pibil + Calabacitas + arroz rojo + ensalada | Tinga de Pollo + Frijoles + arroz rojo |
+| Jue | Cochinita Pibil + Frijoles + arroz rojo + ensalada | Chile Colorado + Calabacitas + arroz rojo | Chile Colorado + Calabacitas + arroz rojo |
+| Vie | Chile Colorado + Frijoles + arroz rojo | Tinga de Pollo + Calabacitas + arroz rojo | Cochinita Pibil + Frijoles + arroz rojo + ensalada |
+| Sáb | — | — | Cochinita Pibil + Calabacitas + arroz rojo + ensalada |
 
 **Total de platillos:** 5 (3 con carne, 2 vegetarianos) + 1 ensalada de col + arroz rojo
 **Cocina:** Mexicana, 100% sin gluten
 **Total de comidas:** 16 (cada comida = carne + verdura + arroz rojo)
-**Distribución de porciones:** Cochinita Pibil: 6 | Pollo con Mole: 6 | Pescado Veracruzana: 4 | Frijoles Charros: 8 | Rajas con Crema: 8
+**Distribución de porciones:** Cochinita Pibil: 6 | Tinga de Pollo: 4 | Chile Colorado: 6 | Frijoles Charros: 8 | Calabacitas con Elote: 8
 
 ---
 
@@ -33,7 +33,7 @@
 
 - 1.4 kg (3 libras) espaldilla de cerdo con hueso (pierna de cerdo)
 - 1/2 paquete de 100g de condimento achiote (recado rojo) *(revisar que sea sin gluten — ver notas)*
-- 1/2 taza de jugo de limón (aprox. 4–5 limones), dividido
+- 1/2 taza de jugo de limón (aprox. 4–5 limones)
 - 2 cditas de sal
 - 1 cebolla blanca grande, rebanada de 1 cm de grosor
 - 1 1/2 cebollas moradas grandes, rebanadas finamente (para encurtir)
@@ -42,7 +42,7 @@
 
 ### Preparación
 
-1. Pon el condimento achiote en un tazón chico. Agrega 1/3 taza del jugo de limón y 2 cditas de sal. Mezcla con el reverso de una cuchara hasta formar una marinada espesa y suave.
+1. Pon el condimento achiote en un tazón chico. Agrega 1/2 taza del jugo de limón y 2 cditas de sal. Mezcla con el reverso de una cuchara hasta formar una marinada espesa y suave.
 2. Si usas hojas de plátano, corta 2 secciones de 60 cm y forra la olla de cocción lenta — pon una a lo largo y la otra a lo ancho. Coloca el cerdo y baña con la marinada encima y alrededor del trozo. Esparce la cebolla blanca sobre la carne.
 3. Vierte 1/2 taza de agua alrededor de la carne. Dobla las hojas de plátano para cubrir todo (o simplemente pon la tapa si no usas hojas). Cocina en ALTO por 6 horas hasta que la carne se deshaga y se separe del hueso.
 4. Mientras se cocina la carne, combina las 1 1/2 cebollas moradas con el jugo de limón restante en un tazón. Espolvorea con 1/2 cdita de sal, mezcla y deja marinar (revuelve de vez en cuando).
@@ -53,107 +53,72 @@
 
 ---
 
-## 🍗 PLATILLO 2: Pollo con Mole Poblano
-
-**Porciones:** 6 (tamaño reducido al 70%)
-
-### Para la salsa de mole (rinde ~2 tazas — usa 1 taza, congela el resto)
-
-- 5 chiles pasilla secos
-- 4 chiles ancho secos
-- 2 chiles chipotle secos
-- 1/4 taza + 1.5 cdas de aceite de aguacate (o aceite vegetal), dividido
-- 1/4 taza de pasas (aprox. 45g)
-- 1/4 taza de ciruelas pasas (aprox. 60g)
-- 1/2 cebolla blanca grande, en cuartos
-- 4 dientes de ajo, con cáscara
-- 1 trozo de 2.5 cm de canela (canela de Ceilán o canela normal)
-- 5 granos de pimienta negra
-- 1/4 cdita de semilla de anís
-- 140g de jitomate (aprox. 1.5 jitomates grandes), sin centro
-- 2 cdas de almendras fileteadas
-- 2 cdas de pistaches pelados (o cacahuates)
-- 1/4 taza de ajonjolí blanco
-- 1/2 tortilla de maíz dura (del día anterior)
-- 1/2 cdita de orégano mexicano seco
-- 1 cdita de sal de grano
-- 1/4 cdita de cilantro molido (semilla de cilantro)
-- 20g de chocolate mexicano oscuro (marca Ibarra o Hernán)
-
-### Para el pollo
-
-- 7 muslos de pollo con hueso y piel (aprox. 1.4 kg)
-- 1/4 de cebolla blanca grande, picada
-- 1 zanahoria chica, picada
-- 2 dientes de ajo, picados
-- 1/4 taza de aceite de aguacate
-- Sal de grano y pimienta negra
-- 4 tazas de agua
-
-### Preparación — Salsa de mole (hacer el día anterior si es posible)
-
-1. Quita los tallos y las semillas a todos los chiles secos. Enjuágalos bajo el agua para quitar el polvo.
-2. Pon a hervir agua en una olla grande. Calienta 2 cdas del aceite en un sartén grande a fuego medio. Fríe los chiles en tandas, volteándolos seguido, hasta que se oscurezcan y suelten su aroma (30–60 segundos por lado). Pásalos al agua hirviendo. Agrega las pasas y las ciruelas pasas. Retira del fuego y deja remojar 30 minutos.
-3. Calienta un comal o sartén seco a fuego alto. Asa los cuartos de cebolla y los dientes de ajo con cáscara hasta que se tuesten bien por todos lados, unos 15 minutos. Pasa a un tazón. Pela el ajo cuando se enfríe.
-4. Baja el fuego a bajo. Tuesta la canela, los granos de pimienta y la semilla de anís hasta que suelten su aroma, 30–60 segundos. Muele a polvo fino en un molcajete o molinillo de especias.
-5. Sube el fuego a alto. Asa los jitomates hasta que la piel esté tuesta por todos lados, unos 10 minutos. Pasa a un tazón.
-6. Calienta 1 cdita de aceite en un sartén chico. Tuesta las almendras y los pistaches hasta que se doren, 2 minutos. Retíralos. Agrega otra cdita de aceite, tuesta el ajonjolí 1 minuto, revolviendo constantemente. Retira. Limpia el sartén.
-7. Calienta 1 cdita más de aceite. Fríe la tortilla hasta que quede crujiente. Retírala y pártela en trozos.
-8. Saca los chiles y la fruta seca del agua de remojo (GUARDA el agua). Licúa los chiles y la fruta con 1/4 taza del agua de remojo hasta que quede suave. Cuela con un colador de malla fina hacia un tazón, empujando con una cuchara.
-9. Licúa la cebolla, el ajo pelado, las especias molidas, los frutos secos, 2 cdas de ajonjolí, los trozos de tortilla, el cilantro molido, la sal y el orégano con 1/4 taza del agua de remojo hasta que quede suave. Cuela hacia otro tazón.
-10. Licúa los jitomates hasta que queden suaves. Cuela hacia un tercer tazón.
-11. Calienta 2 cdas de aceite en una olla grande a fuego medio. Agrega el puré de chile — va a salpicar. Revuelve constantemente y fríe 4–5 minutos hasta que se oscurezca. Agrega el puré de frutos secos, integra. Agrega el puré de jitomate y el chocolate. Revuelve constantemente hasta que el chocolate se derrita y la salsa quede suave.
-12. Si queda muy espesa, agrega el agua de remojo de 1/4 taza a la vez hasta que cubra el reverso de una cuchara. Prueba y ajusta la sal. Rinde aprox. 2 tazas. Usa 1 taza para esta receta; congela el resto.
-
-### Preparación — Pollo
-
-1. Sazona los muslos de pollo generosamente con sal y pimienta por todos lados.
-2. Calienta el aceite en un sartén grande u olla a fuego medio-alto. Sella el pollo hasta que esté dorado por ambos lados, 8–10 minutos en total. Pasa a un plato.
-3. Agrega la cebolla picada, la zanahoria y el ajo. Sazona con sal y pimienta. Cocina, revolviendo, hasta que se doren, unos 5 minutos.
-4. Agrega 4 tazas de agua y raspa los pegados del fondo. Regresa el pollo a la olla. Deja que hierva, luego baja a fuego lento. Tapa y cocina 1 hora hasta que quede suave.
-5. Pasa el pollo a un plato. Cuela el caldo por un colador de malla fina (desecha las verduras). Quita y desecha la piel del pollo. Desmenuza o deja los muslos enteros.
-6. En la misma olla a fuego medio, agrega 1 taza de salsa de mole. Afina con 1/2 taza del caldo de pollo reservado hasta que quede sedosa. Deja que hierva a fuego lento.
-7. Agrega el pollo, volteándolo para que se cubra. Cocina a fuego lento 20 minutos, revolviendo seguido para que no se queme el mole.
-8. Sirve sobre arroz rojo con la salsa de mole bañando el pollo. Decora con cebolla blanca rebanada y ajonjolí.
-
-**Almacenamiento:** Se conserva 4–5 días refrigerado — el mole mejora cada día. Se congela 3 meses. Calentar en estufa a fuego bajo (revolver seguido — el mole se quema fácil) o en microondas.
-
-**Nota sin gluten:** El mole se espesa con tortilla de maíz en lugar de pan — por eso es naturalmente sin gluten. NO sustituyas con bolillo o pan. Revisa que el achiote y los condimentos sean sin gluten.
-
----
-
-## 🐟 PLATILLO 3: Pescado a la Veracruzana
+## 🍗 PLATILLO 2: Tinga de Pollo (Pollo en Salsa de Chipotle y Jitomate)
 
 **Porciones:** 4 (tamaño reducido al 70%)
 
 ### Ingredientes
 
-- 600g de filetes de pescado blanco firme (huachinango/pargo colorado, mero, o tilapia)
-- 4 jitomates medianos
-- 3 dientes de ajo
-- 2 cditas de tomillo seco
-- 3/4 cdita de pimienta negra
-- 3/4 cdita de epazote (o 3/8 cdita de orégano seco)
-- 3/4 cdita de sal + más al gusto
-- 4 hojas de laurel
-- 20 aceitunas verdes, picadas
-- 8 alcaparras
-- 3/4 taza de caldo de pollo bajo en sodio
-- 3/4 de cebolla blanca mediana, picada groseramente
-- 4 cdas de aceite para cocinar, dividido
+- 500g de muslos de pollo sin hueso y sin piel (aprox. 3 muslos grandes)
+- 1 1/2 cdas de aceite vegetal
+- 1/2 cebolla blanca mediana, rebanada
+- 1 diente de ajo grande, picado finamente
+- 2 tazas de jitomate en cubos (aprox. 3 jitomates medianos)
+- 1 cda de perejil fresco, picado (más para decorar)
+- 2 chiles chipotles en adobo, picados *(revisar que sean sin gluten — ver notas)*
+- Sal y pimienta al gusto
+- Agua para cocer el pollo
 
 ### Preparación
 
-1. **Haz la salsa:** Calienta 2 cdas de aceite en un sartén grande a fuego medio. Fríe la cebolla y el ajo por 4 minutos. Agrega el jitomate, la pimienta negra y la sal. Baja el fuego a bajo y cocina 15 minutos hasta que los jitomates suelten su jugo.
-2. Aplasta los jitomates, la cebolla y el ajo con un machacador de frijoles o prensa de papa (o dale unos toques cortos en la licuadora para una salsa más suave).
-3. Agrega el tomillo, el epazote (o orégano) y las hojas de laurel. Revuelve. Agrega el caldo de pollo. Agrega las aceitunas picadas y las alcaparras. Cocina a fuego lento 15 minutos.
-4. **Cocina el pescado:** En otro sartén a fuego medio, dora ligeramente cada lado de los filetes de pescado en 2 cdas de aceite — no los dejes dorar demasiado.
-5. Una vez dorados por ambos lados, coloca los filetes en la salsa a fuego lento. Cocina 10 minutos hasta que la salsa espese un poco y el pescado esté bien cocido y haya absorbido los sabores.
-6. Prueba y ajusta la sal. Sirve sobre arroz rojo con la salsa bañando el pescado y una rebanada de aguacate.
+1. **Cuece el pollo:** Pon los muslos de pollo en una olla con agua que los cubra, 1/2 cdita de sal y un trozo de cebolla. Deja que hierva, baja a fuego lento y cocina 20 minutos hasta que estén suaves. Saca el pollo, deja enfriar y desmenúzalo con dos tenedores. Reserva 1/2 taza del caldo de cocción. *(O usa la olla de cocción lenta: cocina en ALTO 3 horas con agua que cubra.)*
+2. **Haz la salsa:** Calienta el aceite en un sartén grande a fuego medio. Agrega la cebolla rebanada y sofríe 3 minutos. Agrega el ajo y cocina 2 minutos más hasta que suelte su aroma.
+3. Agrega el jitomate en cubos y el perejil. Baja el fuego y cocina 6–7 minutos hasta que los jitomates suelten su jugo. Si no están jugosos, agrega 2 cdas del caldo de pollo reservado.
+4. Agrega el pollo desmenuzado y los chipotles picados. Cocina a fuego lento 8 minutos hasta que se integren todos los sabores y la salsa espese un poco. Sazona con sal y pimienta.
+5. Sirve sobre arroz rojo con la salsa bañando el pollo. Decora con perejil picado.
 
-**Almacenamiento:** El pescado no se conserva tanto tiempo. Comer en 2–3 días. Las porciones del lunes (asistente), martes (almuerzo del cliente) y miércoles (cena del cliente) se mantienen bien refrigeradas. La porción del jueves (asistente) DEBE congelarse apenas terminada y descongelarse el miércoles en la noche. Alternativamente, congela la base de salsa (pasos 1–3) por separado y cocina el pescado fresco el jueves.
+**Almacenamiento:** Se conserva 4 días refrigerado. Se congela bien hasta 1 mes. Calentar en estufa o microondas.
 
-**Sobre el pescado:** El huachinango (pargo colorado) es la opción tradicional y se consigue fácil en Playa del Carmen. El mero es una excelente alternativa. Ambos son pescados blancos firmes que aguantan bien el cocimiento a fuego lento.
+**Nota sin gluten:** La mayoría de los chipotles en adobo son naturalmente sin gluten, pero algunas marcas agregan trigo. La marca La Costeña (común en México) generalmente es sin gluten — siempre revisa la etiqueta.
+
+---
+
+## 🐮 PLATILLO 3: Chile Colorado de Res (Res en Salsa de Chile Rojo)
+
+**Porciones:** 6 (tamaño reducido al 70%)
+
+### Ingredientes
+
+- 8 chiles guajillo secos, sin tallo y sin semillas
+- 2 chiles ancho secos, sin tallo y sin semillas
+- 1 chile de árbol seco, sin tallo *(dejar semillas para más picante, o quitar para suave)*
+- 1/2 cebolla amarilla
+- 1 cdita de orégano seco
+- 1 1/2 cditas de sal de grano, dividida, más al gusto
+- 1 diente de ajo
+- 1/2 cdita de comino molido
+- 900g (2 libras) de carne de res para guisado (espaldilla/camote), cortada en cubos de 1 cm
+- 2 cdas de fécula de maíz *(sustitución sin gluten para harina de trigo)*
+- 1/4 cdita de pimienta negra recién molida
+- 2 cdas de aceite de oliva
+- 2 1/2 tazas de caldo de res *(revisar que sea sin gluten)*
+- 1 hoja de laurel
+
+### Preparación
+
+1. **Haz la salsa de chile rojo:** Pon los chiles guajillo, ancho, de árbol y la cebolla en una olla mediana. Cubre con agua hasta que estén completamente sumergidos. Deja hervir a fuego alto. Retira del fuego, tapa y deja reposar 20 minutos para suavizar los chiles. *(No dejes que hierva a fuego alto todo el tiempo — amarga los chiles.)*
+2. Con una cuchara perforada, pasa los chiles suavizados y la cebolla a la licuadora. Agrega 1 taza del agua de remojo de los chiles, el orégano, 1 cdita de sal, el ajo y el comino. Licúa hasta que quede suave. Si queda muy espesa, agrega un poco de caldo de res. Reserva.
+3. **Cubre la carne:** En un tazón grande, revuelve los cubos de res con la fécula de maíz, la 1/2 cdita de sal restante y la pimienta negra.
+4. **Dora la carne:** Calienta el aceite en una olla grande a fuego medio-alto. Agrega la mitad de la carne y dora por todos lados, unos 5 minutos. Pasa a un tazón. Repite con el resto de la carne.
+5. **Cocina a fuego lento:** Regresa toda la carne a la olla. Agrega la salsa de chile rojo licuada, el caldo de res y la hoja de laurel. Revuelve para integrar. Deja que hierva, luego baja a fuego lento. Tapa y cocina 45 minutos hasta que la carne esté suave.
+6. **Reduce:** Destapa, prueba y ajusta la sal. Sube a fuego medio y cocina 15 minutos más hasta que la salsa reduzca y espese un poco. Si prefieres salsa más espesa, cocina más tiempo.
+7. Retira la hoja de laurel. Sirve sobre arroz rojo con la salsa bañando la carne.
+
+**Almacenamiento:** Se conserva 5 días refrigerado — mejora cada día. Se congela 3 meses. Calentar en estufa a fuego medio (tapa la olla — el chile salpica y mancha!) o en microondas.
+
+**Nota sin gluten:** La receta original usa harina de trigo para cubrir la carne. Nosotros sustituimos con fécula de maíz — es la única cambio. Todo lo demás es naturalmente sin gluten (chiles secos, cebolla, ajo, comino, orégano, res, caldo, laurel).
+
+**Olla de cocción lenta:** Haz la salsa de chile y dora la carne como se indica, luego pasa todo a la olla de cocción lenta. Cocina en ALTO 4–5 horas o en BAJO 6–8 horas. La carne quedará más suave y deshecha.
 
 ---
 
@@ -191,37 +156,35 @@
 
 ---
 
-## 🫑 PLATILLO 5: Rajas con Crema
+## 🥒 PLATILLO 5: Calabacitas con Elote
 
 **Porciones:** 8 (tamaño reducido al 70%)
 
 ### Ingredientes
 
-- 6 chiles poblanos grandes
-- 3 cdas de mantequilla
-- 3/4 de cebolla blanca grande, rebanada en tiras
-- 3 dientes de ajo, picados finamente
-- 1 1/2 tazas de granos de elote (fresco, de lata, o congelado/descongelado)
-- 1 1/2 cditas de consomé de pollo en polvo (o consomé de verduras para vegetariano)
-- 3/4 cdita de pimienta negra
-- 170g de queso crema
-- 1 1/2 tazas de crema mexicana (o crema para batir o crema ácida)
-- 1 1/2 tazas de queso Oaxaca desmenuzado (o Chihuahua, Mozzarella, Monterey Jack)
+- 3 calabacitas medianas (mexicanas o normales), cortadas en cubos de 1 cm
+- 3 1/2 tazas de granos de elote frescos (de 2 elotes, o congelados/descongelados)
+- 2/3 de taza de cebolla blanca, picada
+- 1 1/2 dientes de ajo, picados finamente
+- 2 1/2 chiles serranos, picados (usar 1 para suave)
+- 2 cdas de aceite vegetal
+- 3 jitomates medianos, picados
+- 3 cdas de cilantro fresco, picado (o epazote)
+- 1/2 taza de queso fresco desmoronado (opcional, para servir)
+- Sal y pimienta al gusto
 
 ### Preparación
 
-1. **Asa los poblanos:** Coloca los chiles poblanos en una charola para horno y ásalos en el asador (broiler) del horno, volteándolos de vez en cuando, hasta que se tuesten por todos lados (15–20 minutos). *O en freidora de aire: 200°C por 7–10 minutos, volteando a la mitad.* *O directamente sobre la flama de la estufa, volteando con pinzas.*
-2. Pasa los chiles asados a un tazón, tapa con plástico autoadherible y deja que suden 10–15 minutos.
-3. Quita la piel tostada, los tallos y las semillas, y rebanalos en tiras (rajas).
-4. En un sartén grande a fuego medio-alto, derrite la mantequilla. Agrega las tiras de cebolla y sofríe 3–4 minutos hasta que se suavicen.
-5. Agrega el ajo y las rajas de poblano. Cocina 2 minutos, revolviendo seguido.
-6. Agrega el elote, el consomé y la pimienta negra. Mezcla bien.
-7. Baja el fuego a medio. Agrega el queso crema y la crema. Revuelve hasta que el queso crema se derrita y todo se integre.
-8. Cocina 5 minutos hasta que la salsa burbujee suavemente y espese un poco.
-9. Agrega el queso desmenuzado, tapa el sartén y apaga el fuego. Deja reposar 2–3 minutos hasta que el queso se derrita.
-10. Sirve con arroz rojo y el platillo de carne.
+1. Calienta el aceite en un sartén grande a fuego medio-alto. Agrega la cebolla y el ajo y sofríe 1 minuto.
+2. Agrega las calabacitas y tapa el sartén. Cocina 5 minutos.
+3. Agrega el elote y los chiles serranos picados. Revuelve para que no se doren. Cocina 3 minutos.
+4. Agrega los jitomates picados. Revuelve y sazona con sal y pimienta. Tapa y cocina a fuego lento hasta que las calabacitas y el elote estén suaves, unos 5 minutos.
+5. Agrega el cilantro picado. Si los jitomates no están jugosos, agrega un chorrito de agua para que no se pegue.
+6. Sirve con un poco de queso fresco desmoronado encima (opcional).
 
-**Almacenamiento:** Se conserva 4 días refrigerado. Se congela hasta 3 meses (la salsa puede separarse un poco — revolver al calentar). Calentar en estufa a fuego bajo o microondas. ⚠️ Para las porciones del viernes (día 5), congela 2 porciones el domingo y descongélalas el jueves en la noche.
+**Almacenamiento:** Se conserva 3 días refrigerado. No se congela bien (la calabacita se pone aguada). Calentar en sartén unos minutos o microondas 1–2 minutos. ⚠️ Este es el platillo que menos se conserva de la semana — comer antes del miércoles. Para jueves y viernes, cocina fresco esos días (solo 20 minutos) o pica las verduras el domingo y cocina fresco cada día.
+
+**Sobre las calabacitas:** Las calabacitas mexicanas son las de color verde claro, redonditas, muy comunes en los mercados de México. La calabacita normal (zucchini) sirve perfectamente como sustituto.
 
 ---
 
@@ -293,105 +256,87 @@
 | Platillo | Porciones | Contenido por envase | Tipo de envase |
 |----------|----------|---------------------|----------------|
 | Cochinita Pibil | 6 | ~170g cerdo + salsa + 1/3 taza arroz rojo | Vidrio 600ml |
-| Pollo con Mole | 6 | ~145g pollo + 2.5 cdas mole + 1/3 taza arroz rojo | Vidrio 600ml |
-| Pescado Veracruzana | 4 | ~140g pescado + 3.5 cdas salsa + 1/3 taza arroz rojo | Vidrio 600ml |
+| Tinga de Pollo | 4 | ~130g pollo + salsa + 1/3 taza arroz rojo | Vidrio 600ml |
+| Chile Colorado | 6 | ~125g res + salsa + 1/3 taza arroz rojo | Vidrio 600ml |
 | Frijoles Charros | 8 | ~1/2 taza frijoles + caldo + carne | Vidrio 400ml |
-| Rajas con Crema | 8 | ~1/2 taza rajas + crema + elote | Vidrio 400ml |
+| Calabacitas con Elote | 8 | ~3/4 taza verduras + elote | Vidrio 400ml |
 
 **Forma de empaque:** Cada comida = 1 envase de carne (carne + arroz juntos para que el arroz absorba la salsa) + 1 envase de verdura (aparte). Mezclar en el plato al comer.
 
 **Guarniciones empacadas por separado:**
 - Ensalada de col: 6 envases chicos (aderezo aparte)
 - Cebolla morada encurtida: 1 frasco compartido
-- Aguacate: 4 porciones (1/4 aguacate cada una, para los días de pescado)
 
 ### Lista de empaque por día
 
-- **Lunes:** Cliente: 1× Cochinita + Frijoles + ensalada + cebolla encurtida, 1× Mole + Rajas | Asistente: 1× Pescado + Frijoles + aguacate
-- **Martes:** Cliente: 1× Pescado + Rajas + aguacate, 1× Cochinita + Frijoles + ensalada + cebolla encurtida | Asistente: 1× Mole + Rajas
-- **Miércoles:** Cliente: 1× Mole + Frijoles, 1× Pescado + Rajas + aguacate | Asistente: 1× Cochinita + Frijoles + ensalada + cebolla encurtida
-- **Jueves:** Cliente: 1× Cochinita + Rajas + ensalada + cebolla encurtida, 1× Mole + Frijoles | Asistente: 1× Pescado + Rajas + aguacate
-- **Viernes:** Cliente: 1× Mole + Frijoles, 1× Cochinita + Rajas + ensalada + cebolla encurtida | Asistente: 1× Mole + Rajas
-- **Sábado:** Asistente: 1× Cochinita + Frijoles + ensalada + cebolla encurtida
+- **Lunes:** Cliente: 1× Cochinita + Frijoles + ensalada + cebolla encurtida, 1× Chile Colorado + Calabacitas | Asistente: 1× Tinga + Frijoles
+- **Martes:** Cliente: 1× Tinga + Calabacitas, 1× Cochinita + Frijoles + ensalada + cebolla encurtida | Asistente: 1× Chile Colorado + Calabacitas
+- **Miércoles:** Cliente: 1× Chile Colorado + Frijoles, 1× Cochinita + Calabacitas + ensalada + cebolla encurtida | Asistente: 1× Tinga + Frijoles
+- **Jueves:** Cliente: 1× Cochinita + Frijoles + ensalada + cebolla encurtida, 1× Chile Colorado + Calabacitas | Asistente: 1× Chile Colorado + Calabacitas
+- **Viernes:** Cliente: 1× Chile Colorado + Frijoles, 1× Tinga + Calabacitas | Asistente: 1× Cochinita + Frijoles + ensalada + cebolla encurtida
+- **Sábado:** Asistente: 1× Cochinita + Calabacitas + ensalada + cebolla encurtida
 
 ---
 
 ## 🛒 LISTA DE COMPRAS
 
 ### Frutas y Verduras
-- [ ] Cebollas blancas, grandes — 5
+- [ ] Cebollas blancas, grandes — 4
 - [ ] Cebollas moradas — 2 grandes (1.5 para encurtir, 1/3 para ensalada)
-- [ ] Ajo — 4 cabezas (se necesitan ~19 dientes)
-- [ ] Chiles poblanos — 6 grandes
-- [ ] Jitomates (Roma o saladette) — 6 medianos (4 para pescado, 2 para frijoles)
-- [ ] Chile serrano — 5 (2 para frijoles, 3 para arroz) — o jalapeño para menos picante
-- [ ] Cilantro fresco — 1 manojo (se necesita 1/2 taza)
-- [ ] Perejil fresco — 1 manojo chico (se necesita 1/4 taza)
+- [ ] Cebolla amarilla — 1/2 (para la salsa del chile colorado)
+- [ ] Ajo — 2 cabezas (se necesitan ~10 dientes)
+- [ ] Calabacitas (mexicanas o normales) — 3 medianas
+- [ ] Jitomates (Roma o saladette) — 8 medianos (3 para tinga, 2 para frijoles, 3 para calabacitas)
+- [ ] Chile serrano — 7 (2 para frijoles, 2-3 para calabacitas, 3 para arroz) — o jalapeño para menos picante
+- [ ] Cilantro fresco — 1 manojo (se necesitan 1/2 taza + 3 cdas)
+- [ ] Perejil fresco — 1 manojo chico (se necesitan 1 cda para tinga + 1/4 taza para arroz)
 - [ ] Limones — 8 (5 para cochinita, 2 para ensalada, 1 de reserva)
-- [ ] Aguacates — 1 (para 4 porciones de pescado, 1/4 cada uno)
-- [ ] Zanahorias — 2 (1 para ensalada, 1 para el cocimiento del pollo)
+- [ ] Zanahorias — 1 (para ensalada)
 - [ ] Col morada — 1/2 cabeza
 - [ ] Col verde — 1/2 cabeza
+- [ ] Elotes — 2 frescos (o 1 bolsa congelada, se necesitan 3 1/2 tazas de granos)
 
 ### Carnes / Pescado
 - [ ] Espaldilla de cerdo con hueso (pierna de cerdo) — 1.4 kg (3 libras)
-- [ ] Muslos de pollo con hueso y piel — 7 (aprox. 1.4 kg)
-- [ ] Filetes de pescado blanco firme (huachinango/pargo colorado o mero) — 600g
+- [ ] Muslos de pollo sin hueso y sin piel — 500g (aprox. 3 grandes)
+- [ ] Carne de res para guisado (espaldilla/camote) — 900g (2 libras)
 - [ ] Chorizo mexicano (fresco, crudo) — 100g (se necesitan 60g)
 - [ ] Tocino — 100g (se necesitan 30g)
 
 ### Abarrotes
 - [ ] Arroz blanco (de grano medio o grano largo) — bolsa de 1 kg (se necesitan 1 1/2 tazas)
 - [ ] Frijol pinto seco — 1 bolsa (se necesitan 1 1/2 tazas) — o 3 latas de 425g cada una
-- [ ] Tortillas de maíz — 1 paquete de 15 (opcional, 1 por comida si se desea)
 - [ ] Jitomate en cubos enlatado (asado al fuego) — 1 lata de 15 oz (425g) para el arroz rojo
-- [ ] Aceitunas verdes (sin hueso) — 1 frasco chico (se necesitan 20)
-- [ ] Alcaparras — 1 frasco chico (se necesitan 8)
-- [ ] Pasas — 1 bolsa chica (se necesitan 1/4 taza)
-- [ ] Ciruelas pasas — 1 bolsa chica (se necesitan 1/4 taza)
+- [ ] Chipotles en adobo — 1 lata (se necesitan 2 chiles) *(revisar que sean sin gluten)*
+- [ ] Fécula de maíz — 1 caja (se necesitan 2 cdas, para espesar sin gluten el chile colorado)
 
-### Chiles Secos *(para la salsa de mole)*
-- [ ] Chiles pasilla secos — 5
-- [ ] Chiles ancho secos — 4
-- [ ] Chiles chipotle secos — 2
-
-### Frutos Secos y Semillas *(para la salsa de mole)*
-- [ ] Almendras fileteadas — bolsa chica (se necesitan 2 cdas)
-- [ ] Pistaches pelados (o cacahuates) — bolsa chica (se necesitan 2 cdas)
-- [ ] Ajonjolí blanco — bolsa chica (se necesitan 1/4 taza + 2 cdas)
+### Chiles Secos *(para el chile colorado)*
+- [ ] Chiles guajillo secos — 8
+- [ ] Chiles ancho secos — 2
+- [ ] Chiles de árbol secos — 1
 
 ### Lácteos
-- [ ] Crema mexicana — 375ml (se necesitan 1 1/2 tazas)
-- [ ] Queso crema — 1 barra (225g, se necesitan 170g)
-- [ ] Queso Oaxaca (o Chihuahua/Mozzarella) — 250g (se necesitan 1 1/2 tazas desmenuzado)
-- [ ] Chocolate mexicano oscuro (marca Ibarra o Hernán) — 1 tableta (se necesitan 20g)
-- [ ] Mantequilla — 250g (se necesitan 3 cdas)
+- [ ] Queso fresco — 100g (se necesitan 1/2 taza desmoronado, opcional para calabacitas)
 
 ### Especias y Condimentos *(revisar lo que ya tienes)*
 - [ ] Condimento achiote (recado rojo) — 1/2 paquete de 100g *(revisar que sea sin gluten)*
-- [ ] Tomillo seco — 1 cda (se necesitan 2 cditas)
-- [ ] Epazote seco (o orégano seco) — 1 cdita
-- [ ] Orégano mexicano seco — 1/2 cdita
-- [ ] Canela (de Ceilán o normal) — 1 rajita de 2.5 cm
-- [ ] Granos de pimienta negra — 5
-- [ ] Semilla de anís — 1/4 cdita
-- [ ] Cilantro molido (semilla de cilantro) — 1/4 cdita
-- [ ] Comino molido — 1/4 cdita
-- [ ] Hojas de laurel — 4
-- [ ] Consomé de pollo en polvo — 1 1/2 cditas (para las rajas) *(revisar que sea sin gluten)*
+- [ ] Orégano seco — 1 cdita (para chile colorado)
+- [ ] Comino molido — 1/2 cdita (para chile colorado) + 1/4 cdita (para ensalada)
+- [ ] Hojas de laurel — 1 (para chile colorado)
 - [ ] Sal de grano — suficiente
 - [ ] Pimienta negra — suficiente
 
 ### Aceites
-- [ ] Aceite de aguacate o aceite vegetal — 1 botella (se necesitan ~1/2 taza en total)
-- [ ] Aceite de oliva — a la mano (para el aderezo de la ensalada, se necesitan 4 cdas)
+- [ ] Aceite vegetal — 1 botella (se necesitan ~5 cdas en total)
+- [ ] Aceite de oliva — 1 botella (se necesitan 2 cdas para chile colorado + 4 cdas para ensalada = 6 cdas)
 
 ### Salsas y Aderezos
 - [ ] Salsa habanera (marca Yucateco o Frontera) — 1 botella (para la cochinita)
 - [ ] Vinagre de arroz o vinagre de manzana — 1 botella (para la ensalada)
 
 ### Caldos
-- [ ] Caldo de pollo bajo en sodio — 2 cartones de 1 L cada uno (se necesitan 1 3/4 tazas para arroz + 3/4 taza para pescado + 4 tazas para pollo + 1/2 taza para mole)
+- [ ] Caldo de res — 1 cartón de 1 L (se necesitan 2 1/2 tazas para chile colorado) *(revisar que sea sin gluten)*
+- [ ] Caldo de pollo bajo en sodio — 1 cartón de 1 L (se necesitan 1 3/4 tazas para arroz rojo)
 
 ---
 
@@ -400,48 +345,46 @@
 ### Puntos de cuidado sin gluten
 
 - **Condimento achiote (recado rojo):** Algunas marcas comerciales lo mezclan con harina de trigo. Revisa la etiqueta — marcas sin gluten comunes: El Yucateco y Mexicali. Si no estás seguro, hazlo tú mismo: muele 3 cdas de semilla de achiote (achiote en grano), 1 cdita de comino, 1 cdita de cilantro, 1 cdita de orégano, 1 cdita de ajo en polvo, 1/2 cdita de pimienta de Jamaica (allspice), 1/2 cdita de pimienta negra.
-- **Consomé de pollo en polvo:** Algunas marcas contienen trigo. Knorr NO es confiablemente sin gluten. Busca Herdez, Better Than Bouillon (con etiqueta sin gluten), o usa sal + una pizca de comino y ajo en polvo.
-- **Chocolate mexicano (Ibarra):** Contiene cacao, azúcar, canela y lecitina de soya — naturalmente sin gluten. La marca Hernán también es sin gluten.
-- **Chorizo:** Algunos chorizos comerciales usan pan molido como relleno. Revisa la etiqueta o compra en una carnicería que lo haga fresco. El chorizo marca Cacique generalmente es sin gluten pero siempre verifica.
-- **Tortillas de maíz:** Naturalmente sin gluten, pero revisa la contaminación cruzada si hay mucha sensibilidad.
+- **Chipotles en adobo:** La mayoría son naturalmente sin gluten, pero algunas marcas agregan trigo. La marca La Costeña (común en México) generalmente es sin gluten — siempre revisa la etiqueta.
+- **Caldo de res:** La mayoría de los caldos comerciales son sin gluten, pero algunos cubitos contienen trigo. Revisa la etiqueta. Better Than Bouillon (con etiqueta sin gluten) es una buena opción.
+- **Chorizo:** Algunos chorizos comerciales usan pan molido como relleno. Revisa la etiqueta o compra en una carnicería que lo haga fresco.
+- **Fécula de maíz:** Naturalmente sin gluten — sustituye la harina de trigo en el chile colorado.
 - **Jitomate en cubos enlatado:** Revisa la etiqueta para trigo añadido — la mayoría son sin gluten pero verifica.
 
 ### Disponibilidad de ingredientes en Playa del Carmen
 
 - **Condimento achiote (recado rojo):** Se consigue en Chedraui, Walmart y mercados locales. Busca "recado rojo" o "achiote" en la sección de especias.
-- **Chiles secos (ancho, pasilla, chipotle):** Muy disponibles en Chedraui, Walmart y cualquier mercado. Se venden en bolsas transparentes en la sección de verduras o especias.
-- **Crema mexicana:** Se consigue en todos lados — Chedraui, Walmart, OXXO, mercados locales. Busca "crema mexicana" o "crema ácida."
-- **Queso Oaxaca:** Disponible en Chedraui y Walmart en la sección de quesos. Queso Chihuahua o Mozzarella son buenos sustitutos.
-- **Chocolate mexicano (Ibarra):** Disponible en Chedraui, Walmart y la mayoría de los supermercados. Viene en tabletas hexagonales.
-- **Chiles poblanos:** Disponibles en Chedraui y mercados locales. A veces etiquetados como "chile poblano" o simplemente "poblano."
+- **Chiles secos (guajillo, ancho, de árbol):** Muy disponibles en Chedraui, Walmart y cualquier mercado. Se venden en bolsas transparentes en la sección de verduras o especias.
+- **Chipotles en adobo:** Se consigue en cualquier supermercado (Chedraui, Walmart, Soriana). Marca La Costeña es la más común.
+- **Calabacitas mexicanas:** Disponibles en cualquier mercado o supermercado. Son las de color verde claro, más redonditas que el zucchini. El zucchini normal sirve igual.
+- **Elotes frescos:** Disponibles en mercados y supermercados. También puedes usar elote congelado o de lata.
+- **Queso fresco:** Disponible en Chedraui, Walmart y cualquier mercado. Busca "queso fresco" o "queso panela."
 - **Frijol pinto:** Se vende seco en bolsas en todos lados, o en lata. También se le conoce como "frijol pinto" o "frijol bayo."
-- **Huachinango (pargo colorado):** Fácil de conseguir en mostradores de pescado y mercados de Playa del Carmen. El mero es una excelente alternativa local.
-- **Hojas de plátano:** Disponibles congeladas en Chedraui y Walmart en la sección de congelados. Opcionales para la cochinita.
-- **Canela (de Ceilán):** Disponible en tiendas de especias y DAC Market (30 Av. entre Calle 14 y 14 Bis). La canela normal funciona bien como sustituto.
-- **Pistaches:** Pueden ser caros. Sustituye con cacahuates (más tradicional para el mole de todas formas).
-- **Perejil fresco:** Se consigue en cualquier supermercado o mercado.
+- **Carne de res para guisado:** Pide "carne para guisado" o "espaldilla" en la carnicería. Cortada en cubos.
+- **Muslos de pollo sin hueso y sin piel:** Disponibles en cualquier supermercado o carnicería.
+- **Perejil fresco:** Se consigue en cualquier supermercado o mercado. Es diferente del cilantro — es de hoja plana, sabor más suave.
 
 ### Calendario de frescura
 
-- **Comer pronto (lun–mié):** Pescado a la Veracruzana. El pescado no se conserva tanto. Las porciones del lunes (asistente), martes (almuerzo del cliente) y miércoles (cena del cliente) se mantienen bien refrigeradas. La porción del jueves (asistente) DEBE congelarse y descongelarse el miércoles en la noche.
-- **Congelar para el viernes:** Rajas con Crema — 2 porciones deben congelarse el domingo y descongelarse el jueves en la noche para las comidas del viernes.
-- **Mejor al día 2–3:** Pollo con Mole y Frijoles Charros — ambos mejoran conforme se integran los sabores.
+- **Comer pronto (lun–mié):** Calabacitas con Elote. La calabacita se suaviza después de 3 días. Cocida el domingo, buena hasta el miércoles. Para jueves y viernes, cocina fresco esos días (solo 20 minutos) o pica las verduras el domingo y cocina fresco cada día.
+- **Mejor al día 2–3:** Chile Colorado y Frijoles Charros — ambos mejoran conforme se integran los sabores.
 - **Estable toda la semana:** Cochinita Pibil — se conserva bien por 6 días (por eso tiene la porción del sábado).
-- **Sábado (solo asistente):** Cochinita + Frijoles — ambos se mantienen bien hasta el día 6.
+- **Sábado (solo asistente):** Cochinita + Calabacitas — la cochinita se mantiene bien hasta el día 6. Cocina las calabacitas frescas el sábado (20 minutos).
 - **Ensalada de col:** Prepara las verduras y el aderezo por separado. Adereza hasta 1 hora antes de comer. Las verduras sin aderezo se conservan 3–4 días.
 
 ### Orden de cocción (cocina del domingo)
 
 1. **Primero los frijoles** (si usas secos): Olla de cocción lenta en ALTO, 5–6 horas. O remójalos desde la noche anterior y cocínalos en la estufa.
-2. **Haz la salsa de mole** (puede hacerse el sábado o el domingo por la mañana): Es el paso que más tiempo toma. Va a hacer que la cocina huela increíble.
-3. **Empieza la cochinita en la olla de cocción lenta** (si ya terminaron los frijoles) o en una segunda olla: 6 horas en ALTO.
-4. **Haz el arroz rojo**: 25 minutos. Se puede hacer mientras otros platillos se cocinan a fuego lento.
-5. **Cocina el pollo para el mole**: 1 hora a fuego lento.
-6. **Haz los frijoles charros**: 30 minutos una vez cocidos los frijoles.
-7. **Haz las rajas con crema**: 25 minutos. Asa los poblanos en la freidora de aire.
-8. **Cocina el pescado a la Veracruzana**: 30 minutos — hazlo al último para que sea lo más fresco.
-9. **Haz la ensalada de col**: 15 minutos — prepara las verduras y el aderezo por separado, guarda en el refrigerador.
-10. **Encurtir la cebolla morada**: 15 minutos — se hace mientras se cocina la cochinita.
+2. **Empieza la cochinita en la olla de cocción lenta** (si no usas la olla para los frijoles): 6 horas en ALTO. Si los frijoles están en la olla de cocción lenta, cocina la cochinita en una olla holandesa a 150°C por 2.5–3 horas.
+3. **Haz la salsa de chile colorado:** Remoja los chiles 20 minutos, licúa. Se puede hacer mientras otros platillos se cocinan.
+4. **Dora y cocina la res del chile colorado:** 1 hora a fuego lento. Puedes usar la olla de cocción lenta (4–5 horas en ALTO) si la estufa está ocupada.
+5. **Cuece el pollo para la tinga:** 20 minutos. Desmenuza y reserva.
+6. **Haz el arroz rojo**: 25 minutos. Se puede hacer mientras otros platillos se cocinan a fuego lento.
+7. **Haz los frijoles charros**: 30 minutos una vez cocidos los frijoles.
+8. **Haz la tinga**: 20 minutos una vez cocido el pollo.
+9. **Haz las calabacitas**: 20 minutos — hazlo al último para que sea lo más fresco. O pica las verduras y cocina fresco el lunes.
+10. **Haz la ensalada de col**: 15 minutos — prepara las verduras y el aderezo por separado, guarda en el refrigerador.
+11. **Encurtir la cebolla morada**: 15 minutos — se hace mientras se cocina la cochinita.
 
 ### Porciones del asistente
 

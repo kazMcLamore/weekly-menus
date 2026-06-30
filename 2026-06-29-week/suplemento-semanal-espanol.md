@@ -4,7 +4,7 @@
 > **Para:** Asistente (cocinero)
 > **De:** Cliente
 > **Tema:** Comida mexicana clásica, 100% libre de gluten (GF)
-> **5 platillos:** Cochinita Pibil, Pollo con Mole Poblano, Pescado a la Veracruzana, Frijoles Charros, Rajas con Crema
+> **5 platillos:** Cochinita Pibil, Tinga de Pollo, Chile Colorado de Res, Frijoles Charros, Calabacitas con Elote
 
 ---
 
@@ -15,22 +15,22 @@ Estos son los 5 platillos que vas a cocinar esta semana:
 <table>
 <tr>
 <td align="center"><b>Cochinita Pibil</b></td>
-<td align="center"><b>Pollo con Mole Poblano</b></td>
-<td align="center"><b>Pescado a la Veracruzana</b></td>
+<td align="center"><b>Tinga de Pollo</b></td>
+<td align="center"><b>Chile Colorado de Res</b></td>
 </tr>
 <tr>
 <td><img src="https://muybuenoblog.com/wp-content/uploads/2018/04/Cochinita-Pibil-Yucatan-Style-Pulled-Pork.jpeg" width="280"></td>
-<td><img src="https://mexicanfoodjournal.com/wp-content/uploads/2021/06/Chicken-Mole-with-Sesame-Seeds.jpg" width="280"></td>
-<td><img src="https://mission-food.com/wp-content/uploads/2022/06/Pescado-a-la-Veracruzana-Veracruz-Style-Fish-10.jpg" width="280"></td>
+<td><img src="https://www.mexicoinmykitchen.com/wp-content/uploads/2020/12/Chicken-Tinga-recipe-3-ing.jpg" width="280"></td>
+<td><img src="https://www.isabeleats.com/wp-content/uploads/2024/10/chile-colorado-24-pinterest-5.jpg" width="280"></td>
 </tr>
 <tr>
 <td align="center"><b>Frijoles Charros</b></td>
-<td align="center"><b>Rajas con Crema</b></td>
+<td align="center"><b>Calabacitas con Elote</b></td>
 <td></td>
 </tr>
 <tr>
 <td><img src="https://www.mexicoinmykitchen.com/wp-content/uploads/2024/11/Frijoles-Charros-6.jpg" width="350"></td>
-<td><img src="https://www.mexicoinmykitchen.com/wp-content/uploads/2022/11/Rajas-con-crema.jpg" width="350"></td>
+<td><img src="https://www.mexicoinmykitchen.com/wp-content/uploads/2023/01/Calabacitas-con-elote-2.jpg" width="350"></td>
 <td></td>
 </tr>
 <tr>
@@ -104,22 +104,22 @@ Si no estás seguro de que el achiote del paquete sea GF, puedes hacerlo tú mis
 
 ---
 
-## 2. Chiles Secos: Ancho, Pasilla, Chipotle (para el mole)
+## 2. Chiles Secos para Chile Colorado (Guajillo, Ancho y de Árbol)
 
-<img src="https://m.media-amazon.com/images/I/51yLDqS0a5L.jpg" align="right" width="100">
+<img src="https://m.media-amazon.com/images/I/71lYdPp7qPL.jpg" align="right" width="100">
 
-**¿Qué son?** Son chiles que se han secado al sol. Cuando se secan, cambian de sabor — se vuelven más complejos, ahumados y profundos. Para el mole necesitamos tres tipos:
+**¿Qué son?** Son chiles que se han secado al sol. Cuando se secan, cambian de sabor — se vuelven más complejos, ahumados y profundos. Para el chile colorado necesitamos tres tipos:
 
-- **Chile ancho:** Es el chile poblano seco. Es grande, plano, de color café rojizo oscuro (como cuero viejo). Es el chile más dulce de los tres. Da cuerpo y color al mole. Sabe a fruta seca, chocolate y tabaco.
-- **Chile pasilla:** Es largo, delgado y oscuro (casi negro). Tiene un sabor ahumado, ligeramente amargo, con notas de ciruela y chocolate. Es más picante que el ancho.
-- **Chile chipotle:** Es el chile jalapeño ahumado y seco. Viene en dos tipos: *meco* (color café dorado) y *morita* (color café oscuro a morado). Para el mole, cualquiera de los dos funciona. Da el sabor ahumado característico.
+- **Chile guajillo:** Es el chile mirasol seco. Es largo (12-15 cm), de color rojo-marrón brillante, con la piel lisa y brillante. Tiene un sabor afrutado, ligeramente ácido, con notas de berries. Picor medio (suave). Es el chile principal del chile colorado — el que da el color rojo intenso y el sabor frutal.
+- **Chile ancho:** Es el chile poblano seco. Es más ancho y más corto que el guajillo, de color rojo oscuro a café rojizo, con la piel arrugada y opaca. Sabe a pasa de uva, chocolate y tabaco. Picor muy bajo (casi nada). En el chile colorado le da cuerpo, dulzor y profundidad.
+- **Chile de árbol:** Es chiquito y delgado (5-7 cm), de color rojo brillante, con la piel lisa. Es MUY PICANTE — úsalo con cuidado. En el chile colorado, solo agregamos 1 chile para dar un toque de calor sin que pique demasiado. Si no quieres nada de picante, lo puedes omitir.
 
 **¿Cómo se ven?** Vienen en bolsas de plástico transparente en la sección de especias o de frutas y verduras. Se ven arrugados, secos, como hojas de cuero. A veces los venden sueltos a granel en los mercados.
 
 **¿A qué saben?** Cada uno es diferente:
-- **Ancho:** Dulce, afrutado, como pasa de uva y chocolate. Poco picante.
-- **Pasilla:** Ahumado, terroso, con un toque de ciruela. Picante medio.
-- **Chipotle:** Intensamente ahumado, picante. Sabe a leña y humo.
+- **Guajillo:** Afrutado, ligeramente ácido, con notas de berries y un toque de té. Picor medio (suave).
+- **Ancho:** Dulce, como pasa de uva y chocolate. Poco picante.
+- **De árbol:** Picante intenso y directo. Sabe a chile puro.
 
 **Dónde comprar:**
 - 🟢 **Chedraui (Av. Juárez)** — Sección de frutas y verduras o especias, en bolsas transparentes
@@ -128,138 +128,94 @@ Si no estás seguro de que el achiote del paquete sea GF, puedes hacerlo tú mis
 - 🟢 **Cualquier mercado local** — Los venden sueltos a granel
 
 **Sustitutos:**
-- **Ancho:** No hay buen sustituto, es esencial para el mole. Si no encuentras, usa más pasilla.
-- **Pasilla:** Puedes usar más ancho, pero el sabor será menos complejo.
-- **Chipotle:** Puedes usar 1 cdita de chipotle en adobo de lata (pero revisa que sea GF — algunas marcas tienen gluten).
+- **Guajillo:** No hay buen sustituto, es esencial para el chile colorado. Si no encuentras, puedes usar más chile ancho pero el color será más oscuro y menos rojo brillante.
+- **Ancho:** Puedes usar más guajillo, pero el sabor será menos dulce.
+- **De árbol:** Si no quieres picante, omítelo. O usa 1/4 cdita de chile en polvo (cayena) — pero cuidado, el chile en polvo es MUCHO más concentrado.
 
-**Consejo de compra:** Elige chiles que estén flexibles, no quebradizos. Si se rompen al doblarlos, están muy viejos y secos. Deben oler a chile, no a polvo viejo. Si tienen manchas blancas (moho), no los compres.
-
-**Dificultad:** 🟢 fácil (cualquier supermercado)
-
-**⚠️ Punto de cuidado GF:** Los chiles secos son naturalmente GF. Solo revisa que no vengan mezclados con otros ingredientes en bolsas que digan "mezcla para mole" — esas mezclas a veces tienen gluten. Compra los chiles sueltos o en bolsas que solo contengan el chile.
-
-<br clear="right">
-
----
-
-## 3. Chocolate Mexicano (Ibarra o Hernán)
-
-<img src="https://i0.wp.com/eathealthy365.com/wp-content/uploads/ibarra-mexican-hot-chocolate.webp" align="right" width="100">
-
-**¿Qué es?** Es chocolate de mesa mexicano. No es como el chocolate de dulce que comes como postre. Es chocolate sin leche, con azúcar, canela y a veces almendras. Se usa para hacer chocolate caliente y también para el mole poblano. Le da al mole ese sabor profundo, oscuro y ligeramente dulce que lo hace especial.
-
-**¿Cómo se ve?** Viene en tabletas hexagonales (forma de panal de abeja). La marca más común es **Ibarra**, que viene en una caja roja con una tableta hexagonal dividida en triángulos. La marca **Hernán** viene en una caja más elegante. Cada tableta se divide en triángulos fáciles de partir.
-
-**¿A qué sabe?** A chocolate oscuro, con canela, ligeramente dulce. No es tan dulce como el chocolate de leche. Tiene una textura ligeramente arenosa (por el azúcar sin refinar) que se disuelve al cocinar.
-
-**Dónde comprar:**
-- 🟢 **Chedraui (Av. Juárez)** — Sección de dulces o repostería
-- 🟢 **Walmart (30 Av. y Calle 8)** — Sección de repostería o comida mexicana
-- 🟢 **Mega Soriana (30 Av. y Constituyentes)** — Sección de repostería
-- 🟢 **Cualquier tienda de abarrotes** — Es muy común
-
-**Sustitutos:**
-1. Chocolate Hernán (marca más artesanal, también GF)
-2. Chocolate para mesa de cualquier marca mexicana (verifica que sea GF)
-3. Si no encuentras: 3 cdas de cacao puro en polvo + 2 cdas de azúcar + 1/4 cdita de canela molida. No es igual pero funciona.
+**Consejo de compra:** Elige chiles que estén flexibles, no quebradizos. Si se rompen al doblarlos, están muy viejos y secos. Deben oler a chile, no a polvo viejo. Si tienen manchas blancas (moho), no los compres. Para los chiles de árbol, asegúrate de que sean rojo brillante — si están opacos o cafés, están muy viejos.
 
 **Dificultad:** 🟢 fácil (cualquier supermercado)
 
-**⚠️ Punto de cuidado GF:** El chocolate Ibarra contiene cacao, azúcar, canela y lecitina de soya — todo naturalmente GF. La marca Hernán también es GF. **No uses chocolate de leche de dulce** porque tiene leche y otros ingredientes que cambian el sabor del mole.
+**⚠️ Punto de cuidado GF:** Los chiles secos son naturalmente GF. Solo revisa que no vengan mezclados con otros ingredientes en bolsas que digan "mezcla para mole" o "mezcla para chiles" — esas mezclas a veces tienen gluten. Compra los chiles sueltos o en bolsas que solo contengan el chile.
 
 <br clear="right">
 
 ---
 
-## 4. Canela (Canela de Ceilán) vs Canela Regular
+## 3. Chipotles en Adobo (para la Tinga)
 
-<img src="https://muybuenoblog.com/wp-content/uploads/2024/06/canela-cinnamon-sticks.jpeg" align="right" width="100">
+<img src="https://cdn.shopify.com/s/files/1/0240/0544/7939/products/coste-a-chiles-jalapenos-chipotles-adobados-215g-1.jpg" align="right" width="100">
 
-**¿Qué es?** La canela que se usa en la cocina mexicana es diferente a la canela que viene en polvo en el supermercado. La canela mexicana se llama **canela de Ceilán** (o canela verdadera). Es más suave, más dulce y más aromática que la canela regular (que viene de Cassia, otra planta).
+**¿Qué son?** Son chiles jalapeños maduros que se han ahumado, secado y luego se han envasado en una salsa llamada "adobo" (hecha de jitomate, vinagre, ajo, cebolla y especias). Vienen enlatados o en frascos de vidrio. Son el alma de la tinga de pollo — le dan ese sabor ahumado, ligeramente picante y con profundidad que hace que la tinga sea tan especial.
 
-**¿Cómo se ve?** La canela de Ceilán viene en ramas delgadas, suaves, de color café claro. Las capas se deshacen fácilmente con los dedos — son como papel enrollado. La canela regular (Cassia) es más gruesa, más dura y de color café oscuro.
+**¿Cómo se ven?** Latas o frascos pequeños (generalmente de 7.75 oz / 220g). Dentro vas a ver chiles enteros (rojizos, ahumados) nadando en una salsa espesa de color rojo oscuro. Los chiles son suaves y se deshacen fácilmente con un tenedor. La salsa tiene una consistencia como de puré espeso.
 
-**¿A qué sabe?** La canela de Ceilán es más delicada, floral y dulce. La canela regular es más fuerte, más picante y menos dulce. Para el mole, la canela de Ceilán es mejor porque no domina los otros sabores.
-
-**Dónde comprar:**
-- 🟡 **DAC Market (30 Av. entre Calle 14 y 14 Bis)** — La venden en rama, mejor calidad
-- 🟢 **Chedraui (Av. Juárez)** — Sección de especias, busca "canela entera" o "canela en rama"
-- 🟢 **Walmart (30 Av. y Calle 8)** — Sección de especias
-- 🟢 **Mercados locales** — Pregunta por "canela"
-
-**Sustitutos:**
-1. Canela regular en rama (Cassia) — funciona bien, solo usa un trozo más pequeño porque es más fuerte
-2. Canela molida en polvo — usa 1/2 cdita por cada rama de 2.5 cm (1 pulgada)
-
-**Dificultad:** 🟢 fácil (cualquier supermercado) / 🟡 medio (si buscas específicamente canela de Ceilán)
-
-**⚠️ Punto de cuidado GF:** La canela es naturalmente GF. No hay riesgo.
-
-<br clear="right">
-
----
-
-## 5. Crema Mexicana
-
-<img src="https://tabethastable.com/wp-content/uploads/2023/08/Sour-Cream-vs-Mexican-Crema-1.jpeg" align="right" width="100">
-
-**¿Qué es?** Es una crema ligeramente ácida, más líquida que la crema ácida (sour cream) americana. Se usa mucho en la cocina mexicana — para las rajas con crema, para tacos, para sopas, para todo. No es lo mismo que crema para batir (heavy cream) ni que crema ácida (sour cream).
-
-**¿Cómo se ve?** Viene en envases de plástico o cartón, generalmente de 250ml o 500ml. Es blanca, ligeramente líquida (se vierte, no se unta). A veces se separa un poco (líquido arriba, crema abajo) — eso es normal, solo agita el envase.
-
-**¿A qué sabe?** Ligeramente ácida, suave, cremosa. No es tan ácida como el yogur ni tan dulce como la crema para batir. Tiene un sabor fresco que combina con todo.
+**¿A qué saben?** Picante medio, ahumado, con un toque ácido (del vinagre) y un sabor profundo que viene del proceso de ahumado. La salsa adobo tiene un sabor más suave y ligeramente dulce que los chiles solos. Puedes usar solo la salsa si quieres menos picante.
 
 **Dónde comprar:**
-- 🟢 **Chedraui (Av. Juárez)** — Sección de lácteos, busca "crema mexicana" o "crema ácida"
-- 🟢 **Walmart (30 Av. y Calle 8)** — Sección de lácteos
-- 🟢 **Mega Soriana (30 Av. y Constituyentes)** — Sección de lácteos
-- 🟢 **Cualquier tienda de abarrotes o OXXO** — Es muy común
+- 🟢 **Chedraui (Av. Juárez)** — Sección de latas o enlatados, busca "chipotles en adobo" o "chiles chipotles"
+- 🟢 **Walmart (30 Av. y Calle 8)** — Sección de enlatados mexicanos
+- 🟢 **Mega Soriana (30 Av. y Constituyentes)** — Sección de enlatados
+- 🟢 **Cualquier tienda de abarrotes** — Es muy común en México
 
-**Marcas recomendadas:** Lala, Alpura, Santa Clara, cualquier marca mexicana.
+**Marcas recomendadas:** La Costeña (la más común), Doña María, Clemente Jacques. **La Costeña generalmente es GF, pero siempre revisa la etiqueta.**
 
 **Sustitutos:**
-1. Crema ácida (sour cream) mezclada con un chorrito de leche o agua para hacerla más líquida
-2. Media crema (también se vende en los supers, es más ligera)
-3. Crema para batir (heavy cream) con 1 cdita de jugo de limón mezclada y dejada reposar 10 minutos
+- 1 chile chipotle seco + 1 cdita de vinagre + 1 cdita de jitomate triturado + pizca de comino (si no encuentras en adobo)
+- 1 cdita de pasta de chile ancho + 1/2 cdita de paprika ahumada (menos auténtico)
+- Si no quieres nada de picante: omite los chipotles y usa solo jitomate con un toque de comino ahumado
+
+**Consejo de uso:** Solo necesitas 2 chiles y 2-3 cdas de la salsa adobo. No uses toda la lata. Una lata abierta se guarda en el refri hasta 1 mes en un recipiente de vidrio con tapa.
 
 **Dificultad:** 🟢 fácil (cualquier supermercado)
 
-**⚠️ Punto de cuidado GF:** La crema mexicana es naturalmente GF. Solo revisa que no tenga espesantes adicionales en la etiqueta (raro pero posible).
+**⚠️ Punto de cuidado GF:** La Costeña generalmente no contiene gluten, pero **SIEMPRE revisa la etiqueta**. Algunas marcas usan vinagre de malta (malt vinegar) o ingredientes con trigo. Busca "libre de gluten" en la etiqueta o verifica que no diga "harina de trigo", "wheat", ni "malta" en los ingredientes. Si no estás seguro, busca otra marca o hazlo en casa.
 
 <br clear="right">
 
 ---
 
-## 6. Queso Oaxaca
+---
 
-<img src="https://thumbs.dreamstime.com/b/oaxaca-cheese-quesillo-string-fresh-soft-originally-central-valleys-state-355733726.jpg" align="right" width="100">
+---
 
-**¿Qué es?** Es un queso mexicano de hebra, como un queso de estambre. Viene del estado de Oaxaca. Se deshila como el queso mozzarella. Se usa para las rajas con crema porque se derrite muy bien. En Oaxaca le llaman "quesillo".
+## 4. Fécula de Maíz (Maicena) — Espesante Sin Gluten
 
-**¿Cómo se ve?** Viene en rollos de hilo de queso, enrollados como una pelota o un cilindro. Es blanco, suave, elástico. Cuando lo tocas, se deshila en hebras. A veces viene en bolsas de plástico o envuelto en papel.
+<img src="https://cdn.shopify.com/s/files/1/0498/8693/4678/products/MaizenaFeculaDeMaizRegular_1080x.png" align="right" width="100">
 
-**¿A qué sabe?** Suave, cremoso, ligeramente salado. No tiene un sabor fuerte — es como el queso mozzarella pero un poco más ácido. Se derrite formando hilos largos y elásticos.
+**¿Qué es?** Es un polvo blanco muy fino hecho de maíz. Se usa como espesante en muchas recetas — salsas, guisos, postres — porque tiene la capacidad de hacer que los líquidos se vuelvan más espesos y brillantes. En la receta de chile colorado la usamos para espesar la salsa y darle una consistencia más aterciopelada, en lugar de harina de trigo (que es la que se usa tradicionalmente pero contiene gluten).
+
+**¿Cómo se ve?** Viene en cajas de cartón o bolsas de plástico, generalmente de 200g o 500g. Es un polvo fino, blanco, sin olor, sin sabor. Es muy parecido al polvo para hacer atole o al cornstarch americano. La marca más conocida en México es **Maizena**.
+
+**¿A qué sabe?** A nada. Es insípido. Solo sirve para espesar y dar textura.
+
+**¿Por qué la usamos en lugar de harina de trigo?** La harina de trigo contiene gluten, una proteína que causa problemas a las personas con celiaquía o sensibilidad al gluten. La fécula de maíz es naturalmente sin gluten y funciona igual de bien como espesante. El chile colorado queda igual de espeso y brillante, sin necesidad de harina.
 
 **Dónde comprar:**
-- 🟢 **Chedraui (Av. Juárez)** — Sección de quesos o refrigerados
-- 🟢 **Walmart (30 Av. y Calle 8)** — Sección de quesos
-- 🟢 **Mega Soriana (30 Av. y Constituyentes)** — Sección de quesos
-- 🟢 **Mercados locales** — Pregunta por "queso Oaxaca" o "quesillo"
+- 🟢 **Chedraui (Av. Juárez)** — Sección de harinas o repostería, busca "fécula de maíz" o "maicena"
+- 🟢 **Walmart (30 Av. y Calle 8)** — Sección de harinas
+- 🟢 **Mega Soriana (30 Av. y Constituyentes)** — Sección de harinas
+- 🟢 **Cualquier tienda de abarrotes** — La marca Maizena está en todos lados
+
+**Marcas recomendadas:** Maizena (la más común), Great Value (Walmart), casa Ley. Cualquier marca funciona.
 
 **Sustitutos:**
-1. Queso Chihuahua (también se derrite bien, sabor parecido)
-2. Queso Mozzarella (no es igual pero se derrite bien)
-3. Queso Monterey Jack o Muenster
+- Almidón de maíz (es lo mismo, otro nombre)
+- Harina de arroz (funciona pero cambia un poco la textura)
+- Harina de tapioca (también sin gluten, pero requiere más cantidad)
+- **NO uses harina de trigo** porque contiene gluten.
+
+**Consejo de uso:** Para espesar la salsa del chile colorado, disuelve 1 cda de fécula en 2 cdas de agua fría antes de agregarla a la salsa caliente. Si la agregas directo, hace grumos.
 
 **Dificultad:** 🟢 fácil (cualquier supermercado)
 
-**⚠️ Punto de cuidado GF:** El queso Oaxaca es naturalmente GF. No hay riesgo.
+**⚠️ Punto de cuidado GF:** La fécula de maíz pura es **100% sin gluten naturalmente**. Es uno de los mejores espesantes para personas celíacas. Solo verifica que la marca no tenga aditivos (raro, pero algunas marcas añaden saborizantes). Busca marcas que digan "solo maíz" o "100% maíz".
 
 <br clear="right">
 
 ---
 
-## 7. Hojas de Plátano (opcional, para la cochinita)
+## 5. Hojas de Plátano (opcional, para la cochinita)
 
 <img src="https://i0.wp.com/parce.ca/wp-content/uploads/2024/12/hojas-platano-_processed.png" align="right" width="100">
 
@@ -287,105 +243,74 @@ Si no estás seguro de que el achiote del paquete sea GF, puedes hacerlo tú mis
 
 ---
 
-## 8. Alcaparras y Aceitunas Verdes (para la salsa Veracruzana)
+## 6. Calabacitas Mexicanas (para Calabacitas con Elote)
 
-<img src="https://i5.walmartimages.com/seo/Goya-Capers-Jarred-Vegetables-2-25-oz-Jar_7654f0fa-cf59-41fd-8c02-875578f1fa3f_1.9cd6023470d1162a985c0ce0de44619f.jpeg" align="right" width="100">
+<img src="https://cdn.shopify.com/s/files/1/0560/8738/4265/products/CalabacitaMexicanagrande_1200x.jpg" align="right" width="100">
 
-**¿Qué son?**
+**¿Qué son?** Las calabacitas mexicanas son una variedad de calabacita (zucchini) que se cultiva mucho en México. Son un poco diferentes al zucchini que se vende normalmente en los supermercados de Estados Unidos o Europa — son **más pequeñas, más redonditas y de un verde más claro** (a veces con manchas blancas o rayas). La piel es más delgada y más tierna.
 
-**Alcaparras:** Son botones florales pequeños que se conservan en vinagre y sal. Son muy pequeñas (del tamaño de un chicharo), verdes y redondas. Vienen en frascos de vidrio. Tienen un sabor salado, ácido y ligeramente amargo. Se usan en la salsa Veracruzana para dar un toque ácido y salado que combina con el jitomate y las aceitunas.
+**¿Cómo se ven?** Son como pepinos pequeños, de color verde claro, a veces con franjas blancas o crema. Miden entre 10 y 20 cm de largo. La forma es más cilíndrica pero un poco más regordeta que el zucchini común.
 
-**Aceitunas verdes:** Son olivas verdes sin hueso, conservadas en salmuera o vinagre. Para esta receta, compra aceitunas verdes sin hueso (descarozadas). Se pican y se agregan a la salsa.
+**¿A qué saben?** Suaves, frescas, ligeramente dulces. Saben parecido al zucchini normal pero con un sabor un poquito más delicado y menos acuoso. La textura es más firme cuando se cocinan.
 
-**¿Cómo se ven?**
-- **Alcaparras:** Frascos pequeños de vidrio, las alcaparras son bolitas verdes pequeñas del tamaño de un chicharo.
-- **Aceitunas:** Frascos de vidrio, aceitunas verdes enteras o rebanadas.
-
-**¿A qué saben?**
-- **Alcaparras:** Saladas, ácidas, ligeramente amargas y caprichosas. Un sabor muy distintivo — como un toque de limón y sal juntos.
-- **Aceitunas:** Saladas, ligeramente amargas, con un sabor rico y profundo.
+**¿Puedo usar el zucchini normal?** **Sí, sin problema.** El zucchini verde oscuro que venden en cualquier supermercado funciona perfectamente en esta receta. El sabor será muy parecido. Si encuentras las calabacitas mexicanas en el mercado local, úsalas — son más auténticas.
 
 **Dónde comprar:**
-- 🟢 **Chedraui (Av. Juárez)** — Sección de encurtidos o pasabocas, busca "alcaparras" y "aceitunas verdes"
-- 🟢 **Walmart (30 Av. y Calle 8)** — Sección de encurtidos o comida internacional
-- 🟢 **Mega Soriana (30 Av. y Constituyentes)** — Sección de encurtidos
-- 🟡 **DAC Market (30 Av. entre Calle 14 y 14 Bis)** — Puede tener más variedad de marcas
-
-**Marcas recomendadas:** Goya, La Costeña, Cid. Cualquier marca funciona.
-
-**Sustitutos:**
-- **Alcaparras:** No hay buen sustituto. Si no encuentras, usa alcaparrones (alcaparras grandes) picados, o agrega 1 cdita extra de jugo de limón y un poco más de sal.
-- **Aceitunas:** Cualquier aceituna verde funciona. Si solo encuentras con hueso, quítales el hueso tú mismo.
-
-**Dificultad:** 🟢 fácil (cualquier supermercado)
-
-**⚠️ Punto de cuidado GF:** Las alcaparras y aceitunas en vinagre son naturalmente GF. Solo revisa que no tengan aditivos extraños en la etiqueta. Evita aceitunas rellenas (con pimiento o anchoa) porque a veces usan espesantes con gluten.
-
-<br clear="right">
-
----
-
-## 9. Epazote (para la salsa Veracruzana)
-
-<img src="https://blog.amigofoods.com/wp-content/uploads/2022/06/mexican-herb-epazote.jpg" align="right" width="100">
-
-**¿Qué es?** Es una hierba mexicana que se usa mucho en la cocina tradicional. Tiene un sabor muy particular — no se parece a ninguna otra hierba. Se usa en frijoles, quesadillas, sopas y salsas. Para esta semana, lo usamos en la salsa Veracruzana.
-
-**¿Cómo se ve?** Si es fresca, son hojas verdes con bordes dentados, en ramitas. Si es seca, viene en bolsitas como el orégano — hojas pequeñas, oscuras y fragmentadas.
-
-**¿A qué sabe?** Tiene un sabor fuerte, herbáceo, ligeramente medicinal. Algunos dicen que sabe a tierra, a eucalipto o a trementina. Es un sabor adquirido — si no lo has probado, puede parecer raro al principio, pero en la comida da un sabor muy mexicano. Un poco basta.
-
-**Dónde comprar:**
-- 🟢 **Chedraui (Av. Juárez)** — Sección de especias, busca "epazote seco" en bolsitas
-- 🟢 **Walmart (30 Av. y Calle 8)** — Sección de especias
-- 🟢 **Mercados locales** — Pregunta por "epazote", a veces lo tienen fresco
-- 🟡 **DAC Market (30 Av. entre Calle 14 y 14 Bis)** — Puede tener fresco o seco
-
-**Sustitutos:**
-1. Orégano seco mexicano (usa la mitad de la cantidad) — no es igual pero funciona
-2. Cilantro seco (usa la misma cantidad) — cambia el sabor pero da frescura
-3. Si no encuentras, simplemente omítelo. La salsa estará rica igual.
-
-**Dificultad:** 🟢 fácil (seco en cualquier supermercado) / 🟡 medio (fresco en mercados)
-
-**⚠️ Punto de cuidado GF:** El epazote es naturalmente GF. No hay riesgo.
-
-<br clear="right">
-
----
-
-## 10. Chiles Poblanos
-
-<img src="https://www.alecooks.com/wp-content/uploads/2021/05/chiles-poblanos-8-scaled.jpg" align="right" width="100">
-
-**¿Qué son?** Son chiles grandes, de color verde oscuro, con piel brillante. Son el chile más usado en la cocina mexicana después del jalapeño. Son suaves — casi no pican. Se usan para las rajas con crema, chiles rellenos, y muchos otros platillos. Cuando se secan, se convierten en chile ancho.
-
-**¿Cómo se ven?** Son grandes (de 10 a 15 cm de largo), de color verde oscuro, forma triangular o de corazón, con piel lisa y brillante. A veces tienen un poco de brillo ceroso natural.
-
-**¿A qué saben?** Tienen un sabor suave, ligeramente dulce, como pimiento morrón pero más profundo. Casi no pican, pero de vez en cuando sale uno picante (es impredecible). Cuando se asan, desarrollan un sabor ahumado delicioso.
-
-**Dónde comprar:**
-- 🟢 **Chedraui (Av. Juárez)** — Sección de frutas y verduras, busca "chile poblano" o "poblano"
+- 🟢 **Chedraui (Av. Juárez)** — Sección de frutas y verduras, busca "calabacita" o "calabacita italiana"
 - 🟢 **Walmart (30 Av. y Calle 8)** — Sección de frutas y verduras
 - 🟢 **Mega Soriana (30 Av. y Constituyentes)** — Sección de frutas y verduras
-- 🟢 **Cualquier mercado local** — Muy común
+- 🟢 **Cualquier mercado local** — Pregunta por "calabacita", a veces tienen las mexicanas
 
-**Consejo de compra:** Elige poblanos grandes, firmes, de color verde oscuro uniforme. Evita los que tengan manchas negras suaves (pueden estar picantes) o arrugas (están viejos).
+**Consejo de compra:** Elige calabacitas firmes, pesadas para su tamaño, con la piel lisa y sin manchas oscuras. Las más pequeñas son más sabrosas que las muy grandes (las grandes pueden tener semillas grandes y textura esponjosa).
 
 **Sustitutos:**
-1. Chile Anaheim (más suave, más grande)
-2. Pimiento morrón verde (no pica nada, pero el sabor es diferente)
-3. Si quieres más picante: usa chile jalapeño en lugar de uno de los poblanos
+- Zucchini italiano normal (funciona igual)
+- Chayote cortado en cubos (sabor diferente pero funciona)
+- Si no encuentras ninguna verdura similar, la receta no funciona igual — las calabacitas son la base
 
-**Dificultad:** 🟢 fácil (cualquier supermercado)
+**Dificultad:** 🟢 fácil (cualquier supermercado o mercado)
 
-**⚠️ Punto de cuidado GF:** Los chiles poblanos son naturalmente GF. No hay riesgo.
+**⚠️ Punto de cuidado GF:** Las calabacitas son naturalmente GF. No hay riesgo. Solo lávalas bien antes de cortarlas.
 
 <br clear="right">
 
 ---
 
-## 11. Salsa de Habanero (Yucateco o Frontera)
+## 7. Queso Fresco (opcional, para Calabacitas con Elote)
+
+<img src="https://cdn.shopify.com/s/files/1/0449/5167/9308/products/queso-fresco-300-gr.png" align="right" width="100">
+
+**¿Qué es?** Es un queso blanco mexicano, suave y desmoronable. Se usa mucho como topping en una gran variedad de platillos mexicanos — enchiladas, tacos, elotes, ensaladas, tostadas. Para las calabacitas con elote, es opcional — le da un toque cremoso y salado que combina muy bien con elote y calabacitas.
+
+**¿Cómo se ve?** Viene en bloques o en piezas redondas, generalmente de 200g a 400g. Es blanco, con textura ligeramente granulosa (como ricotta o requesón). Se desmorona fácilmente con los dedos o con un tenedor. A veces viene en salmuera (líquido claro en el paquete).
+
+**¿A qué sabe?** Suave, fresco, ligeramente salado, con un toque ácido. Es un queso de sabor suave — no es fuerte como el queso añejo. Es parecido al queso feta pero más suave y menos salado. Algunos quesos frescos son más secos, otros más húmedos.
+
+**¿Es lo mismo que el queso Oaxaca?** No. El queso Oaxaca es de hebra (se deshila como mozzarella). El queso fresco es desmoronable (se rompe en trozos). Para esta receta, es mejor el fresco por su textura granulosa.
+
+**Dónde comprar:**
+- 🟢 **Chedraui (Av. Juárez)** — Sección de quesos o refrigerados, busca "queso fresco"
+- 🟢 **Walmart (30 Av. y Calle 8)** — Sección de quesos
+- 🟢 **Mega Soriana (30 Av. y Constituyentes)** — Sección de quesos
+- 🟢 **Mercados locales** — Pregunta por "queso fresco"
+
+**Marcas recomendadas:** Fud, Lala, Alpura, Esmeralda, cualquier marca mexicana de queso. Las marcas artesanales locales también son buenas.
+
+**Sustitutos:**
+- Queso ricotta (no es igual pero tiene textura parecida)
+- Queso feta desmoronado (es más salado, usa menos cantidad)
+- Requesón (es la versión más húmeda del queso fresco)
+- **Si no encuentras:** simplemente omítelo. Las calabacitas con elote son riquísimas sin queso también.
+
+**Dificultad:** 🟢 fácil (cualquier supermercado)
+
+**⚠️ Punto de cuidado GF:** El queso fresco es naturalmente GF. No hay riesgo.
+
+<br clear="right">
+
+---
+
+## 8. Salsa de Habanero (Yucateco o Frontera)
 
 <img src="https://www.peppersofkeywest.com/wp-content/uploads/2014/07/el-yuc-red.jpg" align="right" width="100">
 
@@ -416,27 +341,7 @@ Si no estás seguro de que el achiote del paquete sea GF, puedes hacerlo tú mis
 
 ---
 
-## 12. Pistaches vs Cacahuates (para el mole)
-
-**¿Qué son?** El mole poblano lleva frutos secos tostados que le dan cuerpo y sabor. La receta de esta semana pide pistaches, pero los cacahuates (maní) son más tradicionales en el mole mexicano. Ambos funcionan.
-
-**Pistaches:** Son semillas verdes, pequeñas, con cáscara. Ya vienen pelados (sin cáscara) en el supermercado. Son más caros pero dan un sabor más delicado y sofisticado.
-
-**Cacahuates (maní):** Son más baratos, más tradicionales y más fáciles de encontrar. El mole tradicional mexicano casi siempre lleva cacahuates, no pistaches. Si quieres hacer el mole más auténtico, usa cacahuates.
-
-**¿Dónde comprar?**
-- 🟢 **Pistaches pelados:** Chedraui, Walmart, Mega Soriana — sección de frutos secos o botanas
-- 🟢 **Cacahuates:** Cualquier supermercado o tienda de abarrotes — son baratos y fáciles de encontrar
-
-**Recomendación:** Usa cacahuates. Son más baratos, más tradicionales y el sabor del mole será más auténtico. Si ya tienes pistaches en casa, úsalos — también funcionan bien.
-
-**Dificultad:** 🟢 fácil (cualquier supermercado)
-
-**⚠️ Punto de cuidado GF:** Los pistaches y cacahuates naturales son GF. **Cuidado con los cacahuates tostados con sal o saborizantes** — algunos tienen gluten. Compra cacahuates crudos o tostados sin sal y tuéstalos tú mismo.
-
----
-
-## 13. Arroz Rojo (Arroz Mexicano) — Acompañamiento
+## 9. Arroz Rojo (Arroz Mexicano) — Acompañamiento
 
 Cada comida esta semana incluye una porción de **arroz rojo** como acompañamiento. Es el arroz mexicano clásico: arroz blanco frito en aceite con un puré de jitomate, cebolla y ajo, cocido en caldo de pollo. Es muy diferente al arroz blanco común — tiene sabor, color y los granos quedan sueltos.
 
@@ -509,63 +414,51 @@ Para ahorrar tiempo, te recomiendo visitar las tiendas en este orden:
 
 ### Parada 1: DAC Market (30 Av. entre Calle 14 y 14 Bis)
 **Primera parada porque tiene los ingredientes más especiales.** Si no los encuentras aquí, los buscas en las otras tiendas.
-- [ ] Epazote (fresco o seco, mejor calidad aquí)
-- [ ] Canela de Ceilán (en rama, mejor calidad)
 - [ ] Semillas de achiote (si vas a hacer recado rojo casero)
-- [ ] Chiles secos a granel (ancho, pasilla, chipotle — mejor calidad y precio a granel)
+- [ ] Chiles secos a granel (guajillo, ancho, de árbol — mejor calidad y precio a granel)
 
 ### Parada 2: Chedraui (Av. Juárez)
 **La parada principal para la mayoría de los ingredientes.**
-- [ ] Carne de cerdo (espaleta/pierna) — 1.4 kg
-- [ ] Piernas de pollo con hueso y piel — 7 piezas (~1.4 kg)
-- [ ] Pescado blanco (huachinango o mero) — 600g
+- [ ] Carne de cerdo (espalda/pierna) — 1.4 kg
+- [ ] Muslos de pollo sin hueso y sin piel — 500g
+- [ ] Carne de res para guisado (espaldilla/camote) — 900g
 - [ ] Chorizo mexicano fresco — 60g
 - [ ] Tocino — 30g
 - [ ] Huevos — 1 docena (opcional, para desayunos o complemento)
-- [ ] Chiles poblanos — 6 grandes
 - [ ] Jitomates (Roma) — 6
 - [ ] Jitomate en cubos enlatado — 1 lata de 15 oz (425g, para el arroz rojo)
-- [ ] Chile serrano — 1
+- [ ] Calabacitas — 3 medianas
+- [ ] Chile serrano — 7
 - [ ] Cilantro fresco — 2 manojos
 - [ ] Perejil fresco — 1 manojo chico (para el arroz rojo, es diferente del cilantro)
 - [ ] Limones — 10
-- [ ] Aguacates — 1
 - [ ] Cebollas blancas — 5 grandes
 - [ ] Cebollas rojas — 1 1/2
 - [ ] Ajo — 3 cabezas
 - [ ] Zanahorias — 2
 - [ ] Repollo rojo — 1 chico
 - [ ] Repollo verde — 1 chico
-- [ ] Crema mexicana — 1 1/2 tazas (~375ml)
-- [ ] Queso crema — 170g
-- [ ] Queso Oaxaca — 1 1/2 tazas (deshilado)
-- [ ] Chocolate Ibarra — 1 tableta
-- [ ] Mantequilla — 250g
 - [ ] Recado rojo / achiote — 1 paquete (revisar GF)
 - [ ] Frijoles pinto secos — 1 1/2 tazas (o 1 bolsa chica)
 - [ ] Arroz blanco — 1 kg (de grano medio preferido para el arroz rojo, pero de grano largo sirve)
 - [ ] Tortillas de maíz — 1 paquete (opcional, no son obligatorias esta semana)
-- [ ] Aceitunas verdes sin hueso — 1 frasco
-- [ ] Alcaparras — 1 frasco
-- [ ] Pasas — 1 bolsa
-- [ ] Ciruelas pasas — 1 bolsa
-- [ ] Almendras fileteadas — 1 bolsa
-- [ ] Cacahuates (o pistaches) — 1 bolsa
-- [ ] Ajonjolí (semillas de sésamo blanco) — 1 bolsa
+- [ ] Chipotles en adobo — 1 lata
 - [ ] Salsa de habanero (Yucateco) — 1 botella
 - [ ] Consomé de pollo en polvo (revisar GF)
 - [ ] Hojas de laurel — 1 paquete
-- [ ] Tomillo seco — 1 frasco
 - [ ] Orégano seco mexicano — 1 frasco
-- [ ] Pimienta negra en grano — 1 frasco
-- [ ] Anís en semilla — 1 frasco
 - [ ] Comino molido — 1 frasco
 - [ ] Cilantro molido — 1 frasco
+- [ ] Fécula de maíz — 1 caja
+- [ ] Queso fresco — 100g (opcional, para calabacitas)
 - [ ] Sal de grano — 1 paquete
 - [ ] Aceite de aguacate o vegetal — 1 botella
 - [ ] Aceite de oliva — 1 botella
 - [ ] Caldo de pollo bajo en sodio — 1 cartón
 - [ ] Vinagre de arroz o de manzana — 1 botella
+- [ ] Chiles guajillo secos — 8
+- [ ] Chiles ancho secos — 2
+- [ ] Chile de árbol seco — 1
 - [ ] Hojas de plátano congeladas (opcional) — 1 paquete
 
 ### Parada 3: Walmart o Mega Soriana (solo si faltó algo)
@@ -588,17 +481,11 @@ Esta semana cocinamos comida mexicana clásica, que en su mayoría es naturalmen
 | **Tortillas de maíz** | 🟢 BAJO | Naturalmente GF, pero revisa que no haya contaminación cruzada si eres muy sensible. Busca marcas hechas en instalaciones dedicadas. |
 
 **Ingredientes que son 100% GF sin riesgo:**
-- Chiles secos (ancho, pasilla, chipotle)
-- Chocolate mexicano (Ibarra, Hernán)
-- Canela
-- Crema mexicana
-- Queso Oaxaca
+- Chiles secos (guajillo, ancho, de árbol)
+- Fécula de maíz (Maizena)
+- Queso fresco
 - Hojas de plátano
-- Alcaparras y aceitunas
-- Epazote
-- Chiles poblanos
 - Salsa de habanero (Yucateco, Frontera)
-- Pistaches y cacahuates (naturales, sin saborizantes)
 - Frijoles, arroz, jitomates, cebollas, ajo, limones, cilantro, etc.
 
 ---
@@ -609,45 +496,25 @@ Esta semana cocinamos 5 platillos mexicanos. Algunos requieren técnicas que qui
 
 ---
 
-## 1. Cómo Asar y Pelar Chiles Poblanos (para Rajas con Crema)
+## 1. Cómo Rehidratar Chiles Secos para Chile Colorado
 
-Los chiles poblanos necesitan asarse antes de usarlos en las rajas. Asarlos significa ponerlos al fuego directo hasta que la piel se queme y se ampolle. Después se pelan y se cortan en tiras. Esto les da un sabor ahumado delicioso y quita la piel dura.
+Para el chile colorado, los chiles secos NO se tuestan en aceite ni se hierven directamente. Solo se rehidratan en agua caliente. La técnica es sencilla pero tiene un detalle crítico: **nunca debes agregar los chiles al agua hirviendo** — el calor extremo de la ebullición libera taninos de la piel de los chiles y los vuelve amargos, arruinando el platillo.
 
-**Según Chili Pepper Madness** (https://www.chilipeppermadness.com/cooking-with-chili-peppers/how-to-roast-poblano-peppers/), el método correcto es:
+**Según Isabel Eats** (https://www.isabeleats.com/chile-colorado-recipe/), la técnica correcta es:
 
-1. **Pon los poblanos en una charola para horno** y mételos bajo el broiler (asador del horno) a temperatura alta.
-2. **Voltéalos cada 5 minutos** hasta que la piel esté completamente negra y ampollada por todos lados (15-20 minutos total). No tengas miedo de que se vean quemados — eso es lo que queremos.
-3. **En cuanto los saques del horno, ponlos en un tazón y cúbrelos con plástico** (film transparente) o una toalla. Déjalos reposar 10-15 minutos. Este paso es **crítico**: el vapor que se genera adentro ablanda la piel y la hace fácil de quitar.
-4. **Pela la piel quemada** con los dedos o con un cuchillo. Debe salir fácilmente. No los laves bajo el agua — se les quita el sabor ahumado.
-5. **Quita el tallo y las semillas.** Haz un corte a lo largo, ábrelos, y raspa las semillas con una cuchara.
-6. **Córtalos en tiras** (rajas) de aproximadamente 1 cm de ancho.
+1. **Quita los tallos y las semillas.** Abre cada chile con las manos o con tijeras, saca las semillas y tira el tallo. Enjuaga los chiles bajo el agua para quitar el polvo. Hazlo con todos: guajillos, anchos y chiles de árbol.
+2. **Pon a hervir suficiente agua** para cubrir los chiles (aproximadamente 3-4 tazas, dependiendo de cuántos chiles sean). Usa una olla mediana. Puedes agregar 1/4 de cebolla y 1 diente de ajo al agua para dar más sabor, pero no es necesario.
+3. **Cuando el agua hierva, RETIRA LA OLLA DEL FUEGO.** No agregues los chiles mientras el agua está hirviendo. Espera unos segundos a que el agua deje de burbujear.
+4. **Agrega los chiles al agua caliente** (no hirviendo). Empuja los chiles hacia abajo con una cuchara para asegurarte de que están cubiertos por el agua.
+5. **Tapa la olla y déjalos remojar 20 minutos.** Los chiles deben estar suaves y flexibles cuando los saques. Si todavía están duros o rígidos, déjalos 5-10 minutos más.
+6. **Guarda el agua del remojo** — la vas a necesitar para licuar los chiles. Tiene mucho sabor y ayuda a que la salsa quede con la consistencia correcta.
+7. **Licúa los chiles con el agua de remojo.** Pon los chiles en la licuadora con aproximadamente 1 taza del agua de remojo. Licúa hasta que quede una salsa suave, sin trozos grandes. Si quedó muy espesa, agrega más agua de remojo hasta que tenga consistencia de puré espeso.
 
-**Opción con air fryer (freidora de aire):** Según My Texas Kitchen (https://mytxkitchen.com/how-to-roast-poblano-peppers-in-the-oven/), puedes asar los poblanos en la air fryer a 200°C (400°F) por 7-10 minutos, volteándolos a la mitad del tiempo. Es más rápido que el horno.
-
-**Opción con estufa de gas:** Si tienes estufa de gas, puedes poner los poblanos directamente sobre la flama con unas pinzas, volteándolos hasta que se quemen por todos lados. Es el método más tradicional y da el mejor sabor ahumado.
-
-**Consejo importante de Isabel Eats** (https://www.isabeleats.com/how-to-roast-poblano-peppers/): Si no quieres que las rajas piquen, haz un corte vertical a lo largo del chile y quita las semillas y las venas (las partes blancas) antes de cortar las tiras. Las semillas y las venas son lo que pica.
+**¿Por qué no hervirlos ni freírlos en aceite?** La ebullición directa libera taninos y compuestos amargos de la piel de los chiles. Remojarlos en agua caliente (pero no hirviendo) preserva su sabor afrutado y su color rojo brillante. Es la diferencia entre una salsa sabrosa y una plana. Cada platillo tiene su método.
 
 ---
 
-## 2. Cómo Tostar y Rehidratar Chiles Secos para el Mole
-
-Los chiles secos (ancho, pasilla, chipotle) no se usan directamente del paquete. Necesitan dos pasos: **tostarlos** (para despertar el sabor) y **rehidratarlos** (para que se ablanden y se puedan licuar). La técnica correcta es **freírlos en aceite primero y después remojarlos en agua caliente**, no solo remojarlos.
-
-**Según The Spruce Eats** (https://www.thespruceeats.com/how-to-re-hydrate-chiles-2343043), el método correcto es:
-
-1. **Quita los tallos y las semillas.** Abre cada chile con tijeras o con las manos, saca las semillas y tira el tallo. Enjuaga los chiles bajo el agua para quitar el polvo.
-2. **Calienta una sartén con un poco de aceite** a fuego medio. Fríe los chiles en lotes (no los amontones), volteándolos frecuentemente, hasta que cambien de color y suelten aroma (30-60 segundos por lado). **Cuidado: no los quemes.** Si se queman, saben amargo y arruinan el mole. Si se queman, tíralos y empieza de nuevo.
-3. **Pasa los chiles fritos a un tazón con agua hirviendo.** Agrega las pasas y las ciruelas pasas. Retira del fuego y deja remojar 30 minutos.
-4. **Guarda el agua del remojo** — la vas a necesitar para licuar los chiles. Si el agua sabe amarga, tírala y usa caldo de pollo o agua limpia.
-
-**¿Por qué freírlos primero y no solo remojarlos?** Según How to Cooking (https://howto.cooking/recipes/traditional-mole-sauce-recipe/), tostar los chiles en aceite por exactamente 30 segundos despierta los compuestos de sabor que son solubles en grasa y que permanecen dormidos en su estado seco. Esto significa que el aceite ayuda a liberar sabores que el agua sola no puede sacar. Es como la diferencia entre tostar el pan y comerlo sin tostar — el calor transforma el sabor.
-
-**Consejo:** No uses agua hirviendo para remojar — el agua muy caliente destruye algunos sabores. Usa agua caliente pero no hirviendo (alrededor de 80°C). Si el agua está hirviendo cuando metes los chiles, apaga el fuego primero.
-
----
-
-## 3. Cómo Cocinar Carne de Cerdo a Fuego Lento (para la Cochinita Pibil)
+## 2. Cómo Cocinar Carne de Cerdo a Fuego Lento (para la Cochinita Pibil)
 
 La cochinita pibil usa espalda de cerdo (pierna/paletilla), que es un corte duro con mucha tejido conectivo. Si lo cocinas rápido, queda duro y chicloso. Si lo cocinas lento y a temperatura baja, el tejido conectivo se deshace y la carne queda suave como mantequilla.
 
@@ -668,28 +535,31 @@ Pero hay un truco: si cocinas a temperatura muy alta, las fibras del músculo se
 
 ---
 
-## 4. Cómo Hacer que el Mole Quede Sedoso (Colado)
+## 3. Cómo Hacer Tinga — La Base de Chipotle y Jitomate
 
-El mole tiene muchos ingredientes: chiles, nueces, semillas, especias, jitomate, chocolate. Si lo licúas y lo usas así, queda con textura granulada — como arena. Para que quede sedoso y lujoso, necesitas **colarlo por un colador de malla fina**.
+La tinga de pollo es un platillo clásico mexicano: pollo desmenuzado en una salsa de jitomate con cebolla, ajo y chipotles en adobo. El secreto para una buena tinga es **dejar que los jitomates suelten su jugo y se cocinen bien ANTES de agregar el pollo**, y luego **cocinar a fuego lento hasta que la salsa se espese y se "pegue" al pollo**. Si agregas el pollo antes de tiempo, queda con sabor a jitomate crudo.
 
-**Según Kate Ramos en ¡Hola! Jalapeño** (https://www.holajalapeno.com/mole-poblano/):
+**Según Mely Martínez en Mexico in My Kitchen** (https://www.mexicoinmykitchen.com/chicken-tinga-recipe/), la técnica correcta es:
 
-> "Cuela la mezcla de chile en un tazón grande empujándola a través de un colador de malla fina. No tienes que hacerlo, pero hace una salsa muy sedosa y lujosa."
+1. **Corta la cebolla en julianas** (tiras delgadas, a lo largo) y pica el ajo fino. Estos son la base del sabor — necesitan sofreírse bien antes de cualquier otra cosa.
+2. **Calienta aceite en una olla o sartén grande** a fuego medio. Agrega la cebolla y el ajo. Cocina hasta que la cebolla esté transparente y ligeramente dorada por los bordes — unos 5-7 minutos. **No los quemes.** Si se queman, saben amargo.
+3. **Agrega el jitomate rallado o triturado.** Mezcla bien. El jitomate va a soltar mucha agua al principio — esto es normal y es exactamente lo que queremos. Cocina a fuego medio **sin tapar** hasta que el jitomate se haya reducido y la mezcla tenga una consistencia más espesa (unos 10-15 minutos).
+4. **Agrega los chipotles en adobo** picados finamente y 2-3 cucharadas de la salsa adobo de la lata. Mezcla bien y cocina 2-3 minutos más para que los sabores se integren. Prueba y agrega más chipotles si quieres más picante.
+5. **Agrega el pollo desmenuzado** (ya cocido) y un poco de caldo de pollo (1/4 taza aproximadamente). Revuelve bien para que todo el pollo se impregne de la salsa.
+6. **Baja el fuego al mínimo** y cocina **a fuego lento** durante 20-30 minutos, revolviendo ocasionalmente. La salsa se va a reducir y a "pegarse" al pollo.
 
-El proceso es:
-1. **Licúa cada grupo de ingredientes por separado** (chiles, nueces/semillas, jitomate) con un poco del líquido de remojo de los chiles hasta que quede muy suave.
-2. **Pasa cada licuado por un colador de malla fina** (colador de alambre con agujeros pequeños). Usa una cuchara o espátula de hule para empujar y raspar la mezcla a través del colador. Lo que quede en el colador (cáscaras, semillas, trozos) se tira.
-3. **Después fríe cada licuado colado** en una olla con aceite. Primero el de chile (se va a salpicar — ten cuidado), después el de nueces, después el de jitomate con el chocolate.
+**Señales de que la tinga está lista:**
+- La salsa tiene un color rojo oscuro uniforme
+- Al inclinar la olla, la salsa **no se separa** del pollo — se queda pegada
+- El jitomate ya no sabe crudo — los sabores se han integrado
+- Huele a chipotle pero no domina
 
-**Según Serious Eats** (https://www.seriouseats.com/mole-poblano-recipe-how-to-make-mole), este proceso de licuar y colar es lo que le da al mole su textura aterciopelada:
+**Errores comunes:**
+- **Agregar el pollo antes de tiempo:** Si lo agregas cuando el jitomate todavía tiene agua cruda, el pollo queda con sabor agrio y la salsa no espesa.
+- **No cocinar el jitomate suficiente:** El jitomate crudo tiene un sabor ácido que se quita con la cocción. Cocínalo bien hasta que huela dulce.
+- **Cocinar a fuego alto:** La salsa se quema y se pega al fondo. El fuego lento es clave.
 
-> "El proceso meticuloso de licuar los ingredientes y pasarlos por un colador de malla fina asegura que la salsa tenga una textura aterciopelada y suave."
-
-**Según Tasting Table** (https://www.tastingtable.com/1372856/tips-making-incredible-mole-from-scratch/), algunos cocineros discuten si colar es tradicional, pero el resultado es innegable:
-
-> "Algunos cocineros argumentan que no es tradicional, pero colar tu mole puede lograr una textura aterciopelada. Esto elimina cualquier hierba arenosa que interfiera con el paso sedoso de la salsa por el paladar."
-
-**Consejo práctico:** Si no tienes colador de malla fina, puedes usar una licuadora potente y licuar por más tiempo (3-4 minutos por tanda). No quedará tan sedoso como colado, pero será aceptable. Si tienes colador, úsalo — la diferencia es enorme.
+**Consejo:** Si durante la cocción la salsa queda muy seca, agrega 1-2 cucharadas de caldo de pollo a la vez. Si queda muy aguada, sube un poco el fuego y cocina destapado por unos minutos hasta que reduzca.
 
 ---
 
@@ -731,9 +601,9 @@ Los frijoles charros usan frijoles pinto secos. Puedes usar frijoles de lata, pe
 
 ---
 
-## 6. Cómo Tatemar (Char) Jitomates, Cebolla y Ajo en el Comal
+## 3. Cómo Tatemar (Char) Jitomates, Cebolla y Ajo en el Comal
 
-Tatemar significa asar ingredientes directamente sobre un comal o plancha caliente hasta que se quemen por fuera. Esto es una técnica fundamental de la cocina mexicana. Se usa para el mole (jitomate, cebolla, ajo) y para la salsa Veracruzana (aunque en esa receta los sofreímos en aceite en lugar de tatemar).
+Tatemar significa asar ingredientes directamente sobre un comal o plancha caliente hasta que se quemen por fuera. Esto es una técnica fundamental de la cocina mexicana — se usa en muchas salsas y platillos para dar un sabor ahumado profundo.
 
 **Según Pati Jinich** (https://patijinich.com/charring_ingredients/), chef mexicana y presentadora del programa de PBS *Pati's Mexican Table*:
 
@@ -761,13 +631,13 @@ Tatemar significa asar ingredientes directamente sobre un comal o plancha calien
 
 > "Calienta el comal a fuego medio por varios minutos, permitiendo que alcance una temperatura uniforme. Prueba la temperatura rociando unas gotas de agua — deben chisporrotear y evaporarse rápido."
 
-**¿Por qué tatemar en lugar de asar al horno o hervir?** El calor directo del comal quema el azúcar natural de los jitomates y la cebolla, creando un sabor ahumado y caramelizado que no se puede obtener de otra manera. Es la diferencia entre un mole sabroso y un mole plano.
+**¿Por qué tatemar en lugar de asar al horno o hervir?** El calor directo del comal quema el azúcar natural de los jitomates y la cebolla, creando un sabor ahumado y caramelizado que no se puede obtener de otra manera. Es lo que hace que muchas salsas mexicanas tengan ese sabor profundo y característico.
 
 ---
 
 ## 7. Mise en Place para la Cocina Mexicana (Organizar Antes de Empezar)
 
-Mise en place (se pronuncia "miz an plas") es un término francés que significa "todo en su lugar." Es la práctica de preparar y organizar **todos** los ingredientes antes de empezar a cocinar. En la cocina mexicana, donde muchas recetas tienen muchos pasos que se mueven rápido (especialmente el mole), esto es esencial.
+Mise en place (se pronuncia "miz an plas") es un término francés que significa "todo en su lugar." Es la práctica de preparar y organizar **todos** los ingredientes antes de empezar a cocinar. En la cocina mexicana, donde muchas recetas tienen muchos pasos que se mueven rápido (especialmente el chile colorado), esto es esencial.
 
 **Según Made In Cookware** (https://madeincookware.com/blogs/mise-en-place):
 
@@ -784,16 +654,15 @@ Antes de empezar a cocinar cualquier platillo, haz esto:
 1. **Lee la receta completa de principio a fin.** Entiende todos los pasos antes de empezar.
 2. **Pesa y mide todos los ingredientes.** Pon cada ingrediente en un tazón o plato pequeño.
 3. **Pica todo lo que necesites picar** antes de prender la estufa: cebolla, ajo, jitomate, cilantro, chiles.
-4. **Agrupa los ingredientes por paso.** Por ejemplo, para el mole:
-   - Grupo 1 (chiles): ancho, pasilla, chipotle, pasas, ciruelas pasas
-   - Grupo 2 (tatemar): cebolla, ajo, jitomate
-   - Grupo 3 (especias): canela, pimienta, anís
-   - Grupo 4 (nueces y semillas): almendras, pistaches/cacahuates, ajonjolí
-   - Grupo 5 (otros): tortilla, chocolate, orégano, cilantro molido, sal
+4. **Agrupa los ingredientes por paso.** Por ejemplo, para el chile colorado:
+   - Grupo 1 (chiles para remojar): guajillo, ancho, de árbol
+   - Grupo 2 (para licuar): ajo, comino, orégano, sal, agua de remojo
+   - Grupo 3 (carne): carne de res en trozos, cebolla, ajo
+   - Grupo 4 (para espesar al final): fécula de maíz + 2 cdas de agua fría
 5. **Prepara tus herramientas:** licuadora limpia, colador de malla fina, ollas y sartenes, cuchara de madera, espátula.
 6. **Pon todo en orden lineal** de izquierda a derecha, en el orden que lo vas a usar.
 
-**Para el mole especialmente:** El mole tiene 12 pasos y muchos ingredientes. Si intentas hacerlo sin mise en place, te vas a estresar y se te van a quemar cosas mientras buscas el siguiente ingrediente. Prepara todo antes de prender la estufa.
+**Para el chile colorado especialmente:** Aunque son solo unos cuantos pasos (remojar chiles, licuar, sellar la carne, agregar la salsa y espesar), avanzan rápido y la salsa se pega o se quema si no tienes todo listo. Si intentas hacerlo sobre la marcha, te vas a atrasar y se te pueden quemar los chiles o la salsa. Prepara todo antes de prender la estufa.
 
 **Consejo práctico:** Usa tazones pequeños o tazas para medir. Pon todos los tazones en una charola o bandeja para que puedas moverlos todos juntos de la mesa a la estufa. Así no se te olvida nada.
 
@@ -852,72 +721,54 @@ Cuando el arroz esté cocido (pasados los 20-25 minutos, y el líquido se haya a
 Antes de empezar a cocinar el domingo, revisa que tienes todo:
 
 ### Ingredientes críticos (no puedes cocinar sin estos):
-- [ ] Carne de cerdo (espalda/pierna) — 1.4 kg
-- [ ] Piernas de pollo con hueso y piel — 7 piezas (~1.4 kg)
-- [ ] Pescado blanco (huachinango o mero) — 600g
-- [ ] Chiles poblanos — 6 grandes
-- [ ] Chiles secos: ancho (4), pasilla (5), chipotle (2)
-- [ ] Recado rojo / achiote (revisar GF) — 1 paquete
-- [ ] Chocolate Ibarra — 1 tableta
-- [ ] Crema mexicana — 1 1/2 tazas (~375ml)
-- [ ] Queso Oaxaca — 1 1/2 tazas (deshilado)
-- [ ] Frijoles pinto (secos o de lata) — 1 1/2 tazas de frijol seco
+- [ ] Carne de cerdo (espalda/pierna con hueso) — 1.4 kg
+- [ ] Muslos de pollo sin hueso y sin piel — 500g
+- [ ] Carne de res para guisado (espaldilla/camote) — 900g
+- [ ] Frijol pinto (seco o de lata) — 1 1/2 tazas de frijol seco (o 3 latas)
 - [ ] Arroz blanco — 1 kg (para el arroz rojo)
-- [ ] Tortillas de maíz — 1 paquete (opcional, no son obligatorias esta semana)
-- [ ] Huevos — 1 docena (opcional, para desayunos o complemento)
-
-### Ingredientes para la salsa Veracruzana:
-- [ ] Aceitunas verdes sin hueso — 1 frasco
-- [ ] Alcaparras — 1 frasco
-- [ ] Epazote (o orégano)
-- [ ] Pescado blanco — 600g
-
-### Ingredientes para el mole:
-- [ ] Pasas — 1/4 taza
-- [ ] Ciruelas pasas — 1/4 taza
-- [ ] Almendras fileteadas — 2 cdas
-- [ ] Cacahuates o pistaches — 2 cdas
-- [ ] Ajonjolí (sésamo blanco) — 1/4 taza
-- [ ] Canela en rama — 1 trozo de 2.5 cm
-- [ ] Pimienta negra en grano — 5
-- [ ] Anís en semilla — 1/4 cdita
-- [ ] Tortilla de maíz (media, para espesar)
+- [ ] Jitomate en cubos enlatado (asado al fuego) — 1 lata de 15 oz
+- [ ] Chipotles en adobo — 1 lata (se necesitan 2 chiles) *(revisar GF)*
+- [ ] Chiles guajillo secos — 8
+- [ ] Chiles ancho secos — 2
+- [ ] Chile de árbol seco — 1
+- [ ] Fécula de maíz — 1 caja (se necesitan 2 cdas, espesante sin gluten)
+- [ ] Recado rojo / achiote (revisar GF) — 1/2 paquete
+- [ ] Perejil fresco — 1 manojo
+- [ ] Calabacitas — 3 medianas
+- [ ] Elote — 2 frescos (o congelado, se necesitan 3 1/2 tazas)
 
 ### Hierbas y especias:
-- [ ] Tomillo seco
-- [ ] Orégano seco mexicano
-- [ ] Comino molido
-- [ ] Cilantro molido
-- [ ] Hojas de laurel — 5
-- [ ] Consomé de pollo en polvo (revisar GF)
+- [ ] Orégano seco — 1 cdita
+- [ ] Comino molido — 3/4 cdita
+- [ ] Hojas de laurel — 1
 - [ ] Sal de grano
 - [ ] Pimienta negra
 
 ### Líquidos y aceites:
-- [ ] Aceite de aguacate o vegetal
-- [ ] Aceite de oliva
-- [ ] Caldo de pollo bajo en sodio — 1 cartón
+- [ ] Aceite vegetal — 1 botella
+- [ ] Aceite de oliva — 1 botella
+- [ ] Caldo de res — 1 cartón (se necesitan 2 1/2 tazas) *(revisar GF)*
+- [ ] Caldo de pollo — 1 cartón (se necesitan 1 3/4 tazas)
 - [ ] Vinagre de arroz o de manzana
 - [ ] Salsa de habanero (Yucateco)
-- [ ] Limones — 10
+- [ ] Limones — 8
 
 ### Verduras y frescos:
-- [ ] Cebollas blancas — 5 grandes
-- [ ] Cebollas rojas — 1 1/2
-- [ ] Ajo — 3 cabezas
-- [ ] Jitomates (Roma) — 6
-- [ ] Chile serrano — 1
-- [ ] Cilantro fresco — 2 manojos
-- [ ] Aguacates — 1
-- [ ] Zanahorias — 2
-- [ ] Repollo rojo — 1 chico
-- [ ] Repollo verde — 1 chico
+- [ ] Cebollas blancas — 4 grandes
+- [ ] Cebollas moradas — 2 grandes
+- [ ] Cebolla amarilla — 1/2 (para el chile colorado)
+- [ ] Ajo — 2 cabezas
+- [ ] Jitomates (Roma) — 8 medianos
+- [ ] Chile serrano — 7
+- [ ] Cilantro fresco — 1 manojo
+- [ ] Perejil fresco (de hoja plana, no cilantro) — 1 manojo
+- [ ] Zanahorias — 1
+- [ ] Col morada — 1/2 cabeza
+- [ ] Col verde — 1/2 cabeza
+- [ ] Elote — 2 frescos (o congelado)
 
 ### Lácteos:
-- [ ] Crema mexicana — 1 1/2 tazas (~375ml)
-- [ ] Queso crema — 170g
-- [ ] Queso Oaxaca — 1 1/2 tazas (deshilado)
-- [ ] Mantequilla — 250g
+- [ ] Queso fresco — 100g (opcional, para calabacitas)
 
 ### Otros:
 - [ ] Hojas de plátano congeladas (opcional)
@@ -927,17 +778,21 @@ Antes de empezar a cocinar el domingo, revisa que tienes todo:
 ### Antes de empezar a cocinar:
 - [ ] Leí todas las recetas completas
 - [ ] Revisé que el recado rojo / achiote sea GF
-- [ ] Revisé que el consomé de pollo sea GF
+- [ ] Revisé que los chipotles en adobo sean GF
+- [ ] Revisé que el caldo de res sea GF
 - [ ] Revisé que el chorizo sea GF
 - [ ] Tengo todos los ingredientes medidos y listos (mise en place)
 - [ ] Tengo la licuadora limpia
-- [ ] Tengo el colador de malla fina (para el mole)
 - [ ] Tengo el slow cooker limpio
 - [ ] Tengo suficientes recipientes de vidrio para guardar la comida
 - [ ] Tengo espacio en el refrigerador
+- [ ] Chiles secos remojados (no hervidos — hervir los amarga)
+- [ ] Etiqueta de chipotles en adobo revisada para sin gluten
+- [ ] Fécula de maíz usada en lugar de harina (espesante sin gluten)
+- [ ] Calabacitas: no recocer (tapar para vapor, luego agregar elote)
 - [ ] Arroz frito en aceite hasta que quede blanco mate (no revolver mientras se cocina)
 - [ ] Arroz rojo: puré de jitomate cocido en el arroz antes de agregar el caldo
 
 ---
 
-> **Nota final:** Esta semana cocinamos 5 platillos mexicanos clásicos. Todos son naturalmente libres de gluten. Si sigues las recetas y los consejos de esta guía, te van a quedar deliciosos. Tómate tu tiempo, especialmente con el mole — es el platillo más complicado pero también el más rico. ¡Mucho éxito!
+> **Nota final:** Esta semana cocinamos 5 platillos mexicanos clásicos — cochinita pibil, tinga de pollo, chile colorado, frijoles charros y calabacitas con elote. Todos son naturalmente libres de gluten. Si sigues las recetas y los consejos de esta guía, te van a quedar deliciosos. Tómate tu tiempo, especialmente con la salsa del chile colorado — rehidratar bien los chiles es la clave para una salsa rica y sabrosa. ¡Mucho éxito!

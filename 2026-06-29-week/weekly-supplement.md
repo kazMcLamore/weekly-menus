@@ -1,5 +1,5 @@
 # Weekly Supplement — Shopping Guide and Cooking Tips
-## Week of June 22–26, 2026
+## Week of June 29 – July 3, 2026
 
 > **For:** Assistant (cook)
 > **From:** Customer
@@ -31,6 +31,16 @@ These are the 5 dishes you will be cooking this week:
 <tr>
 <td><img src="https://www.mexicoinmykitchen.com/wp-content/uploads/2024/11/Frijoles-Charros-6.jpg" width="350"></td>
 <td><img src="https://www.mexicoinmykitchen.com/wp-content/uploads/2022/11/Rajas-con-crema.jpg" width="350"></td>
+<td></td>
+</tr>
+<tr>
+<td align="center"><b>Arroz Rojo (Mexican Red Rice)</b></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><img src="https://www.mexicoinmykitchen.com/wp-content/uploads/2023/06/arroz-rojo.jpg" width="350"></td>
+<td></td>
 <td></td>
 </tr>
 </table>
@@ -426,6 +436,54 @@ If you are not sure that the packaged achiote is GF, you can make it yourself. Y
 
 ---
 
+## 13. Arroz Rojo (Mexican Red Rice) Ingredients
+
+Arroz rojo is a classic Mexican side dish — rice fried in oil, then cooked with a blended tomato, onion, and garlic sauce in chicken broth. It is served alongside almost every meal in Mexico, including this week's dishes. The ingredients are simple but the technique is what makes it special.
+
+**The ingredients you need:**
+
+- **White rice (1.5 cups):** Medium-grain rice is more traditional for Mexican rice because the grains absorb flavor well and stay fluffy. But long-grain white rice works fine — that is what most people in Mexico use at home. **Do not use brown rice** — it takes much longer to cook and the texture is wrong.
+- **Canned diced tomatoes (1 can, 15 oz):** Fire-roasted diced tomatoes are preferred because they add a smoky flavor. Regular diced tomatoes work too. This is the base of the red color and flavor.
+- **White onion (1/2 small):** Blended with the tomatoes and garlic.
+- **Garlic (2 cloves):** Blended with the tomatoes and onion.
+- **Chicken broth (1.75 cups):** Used to cook the rice. Low-sodium is preferred so you can control the salt.
+- **Vegetable oil (1.5 tbsp):** For frying the rice. Vegetable or canola oil works well. Olive oil is too heavy for this dish.
+- **Serrano chiles (3):** They are slit lengthwise (not chopped) and cooked whole in the rice. They release a mild, spicy flavor into the rice and are **removed before serving**. They are not meant to be eaten.
+- **Fresh parsley (1/4 cup):** This is **perejil** — flat-leaf parsley, the kind used in Italian cooking. **It is NOT cilantro.** They look similar (both are green leafy herbs) but the flavor is very different. Parsley is mild and slightly peppery. Cilantro is much more pungent and has a distinctive soapy flavor for some people. For arroz rojo, use parsley. If you only have cilantro, you can use it instead, but the flavor will be different.
+- **Salt:** To taste.
+
+**Where to buy:**
+- 🟢 **Canned diced tomatoes:** Any Chedraui, Walmart, Mega Soriana — canned goods aisle
+- 🟢 **White rice:** Any supermarket — rice aisle
+- 🟢 **Serrano chiles:** Any Chedraui, Walmart, Mega Soriana — produce section
+- 🟢 **Fresh parsley (perejil):** Any supermarket — produce section, refrigerated herb section. Look for "perejil liso" (flat-leaf parsley), not "perejil chino" (which is cilantro).
+- 🟢 **Chicken broth:** Any supermarket — soup/broth aisle, or use bouillon powder with water
+
+**Substitutes:**
+- **Fire-roasted tomatoes:** Use regular diced tomatoes + 1/2 tsp smoked paprika for a smoky note
+- **Fresh parsley:** Use cilantro (different flavor, but acceptable). Or use 1 tbsp dried parsley.
+- **Serrano chiles:** Use jalapeño chiles (less spicy, more common)
+- **Medium-grain rice:** Long-grain white rice is fine
+
+**⚠️ Key technique — DO NOT SKIP THIS:**
+
+The rice must be **fried in oil until it turns from translucent white to a milky, opaque white** before adding the tomato puree. This step is what keeps the grains separate and fluffy. Here is how:
+
+1. Heat the oil in a wide pot (about 8 inches / 20 cm diameter — a wide pot, not a tall pot) over medium heat.
+2. Add the uncooked rice. Stir constantly with a wooden spoon for about 5-7 minutes.
+3. The rice will first turn translucent, then gradually turn white and milky. When most of the grains are milky white (not just translucent), it is ready.
+4. **Now** add the blended tomato/onion/garlic puree. Stir for 2 minutes to cook the tomato.
+5. Add the chicken broth, salt, and the slit serrano chiles. Bring to a boil.
+6. Reduce heat to low, cover, and **cook for 20 minutes WITHOUT STIRRING.** Do not lift the lid, do not stir — stirring releases starch from the grains and makes the rice gummy and sticky.
+7. After 20 minutes, turn off the heat. Let it rest covered for 5-10 minutes.
+8. Remove the serrano chiles. Fluff the rice with a **fork** (never a spoon — a spoon smashes the grains). Sprinkle the chopped parsley on top.
+
+**Difficulty:** 🟢 easy (any supermarket for ingredients; technique is medium-difficulty)
+
+**⚠️ GF watch point:** All arroz rojo ingredients are naturally GF. Just check that your chicken broth is GF (some bouillon powders have gluten — see the GF watch section).
+
+---
+
 ## Recommended Shopping Route
 
 To save time, I recommend visiting the stores in this order:
@@ -440,32 +498,34 @@ To save time, I recommend visiting the stores in this order:
 ### Stop 2: Chedraui (Av. Juárez)
 **The main stop for most ingredients.**
 - [ ] Pork (shoulder/leg) — 1.4 kg
-- [ ] Bone-in, skin-on chicken thighs — 4 pieces (~800g)
+- [ ] Bone-in, skin-on chicken thighs — 7 pieces (~1.4 kg)
 - [ ] White fish (huachinango or mero) — 600g
-- [ ] Fresh Mexican chorizo — 100g
-- [ ] Bacon — 100g
+- [ ] Fresh Mexican chorizo — 60g
+- [ ] Bacon — 30g
 - [ ] Eggs — 2 dozen
-- [ ] Poblano peppers — 3 large
+- [ ] Poblano peppers — 6 large
 - [ ] Tomatoes (Roma) — 6
-- [ ] Serrano pepper — 1
+- [ ] Serrano peppers — 3
 - [ ] Fresh cilantro — 2 bunches
+- [ ] Fresh parsley (perejil liso, not cilantro) — 1 bunch
 - [ ] Limes — 10
 - [ ] Avocados — 1
 - [ ] White onions — 5 large
-- [ ] Red onions — 2
+- [ ] Red onions — 1.5
 - [ ] Garlic — 3 heads
 - [ ] Carrots — 2
 - [ ] Red cabbage — 1 small
 - [ ] Green cabbage — 1 small
-- [ ] Mexican crema — 250ml
-- [ ] Cream cheese — 1 block (8 oz / 225g)
-- [ ] Oaxaca cheese — 200g
+- [ ] Mexican crema — 375ml (~1.5 cups)
+- [ ] Cream cheese — 170g / 6 oz
+- [ ] Oaxaca cheese — 300g (~1.5 cups shredded)
 - [ ] Ibarra chocolate — 1 tablet
 - [ ] Butter — 250g
 - [ ] Recado rojo / achiote — 1 package (check GF)
-- [ ] Dry pinto beans — 1 bag (or 2 cans)
+- [ ] Dry pinto beans — 1 bag (enough for 1.5 cups dry beans)
 - [ ] Long-grain white rice — 1 kg
-- [ ] Corn tortillas — 2 packs of 15
+- [ ] Canned diced tomatoes (fire-roasted preferred) — 1 can (15 oz)
+- [ ] Corn tortillas — 2 packs of 15 (optional, for serving)
 - [ ] Pitted green olives — 1 jar
 - [ ] Capers — 1 jar
 - [ ] Raisins — 1 bag
@@ -720,24 +780,76 @@ Before you start cooking any dish, do this:
 
 ---
 
+## 8. How to Make Fluffy Arroz Rojo (Mexican Red Rice)
+
+Arroz rojo looks simple — it is just rice with tomato — but the difference between fluffy, restaurant-style Mexican rice and gummy, sticky rice comes down to technique. The four most important rules, according to chef Rick Bayless (https://www.rickbayless.com/recipe/red-tomato-rice/), are:
+
+**Rule 1: Fry the rice in oil before adding any liquid.**
+
+According to Rick Bayless, frying the uncooked rice in oil is the step that makes Mexican rice different from steamed rice. The hot oil coats each grain and partially gelatinizes the starch on the outside, which:
+- Keeps the grains separate and fluffy after cooking
+- Prevents the rice from sticking together in a mushy clump
+- Gives the rice a slightly nutty, toasted flavor
+
+You fry the rice until it changes color from translucent/pearly white to a milky, opaque white (about 5-7 minutes of constant stirring over medium heat). Do not let it brown — you want white, not golden.
+
+**Rule 2: Do NOT stir the rice while it simmers.**
+
+This is the rule most home cooks break. According to Bayless, once you add the broth and bring the rice to a simmer, you cover the pot and **leave it alone**. Do not stir, do not peek, do not lift the lid for the full 20 minutes of cooking.
+
+Why? Every time you stir rice while it cooks, you release starch from the grains into the liquid. That starch makes the rice gummy and sticky, like risotto or arroz con leche. Mexican rice is the opposite — it should be light, fluffy, with each grain separate.
+
+If you lift the lid, you also lose steam, which lowers the cooking temperature and makes the rice cook unevenly. Trust the process: 20 minutes covered, no peeking.
+
+**Rule 3: Use a wide pot (about 8 inches / 20 cm diameter), not a tall pot.**
+
+A wide pot means the rice spreads out in a thin, even layer on the bottom. This:
+- Cooks the rice evenly (no raw grains in the center)
+- Allows steam to escape properly so the rice does not get soggy
+- Gives the rice the characteristic dry, fluffy texture of Mexican restaurant rice
+
+A tall, narrow pot traps steam and makes the rice wetter and stickier. If you only have a tall pot, you can still make it work — just use less rice and be extra careful not to overcook it.
+
+**Rule 4: Fluff with a fork after cooking, never with a spoon.**
+
+When the rice is done and has rested for 5-10 minutes off the heat (still covered), remove the lid and use a **fork** to fluff the grains. A fork separates the grains gently without crushing them. A spoon smashes and breaks the grains, releasing starch and making the rice sticky.
+
+After fluffing, remove the whole serrano chiles with a fork or tongs — they were for flavor only and are not eaten. Sprinkle the chopped fresh parsley (perejil) over the top.
+
+**Practical tip:** If your arroz rojo turns out gummy the first time, do not worry. It is one of those techniques that takes a few tries to master. The most common mistake is stirring during simmering — once you stop doing that, the rice will be much fluffier.
+
+---
+
 ## Quick Reference Checklist
 
 Before you start cooking on Sunday, check that you have everything:
 
 ### Critical ingredients (you cannot cook without these):
 - [ ] Pork (shoulder/leg) — 1.4 kg
-- [ ] Bone-in, skin-on chicken thighs — 4 pieces
+- [ ] Bone-in, skin-on chicken thighs — 7 pieces
 - [ ] White fish (huachinango or mero) — 600g
-- [ ] Poblano peppers — 3 large
+- [ ] Poblano peppers — 6 large
 - [ ] Dried chiles: ancho (4), pasilla (5), chipotle (2)
 - [ ] Recado rojo / achiote (check GF) — 1 package
 - [ ] Ibarra chocolate — 1 tablet
-- [ ] Mexican crema — 250ml
-- [ ] Oaxaca cheese — 200g
-- [ ] Pinto beans (dried or canned)
-- [ ] White rice — 1 kg
-- [ ] Corn tortillas — 2 packs of 15
-- [ ] Eggs — 2 dozen
+- [ ] Mexican crema — 375ml (~1.5 cups)
+- [ ] Oaxaca cheese — 300g (~1.5 cups shredded)
+- [ ] Pinto beans (dried) — 1.5 cups dry
+- [ ] White rice — 1 kg (for arroz rojo)
+- [ ] Canned diced tomatoes (fire-roasted preferred) — 1 can (15 oz)
+- [ ] Fresh parsley (perejil) — 1 bunch
+- [ ] Serrano peppers — 3
+
+### Arroz rojo ingredients:
+- [ ] Canned diced tomatoes — 1 can (15 oz)
+- [ ] White onion — 1/2 small (already counted in main list)
+- [ ] Garlic — 2 cloves (already counted in main list)
+- [ ] Vegetable oil — 1.5 tbsp
+- [ ] White rice — 1.5 cups (already counted in main list)
+- [ ] Chicken broth — 1.75 cups (use carton broth or bouillon)
+- [ ] Serrano chiles (slit, not chopped) — 3
+- [ ] Fresh parsley (perejil) — 1/4 cup chopped
+- [ ] Salt
 
 ### Ingredients for the Veracruz sauce:
 - [ ] Pitted green olives — 1 jar
@@ -776,26 +888,27 @@ Before you start cooking on Sunday, check that you have everything:
 
 ### Vegetables and fresh items:
 - [ ] White onions — 5 large
-- [ ] Red onions — 2
+- [ ] Red onions — 1.5
 - [ ] Garlic — 3 heads
 - [ ] Tomatoes (Roma) — 6
-- [ ] Serrano pepper — 1
+- [ ] Serrano peppers — 3 (for arroz rojo)
 - [ ] Fresh cilantro — 2 bunches
+- [ ] Fresh parsley (perejil liso, not cilantro) — 1 bunch
 - [ ] Avocados — 1
 - [ ] Carrots — 2
 - [ ] Red cabbage — 1 small
 - [ ] Green cabbage — 1 small
 
 ### Dairy:
-- [ ] Mexican crema — 250ml
-- [ ] Cream cheese — 1 block (8 oz)
-- [ ] Oaxaca cheese — 200g
+- [ ] Mexican crema — 375ml (~1.5 cups)
+- [ ] Cream cheese — 170g / 6 oz
+- [ ] Oaxaca cheese — 300g (~1.5 cups shredded)
 - [ ] Butter — 250g
 
 ### Other:
 - [ ] Frozen banana leaves (optional)
-- [ ] Fresh Mexican chorizo — 100g (check GF)
-- [ ] Bacon — 100g
+- [ ] Fresh Mexican chorizo — 60g (check GF)
+- [ ] Bacon — 30g
 
 ### Before you start cooking:
 - [ ] I read all the recipes completely
@@ -808,6 +921,8 @@ Before you start cooking on Sunday, check that you have everything:
 - [ ] I have the slow cooker clean
 - [ ] I have enough glass containers to store the food
 - [ ] I have space in the refrigerator
+- [ ] Rice fried in oil until milky white (not stirred while simmering)
+- [ ] Arroz rojo: tomato puree cooked into rice before adding broth
 
 ---
 

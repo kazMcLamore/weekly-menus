@@ -1,5 +1,5 @@
 # Suplemento Semanal — Guía de Compras y Consejos de Cocina
-## Semana del 22–26 de junio, 2026
+## Semana del 29 de junio al 3 de julio, 2026
 
 > **Para:** Asistente (cocinero)
 > **De:** Cliente
@@ -31,6 +31,16 @@ Estos son los 5 platillos que vas a cocinar esta semana:
 <tr>
 <td><img src="https://www.mexicoinmykitchen.com/wp-content/uploads/2024/11/Frijoles-Charros-6.jpg" width="350"></td>
 <td><img src="https://www.mexicoinmykitchen.com/wp-content/uploads/2022/11/Rajas-con-crema.jpg" width="350"></td>
+<td></td>
+</tr>
+<tr>
+<td align="center"><b>Arroz Rojo (Arroz Mexicano)</b></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><img src="https://www.mexicoinmykitchen.com/wp-content/uploads/2023/06/arroz-rojo.jpg" width="350"></td>
+<td></td>
 <td></td>
 </tr>
 </table>
@@ -426,6 +436,73 @@ Si no estás seguro de que el achiote del paquete sea GF, puedes hacerlo tú mis
 
 ---
 
+## 13. Arroz Rojo (Arroz Mexicano) — Acompañamiento
+
+Cada comida esta semana incluye una porción de **arroz rojo** como acompañamiento. Es el arroz mexicano clásico: arroz blanco frito en aceite con un puré de jitomate, cebolla y ajo, cocido en caldo de pollo. Es muy diferente al arroz blanco común — tiene sabor, color y los granos quedan sueltos.
+
+### Ingredientes que necesitas:
+
+**Arroz blanco de grano medio (1 1/2 tazas, ~300g):**
+- 🟢 **Cualquier supermercado** — Sección de arroz y granos
+- **¿Grano medio o grano largo?** El arroz de grano medio es el más tradicional para el arroz mexicano — los granos quedan más cremosos y absorben mejor el sabor del jitomate. Pero el de grano largo también funciona bien. Si solo encuentras de grano largo, úsalo sin problema.
+- **⚠️ Punto GF:** El arroz es naturalmente GF. Verifica que la marca no tenga aditivos (raro, pero algunas marcas añaden saborizantes).
+
+**Jitomate en cubos enlatado (1 lata de 15 oz / 425g):**
+- 🟢 **Chedraui, Walmart, Soriana** — Sección de latas y enlatados
+- Busca latas que digan "jitomate en cubos" o "tomate triturado". Las marcas mexicanas (La Costeña, Del Fuerte, Herdez) todas funcionan.
+- **Preferido: jitomate asado al fuego.** Algunas marcas venden "jitomate asado al fuego" en lata — tiene un sabor más ahumado y profundo. Si lo encuentras, úsalo. Si no, el jitomate en cubos regular funciona bien.
+- **Sustituto:** 4 jitomates Roma frescos, tatemados en el comal y licuados. (Ver técnica de tatemar jitomates en la Parte 2, sección 6.)
+- **⚠️ Punto GF:** El jitomate enlatado es naturalmente GF. Verifica que no diga "con almidón modificado" en ingredientes raros.
+
+**Cebolla blanca (1/2 cebolla chica):**
+- 🟢 **Cualquier supermercado o mercado**
+- Usa cebolla blanca normal (la que se usa para cocinar). Solo necesitas media cebolla chica.
+
+**Ajo (2 dientes):**
+- 🟢 **Cualquier supermercado o mercado**
+
+**Aceite vegetal (1 1/2 cucharadas):**
+- 🟢 **Cualquier supermercado** — Aceite de maíz, canola o vegetal, cualquiera funciona. No uses aceite de oliva para este arroz — el sabor es muy fuerte.
+
+**Caldo de pollo (1 3/4 tazas):**
+- 🟢 **Cualquier supermercado** — Sección de caldos
+- Mejor el caldo en cartón bajo en sodio. Si no tienes, usa caldo en cubo (revisar que sea GF — algunas marcas contienen gluten) disuelto en agua caliente.
+- **Sustituto:** Agua con 1 cdita de consomé de pollo en polvo (verificar GF).
+
+**Chiles serranos (3 piezas, enteros):**
+- 🟢 **Cualquier supermercado o mercado** — Sección de chiles frescos
+- Los chiles serranos se cocinan **enteros** (solo con un corte a lo largo, NO picados) dentro del arroz. Le dan sabor sin que pique mucho, y se retiran antes de servir.
+
+**Perejil fresco (1/4 taza):**
+- 🟢 **Cualquier supermercado** — Sección de hierbas frescas, junto al cilantro
+- **¿Qué es el perejil?** Es una hierba de hoja verde, muy común. **Es diferente al cilantro** — aunque se ven parecidos, saben distinto. El cilantro tiene un sabor fuerte, cítrico y distintivo. El perejil tiene un sabor más suave, fresco y ligeramente amargo — como una versión suave del cilantro.
+- **Cómo se ve:** El perejil viene en manojos con tallos delgados y hojas verdes. Hay dos tipos: el **perejil de hoja plana** (que es el que usamos aquí, también llamado "perejil italiano") y el **perejil rizado** (que se usa más como decoración). Para cocinar, usa el de hoja plana.
+- **Cómo distinguirlo del cilantro:** El perejil de hoja plana tiene hojas más redondeadas y planas. El cilantro tiene hojas más delgadas y con bordes más pronunciados. Si tienes dudas, huele las hojas: el cilantro huele fuerte y cítrico; el perejil huele suave y fresco.
+- **Sustituto:** Si no encuentras perejil, puedes omitirlo. El arroz queda rico sin él. O usa un poco más de cilantro del que normalmente pondrías (aunque el sabor cambia).
+
+**Sal:**
+- La que tengas en casa.
+
+### Técnica clave del arroz rojo:
+
+El secreto del arroz rojo mexicano es **freír el arroz en aceite ANTES de agregar el jitomate y el caldo**. Este paso es lo que hace la diferencia entre un arroz rojo mexicano y un arroz aguado cualquiera.
+
+**Cómo se hace:**
+1. **Calienta el aceite** en una olla mediana a fuego medio.
+2. **Agrega el arroz crudo (sin lavar)** al aceite caliente.
+3. **Revuelve constantemente** con una cuchara de madera por unos 5-7 minutos, hasta que el arroz cambie de color: pasa de **translúcido** (cristalino, como vidrio) a **blanco mate** (opaco, sin brillo, color blanco lechoso).
+4. **En ese momento** agrega el puré de jitomate con cebolla y ajo. El puré se cocina junto con el arroz por unos 2 minutos.
+5. **Agrega el caldo de pollo caliente**, los chiles serranos enteros, y la sal. Tapa la olla.
+6. **Baja el fuego a lo mínimo** y cocina SIN REVOLVER por 20-25 minutos. Revolver libera el almidón del arroz y lo hace pegajoso.
+
+**⚠️ NO revuelvas el arroz mientras se cocina.** Esto es lo más importante. Una vez que tapas la olla, déjala en paz. El arroz se cocina solo con el vapor.
+
+**Dificultad:** 🟢 fácil (cualquier supermercado)
+
+**⚠️ Punto GF:** Todos los ingredientes del arroz rojo son naturalmente GF. Solo verifica el caldo de pollo y el consomé en polvo (algunos contienen gluten).
+
+---
+
 ## Ruta de Compras Recomendada
 
 Para ahorrar tiempo, te recomiendo visitar las tiendas en este orden:
@@ -440,32 +517,34 @@ Para ahorrar tiempo, te recomiendo visitar las tiendas en este orden:
 ### Parada 2: Chedraui (Av. Juárez)
 **La parada principal para la mayoría de los ingredientes.**
 - [ ] Carne de cerdo (espaleta/pierna) — 1.4 kg
-- [ ] Piernas de pollo con hueso y piel — 4 piezas (~800g)
+- [ ] Piernas de pollo con hueso y piel — 7 piezas (~1.4 kg)
 - [ ] Pescado blanco (huachinango o mero) — 600g
-- [ ] Chorizo mexicano fresco — 100g
-- [ ] Tocino — 100g
-- [ ] Huevos — 2 docenas
-- [ ] Chiles poblanos — 3 grandes
+- [ ] Chorizo mexicano fresco — 60g
+- [ ] Tocino — 30g
+- [ ] Huevos — 1 docena (opcional, para desayunos o complemento)
+- [ ] Chiles poblanos — 6 grandes
 - [ ] Jitomates (Roma) — 6
+- [ ] Jitomate en cubos enlatado — 1 lata de 15 oz (425g, para el arroz rojo)
 - [ ] Chile serrano — 1
 - [ ] Cilantro fresco — 2 manojos
+- [ ] Perejil fresco — 1 manojo chico (para el arroz rojo, es diferente del cilantro)
 - [ ] Limones — 10
 - [ ] Aguacates — 1
 - [ ] Cebollas blancas — 5 grandes
-- [ ] Cebollas rojas — 2
+- [ ] Cebollas rojas — 1 1/2
 - [ ] Ajo — 3 cabezas
 - [ ] Zanahorias — 2
 - [ ] Repollo rojo — 1 chico
 - [ ] Repollo verde — 1 chico
-- [ ] Crema mexicana — 250ml
-- [ ] Queso crema — 1 bloque (8 oz / 225g)
-- [ ] Queso Oaxaca — 200g
+- [ ] Crema mexicana — 1 1/2 tazas (~375ml)
+- [ ] Queso crema — 170g
+- [ ] Queso Oaxaca — 1 1/2 tazas (deshilado)
 - [ ] Chocolate Ibarra — 1 tableta
 - [ ] Mantequilla — 250g
 - [ ] Recado rojo / achiote — 1 paquete (revisar GF)
-- [ ] Frijoles pinto secos — 1 bolsa (o 2 latas)
-- [ ] Arroz blanco de grano largo — 1 kg
-- [ ] Tortillas de maíz — 2 paquetes de 15
+- [ ] Frijoles pinto secos — 1 1/2 tazas (o 1 bolsa chica)
+- [ ] Arroz blanco — 1 kg (de grano medio preferido para el arroz rojo, pero de grano largo sirve)
+- [ ] Tortillas de maíz — 1 paquete (opcional, no son obligatorias esta semana)
 - [ ] Aceitunas verdes sin hueso — 1 frasco
 - [ ] Alcaparras — 1 frasco
 - [ ] Pasas — 1 bolsa
@@ -720,24 +799,72 @@ Antes de empezar a cocinar cualquier platillo, haz esto:
 
 ---
 
+## 8. Cómo Hacer Arroz Rojo Perfecto (Arroz Mexicano)
+
+El arroz rojo es el acompañamiento clásico de la comida mexicana. Cada comida esta semana lleva una porción. La técnica es más sencilla de lo que parece, pero tiene un par de secretos que marcan la diferencia entre un arroz suelto y sabroso y un arroz pegajoso y aburrido.
+
+**Según Rick Bayless** (https://www.rickbayless.com/recipe/red-tomato-rice/), chef reconocido como uno de los mayores expertos en cocina mexicana, los secretos son:
+
+### Secreto 1: Freír el arroz en aceite antes de agregar el líquido
+
+> "Frying the rice in oil coats each grain and keeps them from sticking together as they cook."
+
+Eso significa: **freír el arroz en aceite recubre cada grano con una capa de grasa**, y esa capa evita que los granos se peguen entre sí mientras se cocinan. Es lo que mantiene el arroz rojo con esos granos sueltos y esponjosos que se ven en los restaurantes.
+
+**Cómo se hace:**
+1. Calienta el aceite en una olla mediana a fuego medio.
+2. Agrega el arroz crudo (sin lavar) y revuelve constantemente por 5-7 minutos.
+3. El arroz está listo cuando cambia de **translúcido** (transparente, como vidrio) a **blanco mate** (opaco, sin brillo, color blanco lechoso).
+4. **En ese momento** agrega el puré de jitomate, cebolla y ajo. Cocina 2 minutos más antes de agregar el caldo.
+
+### Secreto 2: NO revolver el arroz mientras se cocina a fuego lento
+
+> "Stirring the rice as it cooks releases starch and makes it gummy."
+
+Eso significa: **revolver el arroz mientras se cocina a fuego lento libera el almidón** de los granos, y eso es lo que hace que el arroz quede pegajoso y con textura de pasta. Cada vez que abres la olla y revuelvas, estás arruinando la textura.
+
+**Regla de oro:** Una vez que agregas el caldo y tapas la olla, **NO vuelvas a abrir la olla ni revolver** hasta que termine el tiempo de cocción (20-25 minutos). Solo baja el fuego al mínimo y espera.
+
+### Secreto 3: Usar una olla ancha
+
+Rick Bayless recomienda usar una **olla ancha** (aproximadamente 20 cm de diámetro) en lugar de una olla alta y estrecha. ¿Por qué? Porque una olla ancha permite que el arroz se cocine de manera más uniforme — el calor se distribuye mejor y el líquido se evapora a un ritmo parejo.
+
+Si solo tienes ollas altas, también funciona, pero el arroz puede tardar un poco más en cocinarse y debes asegurarte de que el fuego esté bien bajo para que no se queme el fondo.
+
+### Secreto 4: Esponjar con tenedor, nunca con cuchara
+
+Cuando el arroz esté cocido (pasados los 20-25 minutos, y el líquido se haya absorbido completamente):
+
+1. **Retira los chiles serranos enteros** y deséchalos (ya dieron su sabor).
+2. **Destapa la olla** y deja reposar 5 minutos sin tocar.
+3. **Esponja el arroz con un tenedor** — mete el tenedor por los lados y levanta suavemente los granos para separarlos.
+
+**Nunca uses una cuchara** para esponjar. La cuchara compacta los granos y los rompe. El tenedor los separa sin aplastarlos.
+
+**Consejo práctico:** Si el arroz se secó un poquito al final (el fondo está un poco seco), agrega 2-3 cucharadas de caldo caliente, tapa, y deja reposar 5 minutos más. Se va a hidratar de nuevo.
+
+**⚠️ Punto de cuidado:** El arroz rojo se cocina **sin revolver** y **a fuego muy bajo**. Si el fuego está muy alto, el arroz se quema por abajo y queda crudo por arriba. Si ves que el fondo se está pegando antes de tiempo, baja aún más el fuego.
+
+---
+
 ## Lista de Verificación Rápida
 
 Antes de empezar a cocinar el domingo, revisa que tienes todo:
 
 ### Ingredientes críticos (no puedes cocinar sin estos):
 - [ ] Carne de cerdo (espalda/pierna) — 1.4 kg
-- [ ] Piernas de pollo con hueso y piel — 4 piezas
+- [ ] Piernas de pollo con hueso y piel — 7 piezas (~1.4 kg)
 - [ ] Pescado blanco (huachinango o mero) — 600g
-- [ ] Chiles poblanos — 3 grandes
+- [ ] Chiles poblanos — 6 grandes
 - [ ] Chiles secos: ancho (4), pasilla (5), chipotle (2)
 - [ ] Recado rojo / achiote (revisar GF) — 1 paquete
 - [ ] Chocolate Ibarra — 1 tableta
-- [ ] Crema mexicana — 250ml
-- [ ] Queso Oaxaca — 200g
-- [ ] Frijoles pinto (secos o de lata)
-- [ ] Arroz blanco — 1 kg
-- [ ] Tortillas de maíz — 2 paquetes de 15
-- [ ] Huevos — 2 docenas
+- [ ] Crema mexicana — 1 1/2 tazas (~375ml)
+- [ ] Queso Oaxaca — 1 1/2 tazas (deshilado)
+- [ ] Frijoles pinto (secos o de lata) — 1 1/2 tazas de frijol seco
+- [ ] Arroz blanco — 1 kg (para el arroz rojo)
+- [ ] Tortillas de maíz — 1 paquete (opcional, no son obligatorias esta semana)
+- [ ] Huevos — 1 docena (opcional, para desayunos o complemento)
 
 ### Ingredientes para la salsa Veracruzana:
 - [ ] Aceitunas verdes sin hueso — 1 frasco
@@ -776,7 +903,7 @@ Antes de empezar a cocinar el domingo, revisa que tienes todo:
 
 ### Verduras y frescos:
 - [ ] Cebollas blancas — 5 grandes
-- [ ] Cebollas rojas — 2
+- [ ] Cebollas rojas — 1 1/2
 - [ ] Ajo — 3 cabezas
 - [ ] Jitomates (Roma) — 6
 - [ ] Chile serrano — 1
@@ -787,15 +914,15 @@ Antes de empezar a cocinar el domingo, revisa que tienes todo:
 - [ ] Repollo verde — 1 chico
 
 ### Lácteos:
-- [ ] Crema mexicana — 250ml
-- [ ] Queso crema — 1 bloque (8 oz)
-- [ ] Queso Oaxaca — 200g
+- [ ] Crema mexicana — 1 1/2 tazas (~375ml)
+- [ ] Queso crema — 170g
+- [ ] Queso Oaxaca — 1 1/2 tazas (deshilado)
 - [ ] Mantequilla — 250g
 
 ### Otros:
 - [ ] Hojas de plátano congeladas (opcional)
-- [ ] Chorizo mexicano fresco — 100g (revisar GF)
-- [ ] Tocino — 100g
+- [ ] Chorizo mexicano fresco — 60g (revisar GF)
+- [ ] Tocino — 30g
 
 ### Antes de empezar a cocinar:
 - [ ] Leí todas las recetas completas
@@ -808,6 +935,8 @@ Antes de empezar a cocinar el domingo, revisa que tienes todo:
 - [ ] Tengo el slow cooker limpio
 - [ ] Tengo suficientes recipientes de vidrio para guardar la comida
 - [ ] Tengo espacio en el refrigerador
+- [ ] Arroz frito en aceite hasta que quede blanco mate (no revolver mientras se cocina)
+- [ ] Arroz rojo: puré de jitomate cocido en el arroz antes de agregar el caldo
 
 ---
 

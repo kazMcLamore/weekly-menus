@@ -30,12 +30,12 @@
 - **Days covered per batch:** Customer: Mon–Fri (5 days). Assistant: Mon–Sat (6 days, lunch only).
 - **Dish count per week:** 5 unique dishes total
   - **3 meat dishes** (chicken, beef, pork, fish, etc.)
-  - **2 vegetable/plant dishes** (can include eggs, dairy, legumes)
+  - **2 vegetable/plant side dishes** (hummus, potato dishes, vegetable stews, legumes — these pair with the meat dishes, not standalone mains)
+  - **Plus:** 1 regional rice/carb dish (e.g., Lebanese vermicelli rice, Mexican arroz rojo, Indian jeera rice, etc.) — enough portions to accompany every meal
+- **Meal structure:** Each meal = 1 meat dish + 1 vegetable side + rice. This is a paired format — the veg dishes are sides that accompany the proteins, not standalone meals.
+- **Rotation structure:** Fixed daily pairs pre-determined (each day specifies which meat + which veg side + rice). No one eats the same meat dish twice in one day.
 - **Total portions per batch:** ~16 (customer: 10 meals; assistant: 6 lunches)
-- **Portions per dish:** Typically 3 portions each, with one dish getting 4 to reach 16 total. Exact distribution varies by week — the dish that gets the extra portion should be one that holds well (not a fish dish).
-- **Customer meal slots:** Lunch and dinner, Mon–Fri (10 meals/week)
-- **Assistant meal slots:** Lunch only, Mon–Sat (6 meals/week)
-- **Rotation rule:** No one eats the same dish twice in one day.
+- **Portion distribution:** Meat dishes get ~5-6 portions each (3 total ≈ 16). Veg sides get ~8 portions each (2 total ≈ 16). Rice makes 16 portions.
 
 ## Location & Ingredient Availability
 

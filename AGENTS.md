@@ -12,30 +12,30 @@
 - **Activity Level:** Highly active (athlete-level training, regular intense exercise)
 - **Macro targets (assumed, to be confirmed):**
   - ~30% protein / ~40% carbs / ~30% fat split
-  - Target ~600–700 kcal per meal (adjust based on number of meals/day — clarify with customer)
+  - Target ~600–700 kcal per meal, 2 meals/day (lunch + dinner) — confirmed with customer Jul 2026
 - **Taste preferences:** Saucy, flavorful, well-seasoned foods. Bold flavours. Dislikes dry/bland food.
 - **Cuisine preferences:** Open to all cuisines that can be made GF. Leans toward Mexican, Latin American, Southeast Asian, Mediterranean, and Indian — anything with big flavour.
 
 ## Assistant Profile
 
 - **Age / Sex:** 27-year-old male
-- **Role:** Cooks the meals, eats lunch from the same weekly batch, Spanish speaker
-- **Meals:** Lunch only, Monday–Saturday (6 lunches/week). Off Sunday.
+- **Role:** Cooks the meals, eats lunch and dinner from the same weekly batch, Spanish speaker
+- **Meals:** Lunch + dinner Monday–Friday (10 meals), lunch only Saturday (1 meal) = 11 meals/week. Off Sunday.
 - **Dietary needs:** Same gluten-free restriction applies (he eats from the shared batch). Standard appetite — no specific macro targets beyond eating well.
 - **Portion sizing:** Assistant portions can be slightly smaller than customer portions (~80–90% size is fine, but exact sizing is at the cook's discretion since he plates his own).
 
 ## Meal Plan Structure
 
 - **Batch cooking cadence:** Weekly (cook once, eat across the week)
-- **Days covered per batch:** Customer: Mon–Fri (5 days). Assistant: Mon–Sat (6 days, lunch only).
+- **Days covered per batch:** Customer: Mon–Sat (6 days, lunch + dinner = 12 meals). Assistant: Mon–Fri lunch + dinner (10 meals) + Sat lunch only (1 meal) = 11 meals. Off Sunday. **Total strict need = 23 plate-combos.**
 - **Dish count per week:** 5 unique dishes total
   - **3 meat dishes** (chicken, beef, pork, fish, etc.)
   - **2 vegetable/plant side dishes** (hummus, potato dishes, vegetable stews, legumes — these pair with the meat dishes, not standalone mains)
   - **Plus:** 1 regional rice/carb dish (e.g., Lebanese vermicelli rice, Mexican arroz rojo, Indian jeera rice, etc.) — enough portions to accompany every meal
 - **Meal structure:** Each meal = 1 meat dish + 1 vegetable side + rice. This is a paired format — the veg dishes are sides that accompany the proteins, not standalone meals.
-- **Rotation structure:** Fixed daily pairs pre-determined (each day specifies which meat + which veg side + rice). No one eats the same meat dish twice in one day.
-- **Total portions per batch:** ~16 (customer: 10 meals; assistant: 6 lunches)
-- **Portion distribution:** Meat dishes get ~5-6 portions each (3 total ≈ 16). Veg sides get ~8 portions each (2 total ≈ 16). Rice makes 16 portions.
+- **Rotation structure:** Fixed daily pairs pre-determined (each day specifies which meat + which veg side + rice). Lunch and dinner on the same day must use different meat dishes. With 3 meat dishes spread across 6 days × 2 meals, each meat dish repeats ~4× through the week. **Saturday asymmetry:** the assistant eats lunch only on Saturday (no dinner) while the customer still has Saturday dinner — pick the Saturday dinner meat so it does not repeat Saturday lunch's meat.
+- **Total portions per batch:** ~25 plate-combos (customer 12 meals + assistant 11 meals = strict 23, plus ~2 buffer). The buffer covers the assistant's slightly smaller plates (80–90% of a full portion frees ~1–2 portions), run-out / waste headroom, and 1–2 portions to freeze. **Per-meal calorie target stays ~600–700 kcal — the buffer is NOT for bigger plates.**
+- **Portion distribution:** Meat dishes get ~8–9 portions each (3 dishes ≈ 25). Veg sides get ~12–13 portions each (2 dishes ≈ 25). Rice makes ~25–26 portions. Each plate = 1 meat + 1 veg + 1 rice.
 
 ## Location & Ingredient Availability
 
@@ -60,7 +60,7 @@ The customer has a Mexican assistant who does the cooking and speaks Spanish. Ev
 **File naming:** `menu-semanal-espanol.md` in the same weekly folder.
 
 **What to include in the Spanish document (practical cooking info only):**
-- Daily menu table with all three meal columns: customer lunch (Almuerzo), customer dinner (Cena), and assistant lunch (Asistente)
+- Daily menu table with four meal columns: customer lunch (Almuerzo), customer dinner (Cena), assistant lunch (Asistente — almuerzo), assistant dinner (Asistente — cena). **Saturday:** no assistant-dinner column (lunch only). **Sunday:** off (no row).
 - All 5 scaled recipes: ingredients with metric/Mexican units (cditas, cdas, tazas, gramos), step-by-step method in Spanish
 - Rice cooking instructions
 - Packing table (Platillo / Porciones / Contenido por envase / Tipo de envase) and day-by-day grab list
@@ -114,6 +114,7 @@ The assistant is a young, inexperienced cook from a small Mexican town. He may n
 - Freezer-friendly: flag dishes that freeze well vs. those that don't
 - Reheating: microwave assumed primary method. Note if stovetop/oven reheat is strongly preferred for a dish.
 - Packing: glass containers preferred. Note container size recommendations per portion.
+- **6-day batch reality:** Meals now run Monday through Saturday. With 4–5 day fridge life as the binding constraint, freeze the portions earmarked for Friday/Saturday at the start of the week (or cook one meat dish as a dedicated freeze-ahead) and move them to the fridge to thaw ~1 day before eating. Flag each dish's freezer-friendliness explicitly so the rotation can route freezable dishes to days 5–6.
 
 ## Recipe Source Quality
 

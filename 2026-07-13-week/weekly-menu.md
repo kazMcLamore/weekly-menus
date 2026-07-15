@@ -142,7 +142,7 @@ Lamb shoulder (~200g raw, trimmed): 514 cal / 32g P / 0g C / 40g F (USDA). Ghee 
 - 4½ cups chicken stock (low-sodium, GF-certified) or water + extra salt
 - 22 green cardamom pods, lightly crushed
 - 4 cinnamon sticks
-- 3 tbsp white sugar
+- 1 tbsp white sugar (reduced from 3 tbsp — coconut cream is naturally sweeter than the dairy cream it replaced, so less added sugar is needed)
 - 3⅜ tsp salt
 - 2 cups coconut cream (full-fat) — replacing the original 1 cup coconut cream + 1 cup dairy cream with 2 cups coconut cream total
 
@@ -163,7 +163,7 @@ Lamb shoulder (~200g raw, trimmed): 514 cal / 32g P / 0g C / 40g F (USDA). Ghee 
 
 ### Scaling Notes
 - **Scaled at 2.25× from original (4 → 9 portions).** Lamb: 1.8 kg (practical to buy as 1.8–2.0 kg). Spices scaled linearly.
-- **Dairy cream replaced with coconut cream:** The original recipe uses ½ cup coconut cream + ½ cup dairy cream per 4 servings. We use 2 cups coconut cream total (no dairy cream). This makes the dish fully dairy-free and gives a richer coconut flavor. The coconut cream thickens the sauce similarly to dairy cream when simmered.
+- **Dairy cream replaced with coconut cream:** The original recipe uses ½ cup coconut cream + ½ cup dairy cream per 4 servings. We use 2 cups coconut cream total (no dairy cream). This makes the dish fully dairy-free and gives a richer coconut flavor. The coconut cream thickens the sauce similarly to dairy cream when simmered. **Sugar reduced from 3 tbsp to 1 tbsp** because coconut cream is naturally sweeter than dairy cream — keeping the original sugar amount made the dish too sweet.
 - **Kashmiri chili increased** from 2¼ tsp (linear scale) to 1 tbsp — the customer found the previous korma (June 22, Sinfully Spicy recipe) too bland. This brings gentle heat and deeper color. If unavailable, substitute 2¼ tsp smoked paprika + ¾ tsp cayenne pepper.
 - **Stovetop method** is the primary method (the assistant's kitchen may not have an oven-safe Dutch oven). The oven method is provided as an alternative.
 - ⚠️ **GF NOTE:** Naturally GF — thickened with cashew paste and coconut cream, not flour. Verify ghee is pure (not cut with wheat). Check garam masala and Kashmiri chili for wheat fillers.
@@ -525,7 +525,7 @@ Meat + rice + veg all in one 800ml container (layers: rice on bottom, veg in mid
 - [ ] Butter (unsalted) — 250g (need ~12 tbsp for dal makhani)
 - [ ] Chicken stock or bouillon — GF-certified, enough for 4½ cups (or use water + extra salt)
 - [ ] White vinegar — small bottle (3 tbsp for beef curry marinade)
-- [ ] Sugar — plenty (3 tbsp for korma)
+- [ ] Sugar — plenty (1 tbsp for korma)
 
 ### Especias y Condimentos (Spices & Seasonings)
 *Check pantry before buying — many may already be on hand from previous Indian week (June 22).*

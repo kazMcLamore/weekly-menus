@@ -105,7 +105,7 @@
 - 4½ tazas de caldo de pollo (bajo en sodio, sin gluten) o agua + sal extra
 - 22 vainas de cardamomo verde, ligeramente machacadas
 - 4 ramitas de canela
-- 3 cdas de azúcar blanca
+- 1 cda de azúcar blanca (reducida de 3 cdas — la crema de coco es naturalmente más dulce que la crema láctea que reemplazó, así que necesita menos azúcar)
 - 3⅜ cditas de sal
 - 2 tazas de crema de coco (lata, full-fat, NO light) — usamos crema de coco en lugar de crema láctea
 
@@ -498,7 +498,7 @@
 - [ ] Mantequilla sin sal — 250g (necesitas ~12 cdas para dal makhani)
 - [ ] Caldo de pollo sin gluten — suficiente para 4½ tazas (o usa agua + sal extra)
 - [ ] Vinagre blanco — botella chica (3 cdas para curry de res)
-- [ ] Azúcar — bastante (3 cdas para korma)
+- [ ] Azúcar — bastante (1 cda para korma)
 - [ ] Bicarbonato de sodio — 1 cajita (¾ cdita para chana masala)
 
 ### Especias y Condimentos

@@ -1,26 +1,41 @@
 # Menús Semanales — BatchCraft
 
-Planes de comida semanales sin gluten para cocina por lotes en Playa del Carmen, México. 5 platillos por semana, 16 porciones en total, planeado para dos personas.
+Archivo multi-cliente de planes de comida semanales. Cada cliente tiene su propia carpeta, perfil y semanas.
 
 ## Estructura
 
-- **3 platillos con carne** (pollo, res, cerdo, pescado)
-- **2 platillos de verdura/vegetales** (pueden incluir huevo, lácteos, legumbres)
-- **16 porciones por lote** — 10 para el cliente (lun–vie almuerzo y cena), 6 para el asistente (lun–sáb almuerzo)
+```
+customers/
+  kaz/                    # Kaz — batch cooking en Playa del Carmen
+    AGENTS.md             # Perfil dietético y de cocina
+    2026-06-15-week/      # Una carpeta por semana
+    …
+  <otro-cliente>/
+    AGENTS.md
+    YYYY-MM-DD-week/
+```
 
-Cada carpeta semanal contiene:
-- `weekly-menu.md` — plan completo con macros, fuentes y metodología
-- `menu-semanal-espanol.md` — copia lista para cocina en español
-- `weekly-supplement.md` — guía de compras + consejos de cocina
-- `suplemento-semanal-espanol.md` — guía de compras + consejos en español
+El `AGENTS.md` de la raíz dirige al cliente correcto. **No mezclar clientes.**
 
-## Dieta
+## Carpeta de semana por cliente
 
-- 100% sin gluten
-- Se prefieren ingredientes naturalmente libres de gluten
-- Sabores intensos, salsas, bien sazonado
-- Influencias mexicanas, latinoamericanas, del sudeste asiático, mediterráneas e hindúes
+Archivos típicos en `customers/<id>/YYYY-MM-DD-week/`:
 
-## Ubicación
+- `weekly-menu.md` — plan completo en inglés
+- `menu-semanal-espanol.md` — copia de cocina en español
+- `weekly-supplement.md` — guía de compras + tips (inglés)
+- `suplemento-semanal-espanol.md` — guía de compras + tips (español)
 
-Playacar, Playa del Carmen, Quintana Roo, México. Recetas pensadas para ingredientes disponibles en Chedraui, Soriana, Mega, Walmart y mercados locales.
+## Agregar un cliente nuevo
+
+1. Crear `customers/<id-corto>/`
+2. Escribir `customers/<id-corto>/AGENTS.md`
+3. Listarlo en el `AGENTS.md` de la raíz
+4. Planear semanas solo dentro de esa carpeta
+
+## Kaz (cliente principal actual)
+
+- 100% sin gluten; sabores intensos y con salsa
+- ~25 platos/semana (cliente + asistente de cocina)
+- Batch mié–vie; tiendas en Playa del Carmen
+- Reglas completas: [`customers/kaz/AGENTS.md`](customers/kaz/AGENTS.md)

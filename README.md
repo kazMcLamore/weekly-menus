@@ -1,26 +1,41 @@
 # Weekly Menus — BatchCraft
 
-Gluten-free weekly meal plans for batch cooking in Playa del Carmen, Mexico. 5 dishes per week, 16 portions total, planned for two people.
+Multi-customer gluten-free (and other) weekly meal-plan archive. Each customer has their own folder, profile, and weeks.
 
-## Structure
+## Layout
 
-- **3 meat dishes** (chicken, beef, pork, fish)
-- **2 vegetable/plant dishes** (may include eggs, dairy, legumes)
-- **16 portions per batch** — 10 for the customer (Mon–Fri lunch & dinner), 6 for the assistant (Mon–Sat lunch)
+```
+customers/
+  kaz/                    # Kaz — Playa del Carmen batch cooking
+    AGENTS.md             # Durable dietary + cook profile
+    2026-06-15-week/      # One folder per week
+    …
+  <other-customer>/
+    AGENTS.md
+    YYYY-MM-DD-week/
+```
 
-Each weekly folder contains:
-- `weekly-menu.md` — full plan with macros, sources, and methodology
-- `menu-semanal-espanol.md` — Spanish kitchen-ready copy for the cook
+Root `AGENTS.md` routes agents to the correct customer. **Never mix customers.**
+
+## Per-customer week folder
+
+Typical files inside `customers/<id>/YYYY-MM-DD-week/`:
+
+- `weekly-menu.md` — full English plan (macros, sources, method)
+- `menu-semanal-espanol.md` — Spanish kitchen copy (when used)
 - `weekly-supplement.md` — shopping guide + cooking tips
-- `suplemento-semanal-espanol.md` — Spanish shopping guide + cooking tips
+- `suplemento-semanal-espanol.md` — Spanish shopping + tips
 
-## Dietary
+## Adding a new customer
 
-- 100% gluten-free
-- Naturally GF ingredients preferred (no specialty GF products)
-- Bold, saucy, well-seasoned flavours
-- Mexican, Latin American, Southeast Asian, Mediterranean, Indian influences
+1. Create `customers/<short-id>/`
+2. Write `customers/<short-id>/AGENTS.md` (diet, macros, household, schedule, location)
+3. List them in root `AGENTS.md` under Active customers
+4. Plan weeks only under that folder
 
-## Location
+## Kaz (current primary)
 
-Playacar, Playa del Carmen, Quintana Roo, Mexico. Recipes designed for ingredients available at Chedraui, Soriana, Mega, Walmart, and local mercados.
+- 100% gluten-free; bold/saucy flavours
+- ~25 plate-combos/week (customer + assistant cook)
+- Wed–Fri rolling batch; Playa del Carmen stores (Chedraui, Walmart, DAC, etc.)
+- Full rules: [`customers/kaz/AGENTS.md`](customers/kaz/AGENTS.md)

@@ -43,5 +43,6 @@ Archivos típicos en `customers/<id>/YYYY-MM-DD-week/`:
 ### Marygel — [`customers/marygel/AGENTS.md`](customers/marygel/AGENTS.md)
 - Solo cenas lun–vie × 2 adultos; ~600–800 kcal/cena
 - **Alergia estricta a nueces/cacahuate**; sin pescado/camarón; sin vísceras
+- **Sin horno** — solo estufa / métodos sin horno
 - Gluten OK; sabores intensos / inclinación india; carbohidratos mixtos (**sin tortillas**)
 - Paquetes EN + ES; 2–3 sesiones de cocina/semana; Playa del Carmen

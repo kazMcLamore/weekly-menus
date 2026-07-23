@@ -24,7 +24,7 @@ Recipes/
 | Folder | Who | Notes |
 |--------|-----|--------|
 | `customers/kaz/` | Kaz | GF athlete; lunch+dinner batch; Spanish packs for assistant cook; Playa del Carmen |
-| `customers/marygel/` | Marygel + partner | Dinner Mon–Fri ×2; nut allergy (strict); no fish/shrimp/organs; bold/Indian-leaning; EN+ES; Playa del Carmen |
+| `customers/marygel/` | Marygel + partner | Dinner Mon–Fri ×2; nut allergy (strict); no fish/shrimp/organs; **no oven**; bold/Indian-leaning; EN+ES; Playa del Carmen |
 
 ## Agent rules (always)
 

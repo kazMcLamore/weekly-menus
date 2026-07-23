@@ -43,5 +43,6 @@ Typical files inside `customers/<id>/YYYY-MM-DD-week/`:
 ### Marygel — [`customers/marygel/AGENTS.md`](customers/marygel/AGENTS.md)
 - Dinner only Mon–Fri × 2 adults; ~600–800 kcal/dinner
 - **Strict nut allergy** (incl. cross-contact caution); no fish/shrimp; no organ/exotic meats
+- **No oven** — stovetop-only recipes
 - Gluten OK; bold / Indian-leaning; mixed carbs (**no tortillas**)
 - EN + ES packs; 2–3 cook sessions/week; Playa del Carmen

@@ -98,6 +98,27 @@ Marygel asked for **2–3 cook sessions/week**, flexible. Default recommendation
 - Budget: **flexible / not a primary constraint**
 - Nut-free vigilance at DAC/bulk bins: prefer sealed packaged spices when cross-contact is a concern
 
+## Kitchen Equipment
+
+### HARD constraint — no oven
+
+- **Marygel does NOT have an oven.** Do not plan any recipe that requires baking, roasting, broiling, or oven finishing.
+- **Reject or adapt** recipes whose primary method is oven-only (baked casseroles, roast trays, oven ribs, baked pasta, most cookies/breads as sides, etc.).
+- If a strong candidate recipe uses an oven step, only keep it if there is a **verified stovetop (or other available) method** written into the plan — never “just bake it instead” without a real alternate method.
+
+### Preferred / assumed available methods
+
+- **Stovetop:** skillets, saucepans, stockpots, Dutch oven / heavy pot for braises and stews
+- **Lid-on simmering, steaming, boiling, sauté, stir-fry, shallow fry** as needed
+- Rice cooker **not assumed** unless later confirmed — plan stovetop rice/absorption methods
+- Instant Pot / air fryer / grill: **not assumed** unless she confirms later
+
+### Recipe selection implications
+
+- Favor: curries, braises, stews, stovetop stir-fries, skillet meats, one-pot dishes, steamed veg, boiled/smashed potatoes, stovetop polenta/grains
+- Avoid as written: sheet-pan dinners, oven-roasted vegetables as the only method, baked gratins, oven meatballs-only recipes, anything “400°F for 25 min” with no stovetop path
+- Carbs: stovetop rice, pasta, couscous, potatoes, polenta — not oven breads/tortillas (tortillas already banned as planned carb)
+
 ## Output Files (each week)
 
 Under `customers/marygel/YYYY-MM-DD-week/`:
@@ -118,6 +139,7 @@ Before finalizing a week:
 - [ ] ~600–800 kcal per person dinner
 - [ ] Zero nuts/peanuts; flag cross-contact risks
 - [ ] Zero fish/shrimp; no organ/exotic meats
+- [ ] **100% stovetop (or non-oven) — no oven-required recipes**
 - [ ] Medium heat (not punishing)
 - [ ] Indian/South Asian lean OK; bold flavors welcome
 - [ ] EN + ES kitchen packs

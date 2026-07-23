@@ -23,7 +23,8 @@ Recipes/
 
 | Folder | Who | Notes |
 |--------|-----|--------|
-| `customers/kaz/` | Kaz (primary) | GF athlete batch plans + Spanish kitchen packs for assistant cook in Playa del Carmen |
+| `customers/kaz/` | Kaz | GF athlete; lunch+dinner batch; Spanish packs for assistant cook; Playa del Carmen |
+| `customers/marygel/` | Marygel + partner | Dinner Mon–Fri ×2; nut allergy (strict); no fish/shrimp/organs; bold/Indian-leaning; EN+ES; Playa del Carmen |
 
 ## Agent rules (always)
 
@@ -44,4 +45,4 @@ Recipes/
 
 ## Default when ambiguous
 
-If the user says “next week’s menu” without a name and only one highly active customer exists, default to **`customers/kaz/`** and state that assumption. If two or more customers are active, **always ask**.
+**Two or more customers are active** (Kaz + Marygel). If the user says “next week’s menu” without a name, **always ask which customer** before writing files. Do not guess.

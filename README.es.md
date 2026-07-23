@@ -33,9 +33,15 @@ Archivos típicos en `customers/<id>/YYYY-MM-DD-week/`:
 3. Listarlo en el `AGENTS.md` de la raíz
 4. Planear semanas solo dentro de esa carpeta
 
-## Kaz (cliente principal actual)
+## Clientes activos (resumen)
 
+### Kaz — [`customers/kaz/AGENTS.md`](customers/kaz/AGENTS.md)
 - 100% sin gluten; sabores intensos y con salsa
-- ~25 platos/semana (cliente + asistente de cocina)
-- Batch mié–vie; tiendas en Playa del Carmen
-- Reglas completas: [`customers/kaz/AGENTS.md`](customers/kaz/AGENTS.md)
+- ~25 platos/semana (cliente + asistente)
+- Batch mié–vie; Playa del Carmen
+
+### Marygel — [`customers/marygel/AGENTS.md`](customers/marygel/AGENTS.md)
+- Solo cenas lun–vie × 2 adultos; ~600–800 kcal/cena
+- **Alergia estricta a nueces/cacahuate**; sin pescado/camarón; sin vísceras
+- Gluten OK; sabores intensos / inclinación india; carbohidratos mixtos (**sin tortillas**)
+- Paquetes EN + ES; 2–3 sesiones de cocina/semana; Playa del Carmen

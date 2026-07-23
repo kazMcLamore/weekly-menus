@@ -33,9 +33,15 @@ Typical files inside `customers/<id>/YYYY-MM-DD-week/`:
 3. List them in root `AGENTS.md` under Active customers
 4. Plan weeks only under that folder
 
-## Kaz (current primary)
+## Active customers (summary)
 
+### Kaz — [`customers/kaz/AGENTS.md`](customers/kaz/AGENTS.md)
 - 100% gluten-free; bold/saucy flavours
 - ~25 plate-combos/week (customer + assistant cook)
-- Wed–Fri rolling batch; Playa del Carmen stores (Chedraui, Walmart, DAC, etc.)
-- Full rules: [`customers/kaz/AGENTS.md`](customers/kaz/AGENTS.md)
+- Wed–Fri rolling batch; Playa del Carmen
+
+### Marygel — [`customers/marygel/AGENTS.md`](customers/marygel/AGENTS.md)
+- Dinner only Mon–Fri × 2 adults; ~600–800 kcal/dinner
+- **Strict nut allergy** (incl. cross-contact caution); no fish/shrimp; no organ/exotic meats
+- Gluten OK; bold / Indian-leaning; mixed carbs (**no tortillas**)
+- EN + ES packs; 2–3 cook sessions/week; Playa del Carmen

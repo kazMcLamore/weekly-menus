@@ -17,6 +17,7 @@
   - ~30% protein / ~40% carbs / ~30% fat split
   - Target ~600–700 kcal per meal, 2 meals/day (lunch + dinner) — confirmed with customer Jul 2026
 - **Taste preferences:** Saucy, flavorful, well-seasoned foods. Bold flavours. Dislikes dry/bland food.
+- **Southern BBQ feedback (Aug 2026):** Chopped barbecue was a favorite. Use a lighter hand with salt in Southern BBQ dishes; avoid overly sweet/salty baked beans. Make collard-green batches substantially larger because greens cook down more than desired. Homemade barbecue sauces are especially welcome with ribs and chopped pork.
 - **Cuisine preferences:** Open to all cuisines that can be made GF. Leans toward Mexican, Latin American, Southeast Asian, Mediterranean, and Indian — anything with big flavour.
 
 ## Assistant Profile

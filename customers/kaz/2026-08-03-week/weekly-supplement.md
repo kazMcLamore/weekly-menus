@@ -1,70 +1,83 @@
 # Weekly supplement — shopping guide and cooking tips
 
-## Dish gallery
-<a href="https://www.tasteofhome.com/recipes/carolina-style-pork-barbecue/"><img src="https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=560&q=80" width="280" alt="BBQ pork"></a>
-<a href="https://www.mccormick.com/blogs/recipes/carolina-bbq-ribs"><img src="https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=560&q=80" width="280" alt="BBQ ribs"></a>
+## Southern batch gallery
+<a href="https://www.tasteofhome.com/recipes/carolina-style-pork-barbecue/"><img src="https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=560&q=80" width="280" alt="Chopped BBQ pork"></a>
+<a href="https://barefeetinthekitchen.com/memphis-style-dry-ribs-recipe/"><img src="https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=560&q=80" width="280" alt="Memphis ribs"></a>
 <a href="https://www.recipetineats.com/oven-baked-bbq-chicken/"><img src="https://images.unsplash.com/photo-1532550907401-a500c9a57435?auto=format&fit=crop&w=560&q=80" width="280" alt="BBQ chicken"></a>
 <br>
-<a href="https://www.seriouseats.com/collard-greens-ham-hocks-recipe"><img src="https://images.unsplash.com/photo-1576045057995-568f588f82fb?auto=format&fit=crop&w=560&q=80" width="350" alt="Braised greens"></a>
-<a href="https://whatgreatgrandmaate.com/gluten-free-cornbread-no-flour/"><img src="https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=560&q=80" width="350" alt="Cornbread"></a>
+<a href="https://www.bonappetit.com/recipe/sweet-and-tangy-collard-greens"><img src="https://images.unsplash.com/photo-1576045057995-568f588f82fb?auto=format&fit=crop&w=560&q=80" width="280" alt="Collard greens"></a>
+<a href="https://whatgreatgrandmaate.com/gluten-free-cornbread-no-flour/"><img src="https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=560&q=80" width="280" alt="Cornbread"></a>
+<a href="https://www.simplyrecipes.com/recipes/perfect_mashed_potatoes/"><img src="https://images.unsplash.com/photo-1577906096429-f73c2c312435?auto=format&fit=crop&w=560&q=80" width="280" alt="Mashed potatoes"></a>
 
 ## Part 1 — Shopping guide
 
-### What is special this week
+### Collard greens — 🟡 medium
+They are large, dark, firm leaves, tougher than spinach or chard. We need 4.25kg because they shrink dramatically. Look first at Chedraui Selecto or DAC Market; then produce markets. **Do not substitute chard automatically:** call Kaz if collards are unavailable.
+<img src="https://static.vecteezy.com/system/resources/thumbnails/060/110/099/small/fresh-collard-greens-bunch-on-white-background-for-cooking-or-eating-photo.jpeg" align="right" width="100" alt="Fresh collard greens"><br clear="right">
 
-**Collard greens / Southern leafy greens — 🟡 medium**  
-They are large, dark, firm leaves, tougher than spinach. They may not exist under that name in Playa: buy fresh **acelga (Swiss chard)** as the first substitution; then kale. We need a great deal—4.25 kg—because they shrink dramatically when cooked. Try Chedraui Selecto or DAC Market first; use the local market to finish the amount. If using chard, separate stems and cook leaves only 15–20 minutes at the end.
-<img src="https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=200&q=80" align="right" width="100" alt="Leafy greens"><br clear="right">
+### Certified-GF coarse cornmeal — 🟡 medium
+This is yellow ground corn with the texture of fine sand. It is not cornstarch and not nixtamalized tortilla masa harina. Look for “cornmeal” with a **gluten free/sin gluten** seal at Walmart or Chedraui Selecto. Without a GF mark it is unsuitable for Kaz because of mill cross-contact.
+<img src="https://www.janiesmill.com/cdn/shop/products/Golden_Yellow_Cornmeal_9904_copy_800x.jpg?v=1631315458" align="right" width="100" alt="Yellow cornmeal"><br clear="right">
 
-**Smoked ham hock — 🟡 medium**  
-This is the lower pork leg, with bone and meat; it gives the greens smoky flavour. Ask for “codillo de cerdo ahumado, de preferencia bajo en sal.” Look at Chedraui/Soriana, a butcher, or deli counter. Substitution: bone-in smoked turkey; then 500g low-sodium smoked bacon. Do not use bouillon cubes to “help”—they make the greens too salty.
+### Molasses — 🟡 medium
+A thick dark syrup tasting like toasted piloncillo. Look for “molasses/melaza” in Walmart or Chedraui Selecto’s baking aisle. Emergency substitute: very concentrated piloncillo syrup in the same quantity; this will change the flavour slightly.
+<img src="https://thumbs.dreamstime.com/b/spoonful-thick-dark-syrup-molasses-being-scooped-jar-spoonful-thick-dark-syrup-molasses-being-scooped-jar-416399195.jpg" align="right" width="100" alt="Molasses"><br clear="right">
 
-**Certified GF cornmeal — 🟡 medium**  
-This is yellow, slightly coarse ground corn for bread; it is not cornstarch and not tortilla masa harina. Look for “cornmeal/harina de maíz” with a gluten-free label at Walmart or Chedraui Selecto. If it has no GF label, do not use it for Kaz because of cross-contact.
+### Certified-GF Worcestershire sauce — 🟡 medium
+A dark, thin bottle with acidic umami flavour. Many Mexican versions can contain wheat or soy sauce. Buy only if marked **gluten free**. If unavailable, omit it and call Kaz; never substitute ordinary soy sauce.
+<img src="https://www.chowhound.com/img/gallery/6-store-bought-worcestershire-sauce-brands-ranked/1-lea-perrins-worcestershire-sauce-1763837683.jpg" align="right" width="100" alt="Worcestershire sauce"><br clear="right">
 
-**GF Worcestershire sauce — 🟡 medium**  
-It brings depth to the pork, but many bottles contain wheat. Find a bottle marked “gluten free/sin gluten”; if unavailable, omit it and use 1 extra teaspoon vinegar and pepper. Do not substitute ordinary soy sauce.
+### Diamond Crystal kosher salt — 🟡 medium
+The crystals are large and light; one teaspoon does not weigh the same as fine salt. If only Morton kosher or table salt is available, use the **grams** where given and begin with less. Do not pack the spoon.
 
-**Molasses — 🟡 medium**  
-This is a thick dark syrup, tasting like toasted piloncillo; only a little goes into the Kansas City sauce. Look for “melaza/molasses” at Walmart/Chedraui Selecto. Substitute concentrated piloncillo syrup in the same quantity if needed.
+### Recommended Playa del Carmen route
+1. **Chedraui Selecto, Plaza Las Américas:** collards, meats, dairy, molasses, and GF products.
+2. **Walmart, 30 Av. y Calle 8:** GF cornmeal, GF ketchup, GF Worcestershire, jars and sauce cups.
+3. **Chedraui, Av. Juárez:** complete meat, potatoes, onions, and dairy if needed.
+4. **Mega Soriana, 30 Av. y Constituyentes:** second option for ribs, shoulder, and seasonings.
+5. **DAC Market, 30 Av. entre Calle 14 y 14 Bis:** collards/greens and difficult spices.
+6. **Amazon Mexico:** only if certified cornmeal or Worcestershire cannot be found.
 
-### Recommended route
-1. **Chedraui Selecto, Plaza Las Américas:** meat, hocks, dairy, GF condiments, molasses.
-2. **Walmart, 30 Av. y Calle 8:** GF cornmeal, ketchup, jars/sauce cups, remaining seasonings.
-3. **DAC Market, 30 Av. entre Calle 14 y 14 Bis:** leafy greens, bulk spices, and substitutes.
-4. If certified cornmeal or GF Worcestershire fails: Amazon Mexico. Do not buy unlabelled ingredients just to “try.”
+### Gluten-free and salt watch points
+- Read every ketchup, mustard, Worcestershire, hot sauce, baking powder, cornmeal, and chilli-blend label.
+- Clean the brush, board, and blender before sauce work; no ordinary bread crumbs.
+- Do not buy prepared BBQ rub, bouillon, or salted butter.
+- Both sauces are measured: 15ml each, not free-poured.
 
-### GF and salt watch points
-- Check every stock, ketchup, mustard, Worcestershire, hot sauce, and baking-powder label. Keep tools clean, especially the sauce brush.
-- Buy **unsalted or low-sodium** stock and unsalted butter. The hock already contributes considerable salt.
-- Do not buy a prepared BBQ rub. The recipe spice mix has only a little salt; sauces are served separately.
+## Part 2 — Verified cooking tips
 
-## Part 2 — Cooking tips with sources
+### 1. Pork: tender before chopping
+Taste of Home directs covered Dutch-oven cooking at 150°C for 3–4 hours, until tender. Reserving only part of the liquid and removing its fat prevents watery pork. Shred first, then chop coarsely for the texture Kaz liked.
+Source: [Taste of Home — Carolina Pulled Pork](https://www.tasteofhome.com/recipes/carolina-style-pork-barbecue/).
 
-### 1. How to know the pork is ready
-Taste of Home directs the shoulder to cook covered at 150°C until it can be shredded; Hey Grill Hey confirms shoulder becomes shreddable around 93°C/200°F after slow cooking. Do not stop only because it has colour: a fork must enter without resistance. Rest, then shred/chop so it retains juices.  
-Sources: [Taste of Home](https://www.tasteofhome.com/recipes/carolina-style-pork-barbecue/); [Hey Grill Hey](https://heygrillhey.com/carolina-style-pulled-pork/).
+### 2. Ribs: remove membrane and reserve clean rub
+Barefeet in the Kitchen explains lifting a membrane corner with a knife and pulling it with paper towel. Separate the final one-third rub at the beginning: never put hands that touched raw pork into reserved rub.
+Source: [Barefeet in the Kitchen — Memphis Dry Ribs](https://barefeetinthekitchen.com/memphis-style-dry-ribs-recipe/).
 
-### 2. Remove the rib membrane
-McCormick directs the cook to remove the membrane from the bone side. Slide a knife beneath one corner, grip it with paper towel, and pull slowly. Leaving it on makes ribs chewy and blocks seasoning from reaching the meat.  
-Source: [McCormick](https://www.mccormick.com/blogs/recipes/carolina-bbq-ribs).
+### 3. Chicken: split cleanly and do not crowd
+RecipeTin Eats warns that an overcrowded dish leaves watery sauce. Mix the full sauce, divide it 1:3 **before raw chicken contact**, cook 0.5kg Wednesday and 1.5kg Friday. Freeze Friday’s raw chicken Tuesday and thaw it in the refrigerator from Thursday morning; keep its clean sauce refrigerated. Skin-side down 20 minutes, turn, 30 minutes more, then broil 2–3 minutes. Sugar burns quickly.
+Source: [RecipeTin Eats — Oven BBQ Chicken](https://www.recipetineats.com/oven-baked-bbq-chicken/).
 
-### 3. Sauce at the end, not from the start
-RecipeTin Eats cooks chicken first in diluted sauce and broils only 2–3 minutes at the end. The sugars in ketchup, honey, and molasses burn quickly: the broiler is only for gloss, and must be watched continuously.  
-Source: [RecipeTin Eats](https://www.recipetineats.com/oven-baked-bbq-chicken/).
+### 4. Collards: batches and two pots
+Bon Appétit adds leaves in batches, waiting for each handful to collapse before adding more. After adding water, partially cover: they should finish tender with little liquid. Vinegar and sugar go in at the end.
+Source: [Bon Appétit — Collard Greens](https://www.bonappetit.com/recipe/sweet-and-tangy-collard-greens).
 
-### 4. Handling a mountain of greens
-Serious Eats first tenderises the hock in stock, then adds greens in batches. Do not fill the pot to the top at once: add leaves, cover 1–2 minutes, and add more once they collapse. Vinegar goes in at the end so it stays bright and can be adjusted per plate.  
-Source: [Serious Eats](https://www.seriouseats.com/collard-greens-ham-hocks-recipe).
+### 5. Cornbread: mix lightly
+What Great Grandma Ate mixes dry and wet ingredients separately and combines only until incorporated. Overmixing toughens the bread. The tester should emerge clean at 35–40 minutes; cool before cutting 16.
+Source: [What Great Grandma Ate — GF Cornbread](https://whatgreatgrandmaate.com/gluten-free-cornbread-no-flour/).
 
-### 5. Smooth, not gluey, mashed potatoes
-Serious Eats recommends fully cooked potatoes, butter first, warm dairy second, and gentle mixing. Never use a blender/processor: it breaks the starch too much and makes gluey mash.  
-Source: [Serious Eats](https://www.seriouseats.com/ultra-fluffy-mashed-potatoes-recipe).
+### 6. Mash: warm dairy and no blender
+Simply Recipes warms cream and butter before adding them. RecipeTin Eats explains that a blender/processor releases too much starch and makes gluey mash. Mash by hand and season at the end.
+Sources: [Simply Recipes](https://www.simplyrecipes.com/recipes/perfect_mashed_potatoes/); [RecipeTin Eats](https://www.recipetineats.com/mashed-potato/).
 
-### Quick checklist before starting
-- [ ] GF labels checked; stock and butter are unsalted.
-- [ ] Two large pots ready for the greens.
-- [ ] Rib membrane removed.
-- [ ] Thermometer: chicken 74°C; pork tender and about 93°C.
-- [ ] Sauces in cups, not poured over all meat.
-- [ ] Cool, cover, refrigerate/freeze promptly.
+### 7. Sauces: one cold, one cooked
+Carolina sauce is simply shaken until dissolved. Kansas City sauce needs onion/garlic sautéing and a 30-minute gentle simmer; stir often because sugar and ketchup stick. Cool before covering.
+Sources: [Serious Eats — Carolina](https://www.seriouseats.com/eastern-north-carolina-barbecue-sauce); [Serious Eats — Kansas City](https://www.seriouseats.com/sauced-kansas-city-style-barbecue-sauce-recipe).
+
+### Quick checklist
+- [ ] GF labels checked and utensils clean.
+- [ ] Two large pots and two baking dishes ready.
+- [ ] Final rib rub separated before touching meat.
+- [ ] Pork tender; chicken at least 74°C.
+- [ ] Collards divided into 25 and sauces into 17 pairs.
+- [ ] Freezer labels show exact thaw night.

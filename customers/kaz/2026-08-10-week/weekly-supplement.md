@@ -7,6 +7,9 @@
 <br>
 <a href="https://downshiftology.com/recipes/vinegar-coleslaw-no-mayo/"><img src="https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2019/05/Vinegar-Coleslaw-No-Mayo-2.jpg" width="350" alt="Vinegar slaw"></a>
 <a href="https://www.stetted.com/southern-green-beans/"><img src="https://www.stetted.com/wp-content/uploads/2023/07/Southern-Green-Beans-Photo.jpg" width="350" alt="Southern green beans"></a>
+<br>
+<a href="https://showmetheyummy.com/cornbread-recipe/"><img src="https://static.vecteezy.com/system/resources/thumbnails/072/347/047/small/golden-cornbread-in-cast-iron-skillet-on-rustic-wooden-table-free-photo.jpeg" width="280" alt="Cornbread"></a>
+<a href="https://www.tasteofhome.com/recipes/low-fat-tartar-sauce/"><img src="https://www.tasteofhome.com/wp-content/uploads/2018/01/exps9135_QC10004C48.jpg" width="280" alt="Tartar sauce"></a>
 
 ## Special shopping items
 
@@ -23,6 +26,7 @@ Fine flour made from cassava root. Look at Walmart/Chedraui Selecto or Amazon Me
 
 ### Meat mallet — 🟢 easy
 A heavy tool with a flat side and a ridged side. Ask for “mazo para carne” at Walmart, Chedraui, or a hardware store. For CFS use the **flat side** over plastic; never strike directly on the counter.
+<img src="https://m.media-amazon.com/images/I/51dLnom24UL.jpg" align="right" width="100" alt="Dual-sided meat mallet"><br clear="right">
 
 ### Buttermilk — 🟡 medium
 Thick, fermented, slightly sour milk for the cornbread. Buy “buttermilk” if available. The source permits: milk filled to one cup plus 1 Tbsp vinegar or lemon; rest 10 minutes. For 2 cups, double that.
@@ -31,9 +35,10 @@ Thick, fermented, slightly sour milk for the cornbread. Buy “buttermilk” if 
 
 1. **Chedraui Selecto, Plaza Las Américas:** fish, meat, GF products, buttermilk/yogurt.
 2. **Walmart, 30 Av. y Calle 8:** cornmeal, cassava flour, mallet, canned corn, seasonings.
-3. **Mega Soriana, 30 Av. y Constituyentes:** ribs, bacon, green beans, alternative fish.
-4. **DAC Market, 30 Av. entre Calle 14 y 14 Bis:** fish and produce if needed.
-5. **Amazon Mexico:** only for difficult GF products.
+3. **Chedraui, Av. Juárez:** backup for fish, meat, dairy, canned corn, and fat-free mayonnaise.
+4. **Mega Soriana, 30 Av. y Constituyentes:** ribs, bacon, green beans, alternative fish.
+5. **DAC Market, 30 Av. entre Calle 14 y 14 Bis:** fish and produce if needed.
+6. **Amazon Mexico:** only for difficult GF products.
 
 ## Verified cooking tips
 
@@ -46,7 +51,7 @@ Bowl of Delicious recommends drying the fish, using an oiled bare baking sheet, 
 Source: https://www.bowlofdelicious.com/four-ingredient-southern-style-oven-fried-catfish/
 
 ### Chicken-fried steak and the mallet
-Feast and Farm explains that cube steak is already tenderized; round steak needs a mallet. Dry the meat, season the flour, rest the breading 5–7 minutes, and fry around 370°F. The author warns this dish should not be made ahead.  
+Feast and Farm explains that cube steak is already tenderized; round steak needs a mallet. Dry the meat, season the flour, rest the breading 5–7 minutes, and fry around 370°F. Use about **720ml frying fat in an 8-inch skillet** to preserve the source’s 1-inch depth; frying fat is not scaled by serving count. The author warns this dish should not be made ahead.
 Source: https://feastandfarm.com/healthier-chicken-fried-steak/
 
 ### Green beans
@@ -56,6 +61,14 @@ Source: https://www.stetted.com/southern-green-beans/
 ### Slaw
 Downshiftology recommends adding only half the dressing initially and keeping slaw chilled for 3–5 days. Do not freeze: it loses its crunch.  
 Source: https://downshiftology.com/recipes/vinegar-coleslaw-no-mayo/
+
+### Cornbread
+Use the exact Show Me the Yummy formula approved in July. For two pans, double every ingredient—including exactly two cans each of creamed and whole-kernel corn—and cut each pan into 16 small pieces only after cooling.
+Source: https://showmetheyummy.com/cornbread-recipe/
+
+### Tartar sauce
+Make one full source batch Tuesday and another full fresh batch Friday. Keep the two batches dated and refrigerated; pack 2 Tbsp separately with fish.
+Source: https://www.tasteofhome.com/recipes/low-fat-tartar-sauce/
 
 ### Quick checklist
 - [ ] GF labels checked.

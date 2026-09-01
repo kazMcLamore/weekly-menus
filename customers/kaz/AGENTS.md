@@ -18,7 +18,12 @@
   - Target ~600–700 kcal per meal, 2 meals/day (lunch + dinner) — confirmed with customer Jul 2026
 - **Taste preferences:** Saucy, flavorful, well-seasoned foods. Bold flavours. Dislikes dry/bland food.
 - **Southern BBQ feedback (Aug 2026):** Chopped barbecue was a favorite. Use a lighter hand with salt in Southern BBQ dishes; avoid overly sweet/salty baked beans. Make collard-green batches substantially larger because greens cook down more than desired. Homemade barbecue sauces are especially welcome with ribs and chopped pork.
-- **Southern recipe feedback (Aug 2026):** Do not repeat the RecipeTin Eats oven BBQ chicken from the 2026-08-03 batch; Kaz did not enjoy it. For cornbread, use the **Show Me the Yummy “Cornbread with Corn Kernels” recipe from 2026-07-20** (`https://showmetheyummy.com/cornbread-recipe/`), not the flourless What Great Grandma Ate version used on 2026-08-03.
+- **Southern recipe feedback (Aug 2026):** Do not repeat the RecipeTin Eats oven BBQ chicken from the 2026-08-03 batch; Kaz did not enjoy it. For cornbread, use the **Show Me the Yummy "Cornbread with Corn Kernels" recipe from 2026-07-20** (`https://showmetheyummy.com/cornbread-recipe/`), not the flourless What Great Grandma Ate version used on 2026-08-03.
+- **Recipe approvals (Sept 2026):**
+  - **Shepherd's Pie v2 is the approved version** going forward: Favorite Family Recipes base (https://www.favfamilyrecipes.com/easy-shepherds-pie/) with Kaz-requested changes — green beans + peas folded into the filling, ~33% more meat, a thinner mashed-potato layer, garlic/thyme/rosemary seasoning, GF cornstarch thickener, cheddar top. Reuse v2 whenever shepherd's pie repeats; do not revert to the plain BBC Good Food version.
+  - **Chopped barbecue** (Once Upon a Chef oven pork butt + KC-style sauce) — approved; homemade sauces preferred; salt-light rubs.
+  - **Smoky borracho beans (GF, no beer)** and **braised Southern cabbage** approved as new vegetable sides (Sept 2026); collards remain approved-but-not-requested.
+  - Fish + arroz rojo, BBQ + cornbread, shepherd's pie stands alone — this plate pairing pattern was explicitly requested; confirm before assuming it for other weeks.
 - **Cuisine preferences:** Open to all cuisines that can be made GF. Leans toward Mexican, Latin American, Southeast Asian, Mediterranean, and Indian — anything with big flavour.
 
 ## Assistant Profile

@@ -24,10 +24,10 @@
 | Vie 18 sep | Camarones + calabacitas | Cacciatore + peperonata | Cacciatore + peperonata | Camarones + calabacitas |
 | Sáb 19 sep | Camarones + calabacitas | Boloñesa + peperonata | Boloñesa + peperonata | Camarones + calabacitas |
 | Dom 20 sep | — | — | — | — |
-| Lun 21 sep (congelado) | Cacciatore | Boloñesa | Boloñesa | Cacciatore |
-| Mar 22 sep (congelado) | Boloñesa | Cacciatore | Cacciatore | Boloñesa |
+| Lun 21 sep (congelado) | Cacciatore + pasta GF + calabacitas | Boloñesa + pasta GF + peperonata | Boloñesa + pasta GF + peperonata | Cacciatore + pasta GF + calabacitas |
+| Mar 22 sep (congelado) | Boloñesa + pasta GF + peperonata | Cacciatore + pasta GF + calabacitas | Cacciatore + pasta GF + calabacitas | Boloñesa + pasta GF + peperonata |
 
-**Total:** 6 platillos (3 carnes: res+cerdo, pollo, camarón — 2 acompañamientos, 1 pasta). 27 porciones (24 necesarias + 3 de reserva). Lunes y martes solo comen Boloñesa y Cacciatore congelados (el camarón NUNCA se congela).
+**Total:** 6 platillos (3 carnes: res+cerdo, pollo, camarón — 2 acompañamientos, 1 pasta). 27 porciones del lote nuevo (22 asignadas + 5 de reserva); las 2 porciones del almuerzo del miércoles vienen del lote anterior. Lunes y martes solo comen boloñesa y cacciatore congelados (el camarón NUNCA se congela).
 
 ---
 
@@ -40,7 +40,7 @@
 | **Jue 17 sep (ligero)** | Cocina 2 | Calabacitas trifolate (15 min). Empacar, limpiar, reabasto. | ~1.5 hr |
 | **Vie 18 sep (fresco + ruta)** | Cocina 3 | Camarones pomodoro (frescos — 30 min). **Ruta de congelado** al final. | ~1.5–2 hr |
 
-**¿Por qué dos guisados el miércoles?** El miércoles se come almuerzo y cena del lote nuevo, y el almuerzo y la cena deben llevar carnes distintas — entonces el miércoles rinde dos carnes frescas. El ragú se cocina solo (90 min de hervor desatendido) mientras el pollo se guisa (35 min tapado). La peperonata va en paralelo y la pasta cierra la sesión.
+**¿Por qué dos guisados el miércoles?** El almuerzo del miércoles usa el lote anterior mientras se cocina; la cena necesita dos carnes frescas distintas para el cliente y el asistente, y el jueves rota esas mismas carnes. El ragú se cocina solo (90 min de hervor desatendido) mientras el pollo se guisa (35 min tapado). La peperonata va en paralelo y la pasta cierra la sesión.
 
 ### Preparación compartida (ahorra 1–1.5 hr)
 - **Martes en la noche:** pica la zanahoria/apio/cebolla (sofrito), el tocino y todo el ajo; ralla el parmesano.
@@ -53,18 +53,18 @@ Al final del viernes divide cada platillo en porciones de refri (mié–sáb) y 
 
 | Platillo | Total | Refri (mié–sáb) | Congelador (lun–mar + reserva) |
 |---|---|---|---|
-| Boloñesa (salsa + pasta) | 11 | 7 | 4 |
-| Cacciatore | 10 | 7 | 3 |
-| Camarones pomodoro | 6 | 4 | 0 — NO congelar camarón |
-| Peperonata | 11 | 8 | 3 |
-| Calabacitas trifolate | 11 | 8 | 3 |
-| Pasta GF (porciones) | 26 | ~20 | ~6 |
+| Boloñesa (salsa + pasta) | 11 | 5 | 6 (4 lun–mar + 2 reserva) |
+| Cacciatore | 10 | 5 | 5 (4 lun–mar + 1 reserva) |
+| Camarones pomodoro | 6 | 6 (4 asignadas + 2 reserva de fin de semana) | 0 — NO congelar camarón |
+| Peperonata | 13 | 8 (incluye 1 reserva) | 5 (incluye 1 reserva) |
+| Calabacitas trifolate | 14 | 9 (incluye 2 reservas de camarones) | 5 (incluye 1 reserva de cacciatore) |
+| Pasta GF (porciones) | 27 | ~16 | ~11 |
 
 **Schedule de descongelado:**
-- **Domingo en la noche:** pasa las comidas del lunes del congelador a la refri.
-- **Lunes en la noche:** pasa las comidas del martes del congelador a la refri.
+- **Domingo en la noche:** pasa 2× cacciatore + calabacitas, 2× boloñesa + peperonata y 4× pasta del congelador a la refri.
+- **Lunes en la noche:** pasa 2× boloñesa + peperonata, 2× cacciatore + calabacitas y 4× pasta del congelador a la refri.
 
-⚠️ **Camarones:** el camarón cocido se pone hule al congelarse (misma advertencia de la semana pasada). Come los camarones vie/sáb frescos. **La salsa pomodoro SÍ se congela 3 meses** — haz doble y congela la mitad para otra semana. Si el patrón quiere camarón lunes/martes, se acepta la textura o se cambia por boloñesa/cacciatore extra.
+⚠️ **Camarones:** el camarón cocido se pone hule al congelarse (misma advertencia de la semana pasada). Come los camarones vie/sáb frescos. La salsa pomodoro se puede duplicar y congelar en una semana futura, pero **la lista de compras actual solo cubre la salsa de esta semana**.
 
 ⚠️ **Pasta GF congelada:** queda más suave al descongelar. Está bien (la salsa la remoja), pero si molesta la textura, cocina una olla chica fresca el lunes en la noche (10 min) y usa las porciones congeladas solo para la salsa.
 
@@ -75,7 +75,7 @@ Al final del viernes divide cada platillo en porciones de refri (mié–sáb) y 
 Rinde 11 porciones.
 
 **Ingredientes:**
-- 3 zanahorias grandes + 1 rama de apio + 1 cebolla amarilla grande, picados finos (sofrito)
+- 2 zanahorias grandes + 1 rama de apio + 1 cebolla amarilla grande, picados finos (sofrito)
 - 115 g de pancetta o tocino grueso, picado
 - 6 dientes de ajo
 - 2 cdas de aceite de oliva
@@ -106,34 +106,34 @@ Rinde 11 porciones.
 
 ## 🍗 PLATILLO 2: Pollo a la Cacciatore (Pollo del Cazador)
 
-Rinde 10 porciones (20 muslos).
+Rinde 10 porciones (1 muslo por porción).
 
 **Ingredientes:**
-- 20 muslos de pollo con hueso y piel (~4.5 kg), recortados de exceso de piel
-- 5 cditas de sal kosher (reducida), divididas
-- 1¼ cditas de pimienta negra
-- 1¼ tazas de **maicena** (para espolvorear — GF, nunca harina de trigo)
-- 5 cdas de aceite de oliva
-- 2½ cebollas amarillas grandes, en juliana
-- 15 dientes de ajo picados
-- 500 g (1 lb) de champiñones cremini/bela, en rebanadas
-- 5 pimientos morrones rojos, en tiras de 6 mm
-- 1¾ tazas + 2 cdas de vino tinto seco
-- 5 tazas de caldo de pollo GF
-- 2½ latas (14.5 oz c/u) de jitomate en cubos asado al fuego (o normal)
-- ⅝ taza de pasta de jitomate
-- 5 cdas de salvia fresca picada
-- 2½ cdas de romero fresco picado
-- 2½ cditas de orégano seco
-- 2½ cdas de miel
+- 10 muslos de pollo con hueso y piel (~2.25 kg), recortados de exceso de piel
+- 2½ cditas de sal kosher (reducida), divididas
+- ⅝ cdita de pimienta negra
+- 3 cdas de **maicena** (para espolvorear — GF, nunca harina de trigo)
+- 2½ cdas de aceite de oliva
+- 1¼ cebollas amarillas grandes, en juliana
+- 8 dientes de ajo picados
+- 285 g de champiñones cremini/bela, en rebanadas
+- 3 pimientos morrones rojos, en tiras de 6 mm
+- 1 taza de vino tinto seco
+- 2½ tazas de caldo de pollo GF
+- 1¼ latas (14.5 oz c/u) de jitomate en cubos asado al fuego (compra 2 latas; guarda el resto)
+- 5 cdas de pasta de jitomate
+- 2½ cdas de salvia fresca picada
+- 1¼ cdas de romero fresco picado
+- 1¼ cditas de orégano seco
+- 1¼ cdas de miel
 - Perejil fresco picado para decorar
 
 **Preparación:**
-1. Seca los muslos con papel; sazona con 3¾ cditas de sal + pimienta; espolvorea con maicena.
+1. Seca los muslos con papel; sazona con 2 cditas de sal + pimienta; espolvorea ligeramente con maicena.
 2. Calienta el aceite en una olla grande a fuego medio-alto; dora los muslos por tandas, piel abajo, 5–7 min hasta dorado crujiente; voltea 1–2 min más. Reserva. Deja ~2½ cdas de grasa en la olla.
 3. Baja el fuego; sofríe la cebolla 5 min; agrega el ajo 1 min (sin dorar). Agrega champiñones + pimientos; sube a fuego medio 5 min.
-4. Vierte el vino; hierve 5–6 min hasta que casi se evapore, rasparando el fondo.
-5. Agrega caldo, jitomate, pasta de jitomate, salvia, romero, orégano, miel + el resto de la sal. Hierve, baja y cocina destapado 10 min.
+4. Vierte el vino; hierve 5–6 min hasta que casi se evapore, raspando el fondo.
+5. Agrega caldo, jitomate, pasta de jitomate, salvia, romero, orégano, miel + ½ cdita de sal restante. Hierve, baja y cocina destapado 10 min.
 6. Devuelve el pollo con sus jugos; tapa y cocina a fuego medio-bajo **35 min** hasta que el pollo esté cocido (74°C interno).
 7. Saca el pollo, **quítale la piel** (queda blanda), deja reducir la salsa unos minutos, devuelve el pollo, baña con la salsa, decora con perejil.
 
@@ -143,50 +143,50 @@ Rinde 10 porciones (20 muslos).
 
 ## 🍤 PLATILLO 3: Pasta Pomodoro con Camarones
 
-Rinde 6 porciones.
+Rinde 6 porciones grandes.
 
 **Ingredientes:**
-- 680 g (1.5 lb) de camarones grandes, pelados y desvenados
-- 3 cdas + 1½ cditas de aceite de oliva (divididas)
-- 9–12 jitomates maduros grandes, picados (o 3 tazas de cherry, partidos a la mitad)
-- 6–7 dientes de ajo picados
+- 1 kg (2.25 lb) de camarones grandes, pelados y desvenados
+- 5 cdas + 1 cdita de aceite de oliva (divididas)
+- 9–11 jitomates maduros grandes, picados (o 4½ tazas de cherry, partidos a la mitad)
+- 7 dientes de ajo picados
 - 4½ cdas de albahaca fresca picada + más para decorar
 - ½ cdita de hojuelas de chile seco (opcional, picante)
 - Pasta GF (ver abajo)
-- 1 taza de parmesano rallado fresco (ralla del bloque — el rallado de bolsa lleva celulosa)
+- 1⅛ tazas (~100 g) de parmesano rallado fresco
 - Sal y pimienta
 - Un chorrito del agua de cocer la pasta
 
 **Preparación:**
 1. Hierve agua para la pasta.
-2. En un sartén grande a fuego medio, calienta 1.5 cdas de aceite; cocina los camarones 1–2 min por lado hasta rosados. Sácalos y reserva. **NO limpies el sartén** — los doraditos le dan sabor a la salsa.
-3. En el mismo sartén a fuego medio-bajo, agrega 1.5 cdas de aceite + jitomates + sal/pimienta; cocina 5 min; agrega el ajo; 2–3 min más hasta suave y fragante.
-4. Devuelve los camarones al sartén con la albahaca + un chorrito de aceite; mezcla. Hojuelas de chile al gusto.
+2. En un sartén grande a fuego medio, calienta 2 cdas de aceite; cocina los camarones 1–2 min por lado hasta rosados. Sácalos y reserva. **NO limpies el sartén** — los doraditos le dan sabor a la salsa.
+3. En el mismo sartén a fuego medio-bajo, agrega 2 cdas de aceite + jitomates + sal/pimienta; cocina 5 min; agrega el ajo; 2–3 min más hasta suave y fragante.
+4. Devuelve los camarones al sartén con la albahaca + el aceite restante según haga falta; mezcla. Hojuelas de chile al gusto.
 5. Escurre la pasta (reserva ½ taza del agua de cocción); mézclala en el sartén con todo; afloja con el agua de cocción si hace falta.
 6. Sirve con parmesano + albahaca.
 
-**Almacenamiento:** Refri 4–5 días. **La salsa sola se congela 3 meses** (haz doble y congela la mitad). El camarón cocido NO se congela. Come los camarones vie/sáb frescos.
+**Almacenamiento:** Refri 4–5 días. La salsa sola se congela 3 meses si se prepara una cantidad doble en una semana futura; esta lista cubre una sola tanda. El camarón cocido NO se congela. Come los camarones vie/sáb frescos.
 
 ---
 
 ## 🥬 PLATILLO 4: Peperonata (Pimientos Guisados Italianos)
 
-Rinde ~11 porciones (acompañamiento).
+Rinde ~14 porciones (acompañamiento).
 
 **Ingredientes:**
-- 7 cdas de aceite de oliva extra virgen
-- 1¾ cebollas amarillas, en juliana
-- 1 bulbo de hinojo en juliana (opcional — se puede omitir)
-- 1.6 kg de pimientos morrones dulces maduros (rojos o mezcla rojo/amarillo/naranja — NO verdes, amargan), en juliana
-- 3–4 dientes de ajo, machacados ligeros
+- 9 cdas de aceite de oliva extra virgen
+- 2 cebollas amarillas, en juliana
+- 1½–2 bulbos de hinojo en juliana (opcional — se puede omitir)
+- 2 kg de pimientos morrones dulces maduros (rojos o mezcla rojo/amarillo/naranja — NO verdes, amargan), en juliana
+- 4–5 dientes de ajo, machacados ligeros
 - Sal kosher
-- 1¾ tazas de puré/pasa de jitomate
-- 1¾ cdas de alcaparras, enjuagadas y secas
-- 3½ cdas de vinagre balsámico (o balsámico blanco)
-- ⅜ taza de albahaca + menta fresca, desgarradas
+- 2¼ tazas de puré/passata de jitomate
+- 2¼ cdas de alcaparras, enjuagadas y secas
+- 4½ cdas de vinagre balsámico (o balsámico blanco)
+- ½ taza de albahaca + menta fresca, desgarradas
 
 **Preparación:**
-1. En un sartén grande FRÍO: el aceite + cebolla + hinojo + pimientos + ajo. Enciende a fuego medio; sofríe 10 min moviendo. Sazona con ~1¾ cditas de sal, tapa parcialmente, cocina 10–15 min más hasta suaves (que queden con un poco de mordida).
+1. En un sartén grande FRÍO: el aceite + cebolla + hinojo + pimientos + ajo. Enciende a fuego medio; sofríe 10 min moviendo. Sazona con ~2 cditas de sal, tapa parcialmente, cocina 10–15 min más hasta suaves (que queden con un poco de mordida).
 2. Agrega el puré de jitomate + alcaparras; cocina destapado ~10 min hasta que la salsa reduzca y todo quede brillante.
 3. Sube a fuego medio-alto, agrega el balsámico, hierve 1 min; baja y cocina 2–3 min más. Fuera del fuego: albahaca + menta. Deja reposar 10 min; saca los ajos; termina con un chorrito de aceite.
 
@@ -196,13 +196,13 @@ Rinde ~11 porciones (acompañamiento).
 
 ## 🥒 PLATILLO 5: Calabacitas Trifolate (Zucchine Trifolate)
 
-Rinde ~11 porciones (acompañamiento).
+Rinde ~13 porciones (acompañamiento).
 
 **Ingredientes:**
-- 2.75 kg de calabacitas (~6 grandes), en cuartos a lo largo y luego en medias lunas gruesas (quita las semillas si están muy acuosas — resérvalas para sopa)
-- 7 cdas de aceite de oliva extra virgen
-- 1 cebolla grande picada fina
-- 6 dientes de ajo, en láminas o picados
+- 3.5 kg de calabacitas (~13–15 medianas o 7–8 muy grandes), en cuartos a lo largo y luego en medias lunas gruesas (quita las semillas si están muy acuosas — resérvalas para sopa)
+- 9 cdas de aceite de oliva extra virgen
+- 1–2 cebollas grandes picadas finas
+- 8–9 dientes de ajo, en láminas o picados
 - 1 manojo de perejil fresco picado (o albahaca)
 - Sal y pimienta
 
@@ -217,10 +217,10 @@ Rinde ~11 porciones (acompañamiento).
 
 ## 🍝 Pasta sin gluten (carbohidrato de la semana)
 
-Rinde ~26 porciones.
+Rinde 27 porciones.
 
 **Ingredientes:**
-- 3 cajas (500 g c/u) de **Barilla sin gluten** (spaghetti o penne) — etiqueta GF
+- **Al menos 1.7 kg de pasta GF seca** (por ejemplo, 5 cajas Barilla de 340 g o 4 cajas de 454 g; revisa el peso de cada paquete y la etiqueta GF)
 - Sal para el agua (1 cda por olla)
 
 **Preparación:**
@@ -239,9 +239,9 @@ Rinde ~26 porciones.
 | Boloñesa (salsa) | 11 | ~250 g salsa + 150 g pasta GF | Vidrio 800 ml |
 | Cacciatore | 10 | 1 muslo + salsa + 150 g pasta GF | Vidrio 800 ml |
 | Camarones pomodoro | 6 | ~170 g camarón + salsa + 150 g pasta | Vidrio 800 ml |
-| Peperonata | 11 | ~150 g | Vidrio 400 ml (aparte) |
-| Calabacitas trifolate | 11 | ~160 g | Vidrio 400 ml (aparte) |
-| Pasta GF (extra) | ~4 | 150 g | Vidrio 400 ml |
+| Peperonata | 13 | ~150 g | Vidrio 400 ml (aparte) |
+| Calabacitas trifolate | 14 | ~160 g | Vidrio 400 ml (aparte) |
+| Pasta GF | 27 | ~150 g cocida por porción de carne | Empacada con su salsa/carne |
 
 **Enfoque:** salsa + pasta juntos en el envase grande (la pasta absorbe la salsa). El muslo va encima de su pasta. Acompañamientos en envases chicos aparte.
 
@@ -250,24 +250,24 @@ Rinde ~26 porciones.
 - **Jue 17:** C: Cacciatore + calabacitas / Boloñesa + peperonata | A: intercambia
 - **Vie 18:** C: Camarones + calabacitas / Cacciatore + peperonata | A: intercambia
 - **Sáb 19:** C: Camarones + calabacitas / Boloñesa + peperonata | A: intercambia
-- **Lun 21 (congelado):** C: Cacciatore / Boloñesa | A: intercambia
-- **Mar 22 (congelado):** C: Boloñesa / Cacciatore | A: intercambia
+- **Lun 21 (congelado):** C: Cacciatore + calabacitas / Boloñesa + peperonata | A: intercambia
+- **Mar 22 (congelado):** C: Boloñesa + peperonata / Cacciatore + calabacitas | A: intercambia
 
 ---
 
 ## 🛒 LISTA DE COMPRAS
 
 ### Frutas y Verduras
-- [ ] Zanahoria — 3 medianas
+- [ ] Zanahoria — 2 grandes
 - [ ] Apio — 1–2 ramas
-- [ ] Cebolla amarilla — 4 grandes
-- [ ] Ajo — 2 cabezas (~20 dientes)
-- [ ] Pimiento morrón rojo — 1.3 kg (~5–6)
+- [ ] Cebolla amarilla — 6 grandes
+- [ ] Ajo — 5 cabezas (~36 dientes)
+- [ ] Pimientos morrones dulces — ~2.5 kg (~14–16 medianos; 3 para cacciatore + ~2 kg para peperonata)
 - [ ] Hinojo — 1 bulbo (opcional)
-- [ ] Champiñones cremini — 230 g
-- [ ] Calabacitas — 2.75 kg (~6 grandes)
-- [ ] Jitomates maduros grandes — 6–8 (+ cherry opcional)
-- [ ] Albahaca fresca — 1 manojo grande
+- [ ] Champiñones cremini — 300 g
+- [ ] Calabacitas — 3.5 kg (~13–15 medianas o 7–8 muy grandes)
+- [ ] Jitomates maduros grandes — 10–12 (o ~4½ tazas de cherry)
+- [ ] Albahaca fresca — 2 manojos
 - [ ] Menta fresca — 1 manojo chico (opcional)
 - [ ] Perejil fresco — 1 manojo
 - [ ] Romero fresco — 1 manojo
@@ -278,14 +278,15 @@ Rinde ~26 porciones.
 - [ ] Carne molida de res — 500 g
 - [ ] Carne molida de cerdo — 500 g
 - [ ] Pancetta o tocino grueso — 120 g
-- [ ] Muslos de pollo con hueso y piel — 20 muslos (~4.5 kg)
-- [ ] Camarones grandes pelados y desvenados — 700 g (1.5 lb)
+- [ ] Muslos de pollo con hueso y piel — 10 muslos (~2.25 kg)
+- [ ] Camarones grandes pelados y desvenados — 1 kg (2.25 lb)
 
 ### Abarrotes
-- [ ] **Pasta Barilla SIN GLUTEN (spaghetti o penne) — 3 cajas de 500 g** ⚠️ verifica en la tienda; si no hay, polenta al horno con la harina de maíz de la despensa
+- [ ] **Pasta GF — al menos 1.7 kg total** (normalmente 5 cajas Barilla de 340 g o 4 cajas de 454 g; verifica peso y etiqueta GF; si no hay, polenta al horno)
 - [ ] Jitomate en puré/crush en lata — 1 lata (28 oz)
-- [ ] Jitomate en cubos asado en lata — 1 lata (14.5 oz)
-- [ ] Pasta de jitomate — 2 latas (6 oz c/u; necesitas ~10 oz total)
+- [ ] Jitomate en cubos asado en lata — 2 latas (14.5 oz c/u; usarás ~1¼)
+- [ ] Pasta de jitomate — ~250 g total
+- [ ] Puré/passata de jitomate — ~550 ml (peperonata)
 - [ ] Vino tinto seco — 1 botella (el que se bebe; no "vino para cocinar")
 - [ ] Caldo de pollo GF — ~1.25 L
 - [ ] Crema para batir — chico (½ taza)
@@ -293,17 +294,17 @@ Rinde ~26 porciones.
 - [ ] Alcaparras — 1 frasco chico
 - [ ] Vinagre balsámico — 1 botella
 - [ ] Miel — tienes
-- [ ] Aceite de oliva — tienes
-- [ ] Maicena — tienes (para el pollo)
+- [ ] Aceite de oliva — asegúrate de tener al menos 500 ml
+- [ ] Maicena — tienes (necesitas 3 cdas para el pollo)
 - [ ] Sal, pimienta, hojuelas de chile — tienes
 
 ---
 
 ## ⚠️ NOTAS DE COCCIÓN (para el asistente)
 
-- **Todo GF esta semana.** La pasta es Barilla sin gluten (verifica la etiqueta). El pollo se espolvorea con **maicena**, nunca harina de trigo. El parmesano se ralla del bloque (el de bolsa lleva celulosa).
+- **Todo GF esta semana.** Verifica que la pasta diga "sin gluten". El pollo se espolvorea con **maicena**, nunca harina de trigo. El parmesano en bloque se recomienda por sabor y porque se derrite mejor; la celulosa del parmesano rallado es GF, pero siempre revisa la lista completa de ingredientes.
 - **El pollo a la cacciatore:** la receta original trae harina de trigo para espolvorear — **usa maicena y solo un poco** (¼ de la cantidad; se dora más rápido).
-- **Camarones:** 1–2 min por lado, apenas rosados — se ponen hule si se sobre-cocinan. NO limpies el sartén después de los camarones (los doraditos dan sabor a la salsa). La salsa pomodoro sí se puede hacer con anticipación (se congela 3 meses).
+- **Camarones:** 1–2 min por lado, apenas rosados — se ponen hule si se sobre-cocinan. NO limpies el sartén después de los camarones (los doraditos dan sabor a la salsa). La salsa pomodoro se puede congelar si se hace una tanda doble en el futuro; esta semana solo se compra una tanda.
 - **Pasta GF:** cocina 1–2 min menos que la instrucción de la caja para el lote (se termina al recalentar). Guarda agua de cocción.
 - **El ragú es el platillo más lento** (90 min de hervor) pero va solo — no requiere atención constante. Aprovecha para el pollo y la peperonata en paralelo.
 - **Orden para comer:** camarones primero (vie/sáb frescos; NUNCA congelar camarón cocido). Boloñesa y cacciatore congelan bien (hasta 3 meses). La peperonata mejora al día 2–3.

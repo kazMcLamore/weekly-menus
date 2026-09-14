@@ -24,7 +24,7 @@
 </tr>
 <tr>
 <td><img src="https://www.themediterraneandish.com/wp-content/uploads/2024/09/Peperonata-Cropped-5.jpg" width="280" alt="Peperonata"></td>
-<td><img src="https://images.food52.com/N3XmF29HYFhreXMBIh80KPNjpLY=/c41582dd-1243-4266-bfdf-88c7873f1f9c--DSC_0534v2.jpg?w=1200&q=75" width="280" alt="Calabacitas trifolate"></td>
+<td><img src="https://www.cucinabyelena.com/wp-content/uploads/2021/03/italian-zucchini-recipe-9-scaled.jpg" width="280" alt="Calabacitas trifolate"></td>
 <td><img src="https://www.grocery.com/store/image/cache/catalog/barilla/barilla-gluten-free-pasta-spaghetti-12-ounce-pack--1-500x500.jpg" width="280" alt="Pasta GF"></td>
 </tr>
 </table>
@@ -44,7 +44,7 @@
 <br clear="right">
 
 ### Pancetta (o su sustituto: tocino grueso)
-<img src="https://expatexplore.com/wp-content/uploads/2024/08/Lardo.jpg" align="right" width="100" alt="Carne de cerdo curada italiana">
+<img src="https://i.fbcd.co/products/resized/resized-750-500/8bb8106d15cd021255ffcbc93ff80db4f741394f9369e72e76ff9a98063c3bb5.jpg" align="right" width="100" alt="Pancetta en cubos">
 **¿Qué es?** panceta de cerdo curada italiana — básicamente tocino sin ahumar. Picada fina con ajo forma la "pestata" que arranca la boloñesa (la técnica viene de Lidia Bastianich — la pasta de tocino-ajo se derrite en la salsa mientras hierve).  
 **Dónde comprar:** 🟡 rara en los supermercados de Playa — la propia autora aprueba el cambio: **tocino grueso** (center-cut de preferencia). Barato y en todos lados.  
 **Punto GF:** el tocino natural es GF; evita versiones glaseadas con miel/maple.  
@@ -54,7 +54,7 @@
 <img src="https://m.media-amazon.com/images/I/71SjuZ6szRL.jpg" align="right" width="100" alt="Queso parmesano en cuña">
 **¿Qué es?** queso italiano duro y añejo — se ralla fresco sobre la boloñesa y el pomodoro, y la costra (rind, si trae) se cuece dentro del ragú para dar más sabor.  
 **Dónde comprar:** 🟢 Walmart/Chedraui mostrador de quesos — compra una **pieza/cuña**, no rallado.  
-**Punto GF:** el parmesano rallado de bolsa suele llevar celulosa (anti-aglutinante) — el bloque rallado en casa es lo seguro y se derrite mejor (tip de la fuente).  
+**Punto GF:** la celulosa en sí es libre de gluten. Se recomienda el bloque rallado en casa porque se derrite mejor y sabe mejor; si compras pre-rallado, revisa la lista completa de ingredientes y alérgenos.
 **La costra se congela:** aguanta en el congelador y va directo a las salsas.  
 <br clear="right">
 
@@ -83,14 +83,14 @@
 **Niveles:** 🟢 fácil · 🟡 medio — los **únicos 🟡** son la pasta GF (verifica existencia) y la pancetta (se cambia por tocino). Todo lo demás es estándar.
 
 ## Ruta de compra recomendada (martes)
-1. **Walmart** — pasta GF primero (3 cajas; verifica; si no hay → polenta con la harina de maíz de la despensa), res molida, cerdo molido, tocino, muslos de pollo, camarones, champiñones, pimientos, calabacitas, jitomates, todas las hierbas frescas, parmesano en bloque, alcaparras, balsámico, crema.
+1. **Walmart** — pasta GF primero (**al menos 1.7 kg total; verifica el peso y la etiqueta GF de cada paquete; si no hay → polenta**), res molida, cerdo molido, tocino, muslos de pollo, camarones, champiñones, pimientos, calabacitas, jitomates, todas las hierbas frescas, parmesano en bloque, alcaparras, balsámico, crema.
 2. Si Walmart no tiene pasta GF → **Chedraui Selecto** pasillo de importados.
 3. **Mega Soriana / pescadería** — camarones si se ven mejor ahí.
 
 ## Puntos de cuidado GF de esta semana
-1. **Pasta:** caja Barilla GF (etiqueta "gluten free") — la Barilla normal es TRIGO. Revisa las 3 cajas.
-2. **Espolvoreado del cacciatore:** maicena, nunca harina de trigo (¼ de la cantidad de la fuente).
-3. **Parquesano:** bloque rallado fresco (el pre-rallado lleva celulosa; revisa etiqueta si solo hay pre-rallado).
+1. **Pasta:** caja Barilla GF (etiqueta "gluten free") — la Barilla normal es TRIGO. Compra al menos 1.7 kg total; el tamaño del paquete varía.
+2. **Espolvoreado del cacciatore:** 3 cdas de maicena, nunca harina de trigo; usa solo una capa ligera.
+3. **Parmesano:** bloque rallado fresco por sabor y porque se derrite mejor. La celulosa es GF; si compras pre-rallado, revisa toda la lista de ingredientes.
 4. **Vino:** todo el vino es GF — pero evita botellas de "vino para cocinar" (salado y con aditivos; la autora lo dice también).
 5. **Consomé:** caldo de pollo con etiqueta GF para los dos guisados.
 6. **Tocino:** natural; sin glaseado de miel/maple.
@@ -106,10 +106,10 @@ Jess Larson (Plays Well With Butter, entrenó en un restaurante italiano de alta
 Jess otra vez: tapa parcialmente la olla (tapa entreabierta para que escape el vapor) y **hierve a fuego lento 90 minutos**, moviendo de vez en cuando, agregando caldo si se reduce demasiado. Al final, crema + parmesano. También confirma: la salsa mejora conforme reposa — refri 4–5 días, congelador 3 meses — y el hábito profesional es **hervir la pasta CON la salsa 1–2 minutos** en vez de echar salsa sobre fideos secos. (Fuente: https://playswellwithbutter.com/bolognese-sauce-recipe/)
 
 ### 3. Cacciatore: fondo → vino → guiso → quitar la piel
-Jennifer Segal (Once Upon a Chef): dora los muslos con maicena piel-abajo hasta dorar y crujiente; escurre todo menos 2½ cdas de grasa; después de que las verduras se suavicen, **hiere el vino hasta que casi se evapore** (5–6 min) para concentrarlo; guisa tapado 35 minutos hasta 74°C internos; luego **quítale la piel al pollo** (da sabor al dorarse pero se pone blanda en la salsa) y reduce la salsa unos minutos más. (Fuente: https://www.onceuponachef.com/recipes/chicken-cacciatore.html)
+Jennifer Segal (Once Upon a Chef): dora los muslos con maicena piel-abajo hasta dorar y crujiente; escurre todo menos unas 2 cdas de grasa; después de que las verduras se suavicen, **hierve el vino hasta que casi se evapore** (5–6 min) para concentrarlo; guisa tapado 35 minutos hasta 74°C internos; luego **quítale la piel al pollo** (da sabor al dorarse pero se pone blanda en la salsa) y reduce la salsa unos minutos más. (Fuente: https://www.onceuponachef.com/recipes/chicken-cacciatore.html)
 
 ### 4. Camarones: rosados, no grises — y nunca laves el sartén
-Kim (Kim's Cravings): saltea los camarones 1–2 min por lado hasta que apenas estén rosados, sácalos — **no limpies el sartén**, los doraditos le dan profundidad a la salsa de jitomate. Cocina los jitomates 5 min, el ajo 2–3 más, devuelve los camarones con albahaca al final y afloja con el agua de cocción de la pasta. Su advertencia de la semana pasada aplica igual: camarón sobre-cocido = hule. La **salsa pomodoro se congela sola 3 meses** — haz doble y guarda la mitad. (Fuente: https://www.kimscravings.com/pasta-pomodoro/)
+Kim (Kim's Cravings): saltea los camarones 1–2 min por lado hasta que apenas estén rosados, sácalos — **no limpies el sartén**, los doraditos le dan profundidad a la salsa de jitomate. Cocina los jitomates 5 min, el ajo 2–3 más, devuelve los camarones con albahaca al final y afloja con el agua de cocción de la pasta. Su advertencia de la semana pasada aplica igual: camarón sobre-cocido = hule. La salsa pomodoro se puede duplicar y congelar por 3 meses en una semana futura; esta lista cubre una sola tanda. (Fuente: https://www.kimscravings.com/pasta-pomodoro/)
 
 ### 5. La peperonata empieza en sartén FRÍO
 Domenica Marchetti (The Mediterranean Dish — autora de 8 libros de cocina italiana): pon el aceite + pimientos + cebollas + ajo en un **sartén frío** y luego enciende a fuego medio — el calentamiento lento saca la dulzura de los pimientos sin dorarlos amargos. Guisa suave ~30 minutos en total, termina con el balsámico fuera del hervor, y deja reposar 10 minutos. Aguanta 5 días en el refri y **mejora conforme reposa**. (Fuente: https://www.themediterraneandish.com/peperonata-recipe/)
@@ -122,7 +122,7 @@ La Cucina Italiana (autoridad de la cocina italiana desde 1929): saltea las cala
 ## ✅ Lista rápida de la semana
 
 **Martes (compra + preparación nocturna)**
-- [ ] Compra: Walmart — **pasta GF primero** (3 cajas, verifica etiqueta; polenta de respaldo), res + cerdo molidos, tocino, muslos, camarones, verduras, hierbas, parmesano en bloque, alcaparras, balsámico
+- [ ] Compra: Walmart — **pasta GF primero** (al menos 1.7 kg total; verifica peso + etiqueta GF; polenta de respaldo), res + cerdo molidos, tocino, muslos, camarones, verduras, hierbas, parmesano en bloque, alcaparras, balsámico
 - [ ] Noche: pulsa el sofrito; pica el tocino; pica todo el ajo; ralla el parmesano
 
 **Miércoles (pesado)**

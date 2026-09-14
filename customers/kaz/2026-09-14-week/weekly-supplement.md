@@ -26,7 +26,7 @@
 </tr>
 <tr>
 <td><img src="https://www.themediterraneandish.com/wp-content/uploads/2024/09/Peperonata-Cropped-5.jpg" width="280" alt="Peperonata"></td>
-<td><img src="https://images.food52.com/N3XmF29HYFhreXMBIh80KPNjpLY=/c41582dd-1243-4266-bfdf-88c7873f1f9c--DSC_0534v2.jpg?w=1200&q=75" width="280" alt="Zucchini trifolate"></td>
+<td><img src="https://www.cucinabyelena.com/wp-content/uploads/2021/03/italian-zucchini-recipe-9-scaled.jpg" width="280" alt="Zucchini trifolate"></td>
 <td><img src="https://www.grocery.com/store/image/cache/catalog/barilla/barilla-gluten-free-pasta-spaghetti-12-ounce-pack--1-500x500.jpg" width="280" alt="GF pasta"></td>
 </tr>
 </table>
@@ -46,7 +46,7 @@
 <br clear="right">
 
 ### Pancetta (or its substitute: thick-cut bacon)
-<img src="https://expatexplore.com/wp-content/uploads/2024/08/Lardo.jpg" align="right" width="100" alt="Italian cured pork">
+<img src="https://i.fbcd.co/products/resized/resized-750-500/8bb8106d15cd021255ffcbc93ff80db4f741394f9369e72e76ff9a98063c3bb5.jpg" align="right" width="100" alt="Diced pancetta">
 **What it is:** Italian cured pork belly — unsmoked bacon, essentially. Diced fine with garlic it makes the "pestata" that starts the bolognese (the author credits this to Lidia Bastianich — the pancetta-garlic paste melts into the sauce as it simmers).  
 **Where to buy:** 🟡 rarely stocked in Playa supermarkets — the source author herself approves the swap: **thick-cut bacon** (centre-cut if possible). Bacon is cheap and everywhere.  
 **GF note:** plain bacon is GF; avoid honey/maple-glazed versions.  
@@ -56,7 +56,7 @@
 <img src="https://m.media-amazon.com/images/I/71SjuZ6szRL.jpg" align="right" width="100" alt="Parmesan wedge">
 **What it is:** hard, aged Italian cheese — grated fresh over the bolognese and the pomodoro, and a rind (if the block comes with one) simmers in the bolognese for extra depth.  
 **Where to buy:** 🟢 Walmart/Chedraui cheese counter — buy a **wedge/block**, not pre-grated.  
-**GF note:** pre-grated parmesan often contains cellulose (anti-caking) — a block grated at home is the safe choice and melts better (source tip).  
+**GF note:** cellulose itself is gluten-free. A block grated at home is recommended for better melting and flavour; if buying pre-grated, check the complete ingredient/allergen label.
 **Freeze the rind:** the rind keeps in the freezer and goes into sauces (the bolognese source uses it).  
 <br clear="right">
 
@@ -85,14 +85,14 @@
 **Difficulty:** 🟢 fácil · 🟡 medio — the **only 🟡 items** are the GF pasta (verify availability) and the pancetta (bacon swap). Everything else is standard.
 
 ## Recommended shopping route (Tuesday)
-1. **Walmart** — GF pasta first (3 boxes; verify + fallback to polenta if out), ground beef, ground pork, bacon, chicken thighs, shrimp, mushrooms, bell peppers, zucchini, tomatoes, all fresh herbs, parmesan block, capers, balsamic, cream.
+1. **Walmart** — GF pasta first (**at least 1.7kg total; verify each package weight and GF label; fallback to polenta if out**), ground beef, ground pork, bacon, chicken thighs, shrimp, mushrooms, bell peppers, zucchini, tomatoes, all fresh herbs, parmesan block, capers, balsamic, cream.
 2. If Walmart is out of GF pasta → **Chedraui Selecto** import aisle.
 3. **Mega Soriana / pescadería** — shrimp if the counter looks better there.
 
 ## GF watch-points this week
-1. **Pasta:** Barilla GF box (label "gluten free") — regular Barilla is wheat. Check all 3 boxes.
-2. **Cacciatore dredge:** cornstarch (maicena), never wheat flour — ¼ the quantity of the source's flour.
-3. **Parmesan:** block + grate fresh (pre-grated has cellulose; label-check if pre-grated is all you find).
+1. **Pasta:** Barilla GF box (label "gluten free") — regular Barilla is wheat. Buy at least 1.7kg total; pack sizes vary.
+2. **Cacciatore dredge:** 3 tbsp cornstarch (maicena), never wheat flour — dust lightly.
+3. **Parmesan:** block + grate fresh for melting and flavour. Cellulose is GF; label-check the complete ingredients if buying pre-grated.
 4. **Wine:** all wine is GF — but avoid "cooking wine" bottles (salty, additive-laden — the source author says so too).
 5. **Bouillon:** GF-labelled chicken broth for both braises.
 6. **Bacon:** plain; skip honey/maple-glazed.
@@ -108,10 +108,10 @@ Jess Larson (Plays Well With Butter, trained in a fine-dining Italian kitchen): 
 Jess again: partially cover the pot (lid ajar so steam escapes) and **simmer 90 minutes**, stirring occasionally, adding broth if it reduces too far. Then finish with cream + parmesan. She also confirms: the sauce improves as it sits — fridge 4–5 days, freezer 3 months — and the professional habit is to **simmer the pasta *with* the sauce for 1–2 minutes** instead of plopping sauce on noodles. (Source: https://playswellwithbutter.com/bolognese-sauce-recipe/)
 
 ### 3. Cacciatore: fond → wine → braise → skin off
-Jennifer Segal (Once Upon a Chef): brown the cornstarch-dusted thighs skin-down until golden-crisp; pour off all but 2½ tbsp fat; after the vegetables soften, **boil the wine until mostly evaporated** (5–6 min) to concentrate it; braise covered 35 minutes to 74°C internal; then **discard the skin** (it adds flavour while browning but turns soggy in sauce) and reduce the sauce a final few minutes. (Source: https://www.onceuponachef.com/recipes/chicken-cacciatore.html)
+Jennifer Segal (Once Upon a Chef): brown the cornstarch-dusted thighs skin-down until golden-crisp; pour off all but about 2 tbsp fat; after the vegetables soften, **boil the wine until mostly evaporated** (5–6 min) to concentrate it; braise covered 35 minutes to 74°C internal; then **discard the skin** (it adds flavour while browning but turns soggy in sauce) and reduce the sauce a final few minutes. (Source: https://www.onceuponachef.com/recipes/chicken-cacciatore.html)
 
 ### 4. Shrimp: pink, not grey — and never wash the pan
-Kim (Kim's Cravings): sauté the shrimp 1–2 min per side until just pink, remove — **don't clean the pan**, the browned bits deepen the tomato sauce. Cook the tomatoes 5 minutes, add the garlic 2–3 more, return the shrimp with basil at the end, and loosen with reserved pasta water. Her warning from last week still applies: overcooked shrimp = rubber. The **pomodoro sauce freezes 3 months on its own** — double it and bank half. (Source: https://www.kimscravings.com/pasta-pomodoro/)
+Kim (Kim's Cravings): sauté the shrimp 1–2 min per side until just pink, remove — **don't clean the pan**, the browned bits deepen the tomato sauce. Cook the tomatoes 5 minutes, add the garlic 2–3 more, return the shrimp with basil at the end, and loosen with reserved pasta water. Her warning from last week still applies: overcooked shrimp = rubber. The pomodoro sauce can be doubled and frozen for 3 months in a future batch; this week's quantities cover one batch. (Source: https://www.kimscravings.com/pasta-pomodoro/)
 
 ### 5. Peperonata starts in a COLD pan
 Domenica Marchetti (The Mediterranean Dish — author of 8 Italian cookbooks): put the oil + peppers + onions + garlic in a **cold skillet**, then bring it up to medium heat — the slow warm-up coaxes out the peppers' sweetness without browning them bitter. Stew gently ~30 minutes total, finish with balsamic off the boil, and let it rest 10 minutes. It keeps 5 days and **improves as it sits**. (Source: https://www.themediterraneandish.com/peperonata-recipe/)
@@ -124,7 +124,7 @@ La Cucina Italiana (Italian cooking authority since 1929): sauté the zucchini o
 ## ✅ Quick-reference checklist for the week
 
 **Tuesday (shop + night prep)**
-- [ ] Shop: Walmart — **GF pasta first** (3 boxes, verify label; polenta fallback), beef + pork, bacon, thighs, shrimp, produce, herbs, parm block, capers, balsamic
+- [ ] Shop: Walmart — **GF pasta first** (at least 1.7kg total; verify package weights + GF labels; polenta fallback), beef + pork, bacon, thighs, shrimp, produce, herbs, parm block, capers, balsamic
 - [ ] Night: pulse the soffritto; dice the bacon; mince all garlic; grate the parmesan
 
 **Wednesday (heavy)**

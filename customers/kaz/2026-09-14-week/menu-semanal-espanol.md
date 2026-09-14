@@ -112,7 +112,7 @@ Rinde 10 porciones (1 muslo por porción).
 - 10 muslos de pollo con hueso y piel (~2.25 kg), recortados de exceso de piel
 - 2½ cditas de sal kosher (reducida), divididas
 - ⅝ cdita de pimienta negra
-- 3 cdas de **maicena** (para espolvorear — GF, nunca harina de trigo)
+- 2½ cdas de **maicena** (para espolvorear — GF, nunca harina de trigo)
 - 2½ cdas de aceite de oliva
 - 1¼ cebollas amarillas grandes, en juliana
 - 8 dientes de ajo picados
@@ -171,7 +171,7 @@ Rinde 6 porciones grandes.
 
 ## 🥬 PLATILLO 4: Peperonata (Pimientos Guisados Italianos)
 
-Rinde ~14 porciones (acompañamiento).
+Rinde ~13 porciones (acompañamiento).
 
 **Ingredientes:**
 - 9 cdas de aceite de oliva extra virgen
@@ -196,7 +196,7 @@ Rinde ~14 porciones (acompañamiento).
 
 ## 🥒 PLATILLO 5: Calabacitas Trifolate (Zucchine Trifolate)
 
-Rinde ~13 porciones (acompañamiento).
+Rinde ~14 porciones (acompañamiento).
 
 **Ingredientes:**
 - 3.5 kg de calabacitas (~13–15 medianas o 7–8 muy grandes), en cuartos a lo largo y luego en medias lunas gruesas (quita las semillas si están muy acuosas — resérvalas para sopa)
@@ -295,7 +295,7 @@ Rinde 27 porciones.
 - [ ] Vinagre balsámico — 1 botella
 - [ ] Miel — tienes
 - [ ] Aceite de oliva — asegúrate de tener al menos 500 ml
-- [ ] Maicena — tienes (necesitas 3 cdas para el pollo)
+- [ ] Maicena — tienes (necesitas ~2½ cdas para el pollo)
 - [ ] Sal, pimienta, hojuelas de chile — tienes
 
 ---

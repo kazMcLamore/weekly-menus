@@ -137,7 +137,7 @@ Batch sauce total ≈ ground beef 450g (800 kcal/85P/50F) + ground pork 450g (79
 #### Per-Portion Macro Breakdown (full plate)
 | Nutrient | Amount |
 |----------|--------|
-| Calories | ~690 kcal |
+| Calories | ~700 kcal |
 | Protein | 50g (29%) |
 | Carbs | 70g (41%) |
 | Fat | 22g (29%) |
@@ -146,14 +146,14 @@ Batch sauce total ≈ ground beef 450g (800 kcal/85P/50F) + ground pork 450g (79
 *Source card: 790 kcal / 88P / 42C / 26F per 2-thigh serving. Our portion is 1 thigh + half a source serving of sauce, GF pasta and trifolate.*
 
 #### Macro Calculation Summary (USDA)
-Half of the source's cacciatore serving is ~395 kcal / 44P / 21C / 13F. Replacing its flour with a light cornstarch dust lowers this to about 375 kcal / 44P / 15C / 13F. Add GF pasta (~214 / 4P / 47C / 1F) + trifolate (~110 / 2P / 8C / 8F) → **~690 kcal / 50P / 70C / 22F**.
+Half of the source's cacciatore serving is ~395 kcal / 44P / 21C / 13F. Replacing its flour with a light cornstarch dust lowers this to about 375 kcal / 44P / 15C / 13F. Add GF pasta (~214 / 4P / 47C / 1F) + trifolate (~110 / 2P / 8C / 8F) → **~700 kcal / 50P / 70C / 22F**.
 
 #### Scaled Batch Recipe (Makes 10 one-thigh portions, 1.25×)
 **Ingredients:**
 - 10 bone-in, skin-on chicken thighs (~2.25kg total), trimmed of excess skin
 - 2½ tsp kosher salt, divided (reduced ~20% from the 3⅛ tsp linear scale)
 - ⅝ tsp black pepper
-- 3 tbsp **cornstarch** (a light dredge — replaces the ⅝ cup flour at this scale)
+- 2½ tbsp **cornstarch** (a light dredge — ¼ of the ⅝ cup flour at this scale)
 - 2½ tbsp olive oil
 - 1¼ large yellow onions, halved + thinly sliced
 - 8 cloves garlic, minced
@@ -182,7 +182,7 @@ Half of the source's cacciatore serving is ~395 kcal / 44P / 21C / 13F. Replacin
 
 #### Scaling Notes
 - Scaled 1.25× on ingredients (8 → 10 thighs), then portioned at **1 thigh per plate** rather than the source's 2-thigh serving.
-- **GF dredge:** 3 tbsp cornstarch replaces ⅝ cup all-purpose flour; cornstarch browns faster, so dust lightly.
+- **GF dredge:** 2½ tbsp cornstarch replaces the ⅝ cup all-purpose flour (¼ substitution ratio); cornstarch browns faster, so dust lightly.
 - **Salt reduced ~20%** (3⅛ tsp linear → 2½ tsp across 10 portions).
 - **Honey:** kept at the linear 1¼ tbsp — it balances the tomato.
 
@@ -406,7 +406,7 @@ Per portion (~150g cooked / ~60g dry): **~214 kcal / 4P / 47C / 1F.**
 - [ ] Balsamic vinegar — 1 bottle [peperonata]
 - [ ] Honey — have [cacciatore]
 - [ ] Olive oil (EVOO) — ensure at least 500ml [all dishes]
-- [ ] Cornstarch (maicena) — have (need 3 tbsp) [cacciatore dredge]
+- [ ] Cornstarch (maicena) — have (need ~2½ tbsp) [cacciatore dredge]
 - [ ] Salt, black pepper, red pepper flakes — have
 
 #### Dairy / Other
@@ -420,7 +420,7 @@ Per portion (~150g cooked / ~60g dry): **~214 kcal / 4P / 47C / 1F.**
 - **Parmesan:** buy a block and grate fresh for better melting and flavour. Cellulose itself is gluten-free; if buying pre-grated, simply check the full ingredient/allergen label.
 - **Shrimp:** Fri/Sat fresh-only (rubbery when frozen — same warning as the camarones week). The pomodoro sauce can be doubled and frozen in a future batch; this week's quantities are not doubled.
 - **GF pasta freeze caveat:** Mon–Tue pasta is softer after the short freeze; sauce absorbs into it and it's fine — fallback is a fresh 10-minute pot on Monday.
-- **Portion reality:** the cacciatore source serves 2 thighs per person (790 kcal/serving); our plate = 1 thigh + half the source sauce + pasta + side ≈ ~690 kcal. Shrimp Pomodoro is the richest complete plate at ~710 kcal; the week averages ~690.
+- **Portion reality:** the cacciatore source serves 2 thighs per person (790 kcal/serving); our plate = 1 thigh + half the source sauce + pasta + side ≈ ~700 kcal. Shrimp Pomodoro is the richest complete plate at ~710 kcal; the week averages ~690.
 - **Eat-by order:** shrimp first (Fri–Sat fresh); bolognese + cacciatore hold 4–5 days and freeze well for Mon–Tue; peperonata improves on day 2–3 (source).
 - **Wednesday is the heavy day (~5 hr):** two braises + peperonata + pasta batch; Thursday is nearly free (trifolate = 15 min); Friday is 30 min + routing.
 - **Continuity:** all six dishes are new to Kaz's rotation (first Italian week — verified against the full dish history).

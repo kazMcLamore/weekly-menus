@@ -91,7 +91,7 @@
 
 ## GF watch-points this week
 1. **Pasta:** Barilla GF box (label "gluten free") — regular Barilla is wheat. Buy at least 1.7kg total; pack sizes vary.
-2. **Cacciatore dredge:** 3 tbsp cornstarch (maicena), never wheat flour — dust lightly.
+2. **Cacciatore dredge:** 2½ tbsp cornstarch (maicena), never wheat flour — dust lightly.
 3. **Parmesan:** block + grate fresh for melting and flavour. Cellulose is GF; label-check the complete ingredients if buying pre-grated.
 4. **Wine:** all wine is GF — but avoid "cooking wine" bottles (salty, additive-laden — the source author says so too).
 5. **Bouillon:** GF-labelled chicken broth for both braises.

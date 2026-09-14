@@ -89,7 +89,7 @@
 
 ## Puntos de cuidado GF de esta semana
 1. **Pasta:** caja Barilla GF (etiqueta "gluten free") — la Barilla normal es TRIGO. Compra al menos 1.7 kg total; el tamaño del paquete varía.
-2. **Espolvoreado del cacciatore:** 3 cdas de maicena, nunca harina de trigo; usa solo una capa ligera.
+2. **Espolvoreado del cacciatore:** 2½ cdas de maicena, nunca harina de trigo; usa solo una capa ligera.
 3. **Parmesano:** bloque rallado fresco por sabor y porque se derrite mejor. La celulosa es GF; si compras pre-rallado, revisa toda la lista de ingredientes.
 4. **Vino:** todo el vino es GF — pero evita botellas de "vino para cocinar" (salado y con aditivos; la autora lo dice también).
 5. **Consomé:** caldo de pollo con etiqueta GF para los dos guisados.

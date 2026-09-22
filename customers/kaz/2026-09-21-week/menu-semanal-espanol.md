@@ -24,7 +24,7 @@
 5. **Ejotes guisados con jitomate** (acompañamiento nuevo, estilo italiano)
 6. **Carbohidrato:** pasta GF Barilla — **espagueti** para albóndigas y camarones, **penne** para el pollo cremoso
 
-**Total porciones nuevas:** 27 — Albóndigas 11 · Pollo cremoso 10 · Camarones 6 · Peperonata 12 · Ejotes 16 · Espagueti ~17 + reserva · Penne ~10 + reserva
+**Total porciones nuevas:** 29 — Albóndigas 13 · Pollo cremoso 10 · Camarones 6 · Peperonata 12 · Ejotes 16 · Espagueti ~19 + reserva · Penne ~10 + reserva
 
 ## 🗓️ CALENDARIO DE COCINA
 
@@ -48,17 +48,18 @@
 - **Camarón:** se cocina el viernes y se come vie/sáb. Las 2 porciones extra se congelan el mismo día (aguantan 2–3 meses pero quedan un poco más suaves).
 - **Pasta GF congelada:** queda más suave después del congelado. Opción limpia: el lunes en la noche cuece una olla chica de pasta fresca (10 min) y usa solo las salsas congeladas.
 - **SAL — mano ligera:** la marinara se hace con jitomate triturado **sin sal**. Prueba al final antes de salar. Los alcaparras ya van enjuagados (llevan sal).
+- **RES Y CERDO — el más magro:** compra res molida 90/10 y cerdo magro si hay. Con res 80/20 y cerdo normal, el plato de albóndigas sube a ~730 kcal. Si solo encuentras grasa normal, avísale al cliente antes de cocinar.
 
 ---
 
 ## 🍝 PLATILLO 1: Albóndigas en Marinara (con espagueti GF)
 
-**Rinde:** 11 porciones — 3 albóndigas + ~120ml de salsa cada una
+**Rinde:** ~13 porciones — 3 albóndigas + ~120ml de salsa cada una (salen 40–44 albóndigas; las que sobren se congelan con la salsa que quede)
 
 **Ingredientes:**
-- 630g carne molida de res (80/20) + 630g carne molida de cerdo
+- 630g de res molida **extra magra (90/10) si hay** + 630g de cerdo molido, **el más magro que encuentres**
 - 2 huevos grandes
-- 90ml de agua
+- 105ml de agua
 - 83g de pan molido (breadcrumbs) **GF — verifica la etiqueta** (o seca y muele un pan GF)
 - 93g de queso parmesano rallado fresco + más para servir
 - 4 dientes de ajo picados
@@ -69,7 +70,7 @@
 
 **Preparación:**
 1. Horno a 175°C. Bate huevos, agua, hierbas, ajo, sal y pimienta. Agrega las carnes, el pan molido GF y el parmesano; mezcla con las manos hasta integrar — no amases de más.
-2. Enrolla albóndigas de tamaño golf (~41–44) y ponlas en charolas SIN engrasar (el contacto directo las dora). Hornea 10 min, voltéalas con una espátula, hornea 10 min más hasta dorar.
+2. Enrolla albóndigas de tamaño golf (~40–44) y ponlas en charolas SIN engrasar (el contacto directo las dora). Hornea 10 min, voltéalas con una espátula, hornea 10 min más hasta dorar.
 3. Mientras, calienta la marinara a fuego lento. Prueba y ajusta el azúcar/pimienta **al final, antes de salar**. Pasa las albóndigas a la salsa (deja la grasa en la charola), tapa parcialmente y guisa 10 min.
 4. Enfría y porciona: 3 albóndigas + ~120ml de salsa por envase. **Congela las porciones de lun/mar y las reservas el mismo día.**
 5. Sirve sobre espagueti GF (1–2 min menos del paquete); termina con albahaca fresca y parmesano.
@@ -83,19 +84,19 @@
 **Rinde:** 10 porciones — 1 pieza de pollo + salsa
 
 **Ingredientes:**
-- 1.25kg de pechugas de pollo sin hueso ni piel (5 piezas), cortadas a la mitad a lo largo y aplanadas a un grosor parecido (~1.25cm)
+- 1.15kg de pechugas de pollo sin hueso ni piel (≈5 piezas grandes), cortadas a la mitad a lo largo y aplanadas a un grosor parecido (~1.25cm)
 - 100g de harina **GF 1-a-1** para rebozar (harina de maíz/arroz — NUNCA harina de trigo)
 - 3¾ cdas de aceite de oliva (el del frasco de jitomates secos sirve)
-- 4 chalotas (cebollita shallot) picadas finas — o 1 cebolla blanca chica picada finísima
+- 3 chalotas (cebollita shallot) picadas finas — o 1 cebolla blanca chica picada finísima
 - 5 dientes de ajo picados
 - 2½ cditas de pasta de jitomate
 - 250g de jitomates secos en aceite, escurridos y picados
-- 750g de espinaca baby (10 tazas — se derrite, no te asustes)
+- 300–350g de espinaca baby (10 tazas — se derrite, no te asustes)
 - 135g de queso crema reducido en grasa (Philadelphia light)
-- 563ml de caldo de pollo (**verifica que sea GF**)
+- 450ml de caldo de pollo (**verifica que sea GF**)
 - 113ml de media crema
 - ¾ cdita de orégano seco + una pizca de hojuelas de chile rojo
-- **2½ cditas de sal** (poca — prueba al final) + pimienta negra
+- **2 cditas de sal** (poca — prueba al final) + pimienta negra
 - 5 cdas de parmesano rallado para terminar
 
 **Preparación:**
@@ -104,7 +105,7 @@
 3. Misma sartén: chalota + ajo 1–2 min; pasta de jitomate 1–2 min; jitomates secos + espinaca hasta que se marche.
 4. Fuego bajo: queso crema, caldo, media crema, orégano y chile — mueve hasta que el queso crema se derrita y quede salsa tersa.
 5. Regresa el pollo; cocina unos minutos para que se impregne; termina con parmesano. Porciona 1 pieza + salsa por envase.
-6. Sirve sobre penne GF. Si la quieres con más salsa, agrega 60ml más de caldo + 30g de queso crema al cocer.
+6. Sirve sobre penne GF. Si la quieres con más salsa, agrega a TODA la tanda: 240ml más de caldo + 120g de queso crema + 45ml de media crema.
 
 **Guardado:** refri 4 días · **congelador 3 meses** · recalentar en micro con cuidado.
 
@@ -188,7 +189,7 @@
 
 ## 🍝 LAS PASTAS GF (Barilla sin gluten — maíz + arroz)
 
-- **Espagueti GF** → para albóndigas y camarones (~17 porciones + reserva): 3–4 cajas de 340g
+- **Espagueti GF** → para albóndigas y camarones (~19 porciones + reserva): 4 cajas de 340g — llévalas TODAS (3 cajas = justo 17 porciones sin margen)
 - **Penne GF** → para el pollo cremoso (~10 porciones + reserva): 2 cajas de 340g
 - Porción = 60g secas (~145g cocidas)
 - Cociéndolas: olla GRANDE con agua hirviendo con sal, **1–2 minutos menos que el paquete** (al recalentar terminan de suavizarse). Escurre y RESERVA una taza del agua de cocción (para aflojar salsas). Porciona en envases.
@@ -198,12 +199,12 @@
 
 | Platillo | Porciones | Contenido por envase | Tipo de envase |
 |----------|-----------|----------------------|----------------|
-| Albóndigas + marinara | 11 (9 + 2 reserva) | 3 albóndigas + ~120ml salsa ≈ 250g | Vidrio 500–800ml |
-| Pollo cremoso | 10 (9 + 1 reserva) | 1 pieza de pollo + salsa ≈ 260g | Vidrio 800ml |
+| Albóndigas + marinara | 13 (10 + 3 reserva) | 3 albóndigas + ~120ml salsa ≈ 250g | Vidrio 500–800ml |
+| Pollo cremoso | 10 (8 + 2 reserva) | 1 pieza de pollo + salsa ≈ 260g | Vidrio 800ml |
 | Camarones al ajo | 6 (4 + 2 reserva) | ~115g camarón + salsa de la sartén | Vidrio 500–800ml |
-| Peperonata | 12 (11 + 1 reserva) | ~150g | Vidrio 400ml (APARTE) |
+| Peperonata | 12 (10 + 2 reserva) | ~150g | Vidrio 400ml (APARTE) |
 | Ejotes con jitomate | 16 | ~150g | Vidrio 400ml (APARTE) |
-| Espagueti GF | ~17 + reserva | ~145g cocidas | Vidrio 600ml |
+| Espagueti GF | ~19 + reserva | ~145g cocidas | Vidrio 600ml |
 | Penne GF | ~10 + reserva | ~145g cocidas | Vidrio 600ml |
 
 **Lista para agarrar día por día:**
@@ -218,32 +219,35 @@
 ## 🛒 LISTA DE COMPRAS
 
 ### Carnes / Pescado / Huevo
-- [ ] Pechuga de pollo sin hueso ni piel — 1.25kg (5 piezas grandes)
-- [ ] Carne molida de res 80/20 — 630g
-- [ ] Carne molida de cerdo — 630g
+- [ ] Pechuga de pollo sin hueso ni piel — 1.25kg (5 piezas grandes; la receta usa 1.15kg)
+- [ ] Res molida **extra magra (90/10) si hay** — 630g (con 80/20 el plato sube ~55 kcal)
+- [ ] Cerdo molido, **el más magro** — 630g
 - [ ] Camarón grande 16–20, pelado y desvenado — 680g
+- [ ] Huevos — 2 grandes (albóndigas)
 
 ### Frutas y Verduras
 - [ ] Pimientos morrones dulces (rojo/amarillo/naranja) — ~1.8kg (8–10 medianos)
 - [ ] Ejotes — 2kg (+ un puñado de reserva si quieres)
-- [ ] Espinaca baby — 750g (10 tazas — se derrite)
+- [ ] Espinaca baby — 400g (la receta usa 300–350g / 10 tazas — se derrite)
 - [ ] Cebollas amarillas — 7 grandes (ejotes 4 + peperonata 2 + 1 reserva)
 - [ ] Chalotas (shallots) — 4 chicas (o 1 cebolla blanca chica)
-- [ ] Ajo — 2 cabezas (~25 dientes en total)
+- [ ] Ajo — 2–3 cabezas (~30 dientes en total)
 - [ ] Limones — 3
 - [ ] Albahaca fresca — 2 manojos (albóndigas + peperonata)
 - [ ] Perejil fresco — 2 manojos (albóndigas + camarones)
 - [ ] Hierbabuena fresca — 1 manojo chico (opcional, peperonata)
 
 ### Abarrotes
-- [ ] Pasta Barilla GF espagueti — 4 cajas de 340g (3 cubren el plan, la 4ª = reserva)
+- [ ] Pasta Barilla GF espagueti — 4 cajas de 340g — llévalas TODAS (3 cajas = justo 17 porciones sin margen; puede llegar a 19)
 - [ ] Pasta Barilla GF penne — 2 cajas de 340g
 - [ ] Pan molido (breadcrumbs) GF estilo italiano — 1 caja, **verifica etiqueta GF**
 - [ ] Harina GF 1-a-1 — 100g (verifica etiqueta)
 - [ ] Jitomate triturado **SIN sal añadida** — 2 latas de 780g (marinara)
+- [ ] Jitomate triturado/chopped — 4 latas de 400g (ejotes; o 2 de 780g)
+- [ ] Jitomates secos en aceite — 1 frasco (se usan 88g escurridos)
 - [ ] Puré/passata de jitomate — 500ml (peperonata)
-- [ ] Pasta de jitomate — 1 tubo chico (~85g se usan)
-- [ ] Caldo de pollo **GF** — 1L (verifica el cubo o el tetra)
+- [ ] Pasta de jitomate — 1 tubo chico (~40g se usan)
+- [ ] Caldo de pollo **GF** — 1L (pollo cremoso 450ml + camarones 120ml + margen; verifica el cubo o el tetra)
 - [ ] Alcaparras — 1 frasco (se usan 2 cdas; enjuagar bien)
 - [ ] Vinagre balsámico — revisa la despensa (quedó de la semana pasada; se usan 4 cdas)
 - [ ] Azúcar — una pizca (marinara)
@@ -253,7 +257,7 @@
 - [ ] Queso crema reducido (Philadelphia light) — 1 paquete de 150g
 - [ ] Media crema — 1 cartón chico (~150ml; se usan 113ml)
 - [ ] Queso parmesano en bloque — cuña de ~350g
-- [ ] Mantequilla sin sal — 100g (ejotes)
+- [ ] Mantequilla sin sal — 2 barras de 90g (ejotes 100g + camarones 28g)
 
 ### Especias y Condimentos
 - [ ] Sal — **POCA esta semana** (~4 cditas en TODOS los platillos juntos) — prueba al final antes de agregar

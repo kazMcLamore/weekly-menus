@@ -21,7 +21,7 @@ Rolling batch: **Mon Sep 21 + Tue Sep 22** eat the prior batch's freezer stock (
 | Tue Sep 29 (frozen — this batch) | C: Marry Me Chicken + penne GF + green beans; A: Meatballs + spaghetti GF + peperonata | C: Meatballs + spaghetti GF + peperonata; A: Marry Me Chicken + penne GF + green beans |
 
 **Total unique dishes:** 6 (3 meats — beef+pork, chicken, shrimp — 2 vegetable sides, 1 carb in **two GF shapes**: spaghetti + penne)
-**Meat count:** 11 Meatballs · 10 Marry Me Chicken · 6 Shrimp Scampi = **27 new-batch portions** (22 assigned + 5 buffer; Wednesday lunch's 2 prior-batch portions are separate)
+**Meat count:** 13 Meatballs · 10 Marry Me Chicken · 6 Shrimp Scampi = **29 new-batch portions** (22 assigned + 7 buffer; Wednesday lunch's 2 prior-batch portions are separate)
 **Cuisine:** Italian — GF pasta ×2 shapes; meatball dredge and chicken dredge swapped to GF products; sauces otherwise naturally GF
 
 **Plate key:**
@@ -51,7 +51,7 @@ Rolling batch: **Mon Sep 21 + Tue Sep 22** eat the prior batch's freezer stock (
 
 ⚠️ **Shrimp:** cook Fri, eat Fri/Sat. The 2 buffer scampi portions can be frozen same-day (source says 2–3 months) but expect slightly softer texture on thaw — or fold the extra shrimp into Saturday's plates.
 ⚠️ **GF pasta freeze caveat:** cooked GF pasta softens on freeze-thaw. Mon–Tue pasta will be softer after 2–4 days frozen — acceptable with sauce, or boil a small fresh pot Monday night (10 min) and keep the frozen portions for sauce only.
-⚠️ **Salt audit (bolognese feedback):** added salt this week — meatball mix 1.1 tsp ÷ 11 · chicken 2.5 tsp ÷ 10 · scampi ½ tsp ÷ 6 + to-taste · peperonata 2 tsp ÷ 12 (capers rinsed) · green beans 1.5 tsp ÷ 16. Marinara is built on **no-salt-added crushed tomatoes** (a Rao's-style jar would add ~560mg sodium/plate). Taste at the END, before adding more.
+⚠️ **Salt audit (bolognese feedback):** added salt this week — meatball mix 1.1 tsp ÷ ~13 · chicken 2 tsp ÷ 10 · scampi ½ tsp ÷ 6 + to-taste · peperonata 2 tsp ÷ 12 (capers rinsed) · green beans 1.5 tsp ÷ 16. Marinara is built on **no-salt-added crushed tomatoes** (a Rao's-style jar would add ~560mg sodium/plate). Taste at the END, before adding more.
 
 ---
 
@@ -60,27 +60,27 @@ Rolling batch: **Mon Sep 21 + Tue Sep 22** eat the prior batch's freezer stock (
 **Cross-check:** https://www.onceuponachef.com/recipes/turkey-meatballs-in-marinara-sauce.html (same author's meatball method; explicitly GF-adaptable with GF Italian breadcrumbs — validates the swap)
 **Why this recipe:** Oven-browned meatballs (beef+pork, no veal needed) simmered in marinara — the source confirms they **freeze in sauce up to 3 months**, which is exactly what the Wednesday→Mon/Tue freezer chain needs. Salt is easy to control after the bolognese feedback.
 
-**Original servings:** 4–6 (22–24 golf-ball meatballs) | **Scaled to:** 11 portions of **3 meatballs + ~120ml sauce** (1.83× mix → ~41–44 balls; 33 assigned + 8–11 buffer balls), 9 assigned + 2 buffer portions
+**Original servings:** 4–6 (22–24 golf-ball meatballs) | **Scaled to:** ~13 portions of **3 meatballs + ~120ml sauce** (1.83× mix → 40–44 balls ÷ 3 ≈ 13–14 portions; sauce 1,560ml ÷ 120ml = 13 — batch and sauce agree), 10 assigned + 3 buffer
 
 #### Per-Portion Macro Breakdown (3 meatballs + sauce share)
 | Nutrient | Amount |
 |----------|--------|
-| Calories | ~330 kcal |
-| Protein | 22g (27%) |
-| Carbs | 11g (13%) |
-| Fat | 20g (55%) |
+| Calories | ~310 kcal (range 300–325, lean grinds) |
+| Protein | 23g (30%) |
+| Carbs | 14.5g (19%) |
+| Fat | 18g (52%) |
 | Fibre | 1.5g |
 
-*Full MB plate = meatballs + ~150g cooked GF spaghetti + peperonata → ~690 kcal.*
+*Full MB plate = meatballs + ~150g cooked GF spaghetti + peperonata → ~675 kcal with extra-lean grinds (~730 with 80/20 — see scaling notes).*
 
 #### Macro Calculation Summary
-Ground beef 90/10 630g (1,110 kcal / 126P / 61F) + ground pork 630g (~1,600 kcal / 106P / 128F) + egg 2 (144 / 12.6P / 9.6F) + GF breadcrumbs 83g (295 / 9P / 55C) + parmigiano 93g (360 / 32P / 3C / 24F) + no-salt crushed tomatoes 1.66L (630 / 21P / 117C) + tomato paste 55g (50 / 3P / 12C) + herbs/oil 100 (1P / 11F) ≈ **3,690 kcal / 310P / 187C / 245F** ÷ 11 ≈ **335 kcal / 28P / 17C / 22F** (source's own label: 731 kcal/serving incl. 76g wheat spaghetti — our meatball+sauce share strips the pasta out and trims the sauce share).
+Batch (extra-lean grinds): beef 90/10 630g (1,108 kcal / 128P / 63F) + lean ground pork 630g (~1,600 / 107P / 117F) + 2 eggs (143 / 12.6P / 9.5F) + GF breadcrumbs 83g (295 / 9P / 55C / 6F) + parmigiano 93g (374 / 33P / 3C / 24F) + marinara (1,560g no-salt crushed tomatoes 499 / 22P / 109C + paste 30g 25 + oil 27g 238 / 27F + sugar 16 = 778) + herbs ≈ **4,320 kcal / 291P / 170C / 246F**. Mix ÷ ~42 balls = 84 kcal/ball → **3 balls + 120ml sauce ≈ 313 kcal / 23P / 14.5C / 18F** (source's own label: 731 kcal/serving incl. 76g wheat spaghetti — ours strips the pasta out and trims the sauce share). With 80/20 beef + standard-ground pork the portion runs ~365 kcal — see scaling notes.
 
-#### Scaled Batch Recipe (Makes 11 portions — 3 balls + sauce each — 1.83×)
+#### Scaled Batch Recipe (Makes ~13 portions — 3 balls + sauce each — 1.83×)
 **Ingredients:**
-- 630g ground beef (80/20) + 630g ground pork ("meatloaf mix" fallback per source)
+- 630g ground beef, **extra-lean 90/10** + 630g ground pork, **leanest available** ("meatloaf mix" fallback per source)
 - 2 large eggs
-- ¼ cup water (×1.83 ≈ 90ml)
+- ¼ cup water (×1.83 ≈ 105ml)
 - 83g Italian-style **GF breadcrumbs** (scoop crumbs from GF bread, or box GF crumbs — verify label)
 - 93g freshly grated Parmigiano-Reggiano, plus more for serving
 - 4 garlic cloves, minced
@@ -91,16 +91,17 @@ Ground beef 90/10 630g (1,110 kcal / 126P / 61F) + ground pork 630g (~1,600 kcal
 
 **Method:**
 1. Oven 175°C. Whisk eggs, water, herbs, garlic, salt, pepper. Add meats, GF crumbs, parm; mix by hand until just combined — do not overwork.
-2. Roll golf-ball meatballs (~41–44) onto UNGREASED baking sheets (direct contact browns them). Bake 10 min, turn with a metal spatula, bake 10 min more until browned and nearly cooked through.
+2. Roll golf-ball meatballs (~40–44) onto UNGREASED baking sheets (direct contact browns them). Bake 10 min, turn with a metal spatula, bake 10 min more until browned and nearly cooked through.
 3. Meanwhile simmer the marinara; adjust sugar/pepper at the end — **taste before adding salt**. Transfer meatballs (leave fat behind) into the sauce; cover loosely; simmer 10 min.
 4. Cool, then portion 3 balls + ~120ml sauce per container. **Freeze Mon/Tue + buffer portions same day.**
 5. Serve over GF spaghetti cooked 1–2 min under package time; finish with fresh basil + grated parm.
 
 **Storage:** Fridge 4–5 days · **Freezer 3 months in sauce (source-confirmed)** · Reheat microwave; sauce loosens with a splash of water.
 #### Scaling Notes
-- 1.83× on mix; **salt at 0.8× linear** (¾ tsp → 1.1 tsp across 11 portions) + no-salt tomatoes = the anti-bolognese-salt protocol.
+- 1.83× on mix; **salt at 0.8× linear** (¾ tsp → 1.1 tsp across ~13 portions) + no-salt tomatoes = the anti-bolognese-salt protocol.
 - Marinara is a no-salt-crushed-tomato base built to the source's "good-quality marinara" spec (its homemade-sauce alternative), keeping sodium controllable.
-- Portion is 3 balls, not the source's 4 — that's the calorie trim; the extra ~8–11 balls become frozen buffer.
+- Portion is 3 balls, not the source's 4 — that's the calorie trim; the batch's 40–44 balls = ~13 sauced portions + a few spare balls (freeze them in leftover sauce).
+- **⚠️ Grind matters:** figures above assume extra-lean beef (90/10) + lean pork → ~310 kcal/portion, plate ~675. With standard 80/20 beef + regular ground pork the portion runs ~365 kcal → plate ~730, **over the band**. Buy the leanest grinds available; if only fatty grinds exist, flag it to Kaz and either accept ~730 on meatball days or plate 2 balls + extra sauce.
 
 ---
 
@@ -109,37 +110,37 @@ Ground beef 90/10 630g (1,110 kcal / 126P / 61F) + ground pork 630g (~1,600 kcal
 **Cross-check:** USDA ingredient math reproduces the site's label within 5% (site: 286 kcal / 30P / 12C / 13F per serving; my ingredient sum: ~1,109 kcal ÷ 4 = 277 — consistent)
 **Why this recipe:** The requested cream sauce at half the usual cost: the "cream" is reduced-fat cream cheese + half-and-half + broth, not heavy cream. 30g protein per source serving; readers specifically recommend serving it **over pasta**.
 
-**Original servings:** 4 | **Scaled to:** 10 portions (2.5× uniform), 9 assigned + 1 buffer
+**Original servings:** 4 | **Scaled to:** 10 portions (2.5× uniform), 8 assigned + 2 buffer
 
 #### Per-Portion Macro Breakdown
 | Nutrient | Amount |
 |----------|--------|
-| Calories | ~277 kcal |
-| Protein | 28g (40%) |
-| Carbs | 13g (19%) |
-| Fat | 9.5g (31%) |
-| Fibre | ~3g |
+| Calories | ~286 kcal |
+| Protein | 30g (42%) |
+| Carbs | 13.5g (19%) |
+| Fat | 12.5g (39%) |
+| Fibre | ~2g |
 
-*Full MM plate = chicken + ~145g cooked GF penne + green beans → ~685 kcal.*
+*Full MM plate = chicken + ~145g cooked GF penne + green beans → ~695 kcal (top of band; trim penne to 55g dry for ~675 if wanted).*
 
 #### Macro Calculation Summary
-Chicken breast 1.13kg raw (1,250 kcal / 260P / 21F) + EVOO 3.75 Tbsp (443 / 50F) + sun-dried tomatoes in oil 88g (225 / 4P / 25C / 12F) + light cream cheese 108g (200 / 10P / 7.5C / 12.5F) + half-and-half 113ml (100 / 2.5P / 5C / 7.5F) + parm 25g (98 / 9P / 1C / 6.5F) + GF flour 75g (275 / 2.5P / 57.5C) + broth 563ml (38 / 5P / 2.5C) + spinach 300g (70 / 9P / 10C / 1F) + shallot/garlic/paste 75 (2.5P / 15C) ≈ **2,774 kcal / 305P / 124C / 111F** ÷ 10 ≈ **277 kcal / 30.5P / 12.4C / 11.1F** ✓ matches the source label's ratio.
+Chicken breast 1.13kg raw (1,250 kcal / 261P / 21.6F) + EVOO 3.75 Tbsp (447 / 50F) + sun-dried tomatoes in oil 88g (187 / 4.4P / 31C / 10F) + light cream cheese 108g (251 / 7.2P / 7.2C / 21.5F) + half-and-half 113ml (145 / 2.8P / 5.7C / 11.9F) + parm 25g (98 / 9P / 0.8C / 6.5F) + GF flour 75g (275 / 2.5P / 60C / 2.5F) + broth 450ml (30 / 3.8P / 2.3C) + spinach 300g (70 / 8.8P / 10.8C / 1.3F) + shallot/garlic/paste (~105 / 1.5P / 19C) ≈ **2,855 kcal / 298P / 137C / 126F** ÷ 10 ≈ **286 kcal / 30P / 13.7C / 12.6F** ✓ reproduces the source's own label (286 / 30 / 12 / 13) within grams.
 
 #### Scaled Batch Recipe (Makes 10 portions — 2.5×)
 **Ingredients:**
-- 1.25kg boneless skinless chicken breasts (5 breasts), halved lengthwise + pounded to even ~1.25cm thickness
+- 1.13kg (2.5 lb, ~5 breasts) boneless skinless chicken breasts, halved lengthwise + pounded to even ~1.25cm thickness
 - 100g GF flour (1-to-1 mix) for dredging
 - 3¾ Tbsp olive oil (the sun-dried-tomato oil is the source's pick)
-- 4 small shallots, minced (or 1 small white onion, fine)
+- 3 small shallots, minced (or 1 small white onion, fine)
 - 5 garlic cloves, minced
 - 2½ tsp tomato paste
 - 250g sun-dried tomatoes in oil, drained + chopped
-- 750g baby spinach (10 cups packed — wilts massively, that's correct)
+- 300–350g baby spinach (10 cups packed — wilts massively, that's correct)
 - 135g reduced-fat cream cheese (9½ Tbsp)
-- 563ml chicken broth (**verify GF** on the bouillon/carton)
+- 450ml chicken broth (**verify GF** on the bouillon/carton)
 - 113ml half-and-half (media crema works)
 - ¾ tsp dried oregano + pinch red pepper flakes
-- **2½ tsp salt** (source 1 tsp ÷ 4 → 0.8× linear) + black pepper
+- **2 tsp salt** (source 1 tsp × 2.5 = 2.5 tsp linear → × 0.8 = 2 tsp) + black pepper
 - 5 Tbsp grated parmesan to finish
 
 **Method:**
@@ -148,13 +149,14 @@ Chicken breast 1.13kg raw (1,250 kcal / 260P / 21F) + EVOO 3.75 Tbsp (443 / 50F)
 3. Same skillet: shallot + garlic 1–2 min; tomato paste 1–2 min; sun-dried tomatoes + spinach until wilted.
 4. Heat to low: cream cheese, broth, half-and-half, oregano, pepper flakes — stir until the cream cheese melts smooth.
 5. Chicken back in; simmer a few minutes to heat through; finish with parm. Portion 1 chicken piece + sauce per container.
-6. Serve over GF penne; the source's readers also double the sauce — this batch is already at the source ratio; for a saucier plate stir in 60ml extra broth + 30g cream cheese at cook time (adds ~35 kcal/plate).
+6. Serve over GF penne; the source's readers also double the sauce — this batch is already at the source ratio; for a noticeably saucier batch stir in +240ml broth + 120g cream cheese + 45ml media crema at cook time (≈ +35 kcal/portion).
 
 **Storage:** Fridge 4 days · **Freezer 3 months (source-confirmed)** · Reheat microwave gently.
 #### Scaling Notes
 - Uniform 2.5× (no sauce-heavy bias) to hold calories at the low end; the source ratio already reads rich because of the sun-dried tomatoes.
-- Salt at 0.8× linear. Spinach looks enormous dry — it cooks down to nothing.
-- GF flour dredge replaces all-purpose per the source's own GF variation; keep the dredge dust-thin (excess flour = gummy sauce on reheat).
+- Salt at 0.8× linear (2 tsp). Spinach looks enormous dry — it cooks down to nothing.
+- GF flour dredge replaces all-purpose per the source's own GF variation; keep the dredge dust-thin (excess flour = gummy sauce on reheat). Macros count the full 75g flour — in practice some shakes off, so 286 kcal/portion is the conservative ceiling.
+- **Media crema note:** Mexican media crema (~15–18% fat) is richer than US half-and-half — adds ~5–10 kcal/portion vs the numbers above.
 
 ---
 
@@ -209,7 +211,7 @@ Shrimp 680g raw (578 kcal / 136P / 6F) + butter 28g (203 / 23F) + EVOO 27g (239 
 **Cross-check:** https://www.savoringitaly.com/peperonata/ (5★; Calabrian nonna version — same peppers/onion/EVOO/passata architecture)
 **Why this recipe:** Approved in Trattoria week 1 — **recipe continuity applies**: same source, same method, rescaled only. Silky sweet peppers stewed in olive oil + tomato; keeps 5 days, **improves as it sits** (source-confirmed).
 
-**Original servings:** 6 | **Scaled to:** 12 portions (2.0× — last week ran 2.2× for 13), 11 assigned + 1 buffer
+**Original servings:** 6 | **Scaled to:** 12 portions (2.0× — last week ran 2.2× for 13), 10 assigned + 2 buffer
 
 #### Per-Portion Macro Breakdown
 | Nutrient | Amount |
@@ -244,6 +246,7 @@ Per source card: 150 kcal / 16C / 3P / 10F per serving — label used as-is (sam
 **Storage:** Fridge 5 days — better on day 2–3 (source) · Freezes acceptably (softer on thaw — last week's Mon/Tue practice).
 #### Scaling Notes
 - Clean 2.0× of the source's 6 servings; capers rinsed (sodium). Fennel (the author's optional add) omitted again for cost.
+- **Side coverage:** 12 peperonata + 16 green beans = 28 side portions vs 29 max meat portions — if the bonus 13th meatball portion gets eaten, pair it with one of the 4 green-bean buffers.
 
 ---
 
@@ -252,7 +255,7 @@ Per source card: 150 kcal / 16C / 3P / 10F per serving — label used as-is (sam
 **Cross-check:** https://www.fromachefskitchen.com/mediterranean-braised-green-beans-tomatoes/ (same slow-braise-in-tomato architecture: onion + garlic + olive oil + tomatoes)
 **Why this recipe:** A light, authentic Italian braised side (195 kcal/serving, source label) whose 45-minute braise fits the Wednesday window and whose batches **freeze well** (source-confirmed) — the Mon/Tue side for the cream-chicken and scampi plates.
 
-**Original servings:** 4 | **Scaled to:** 16 portions (4×), 16 assigned — 10 for MM plates + 6 for SC plates (no spare: buy a spare handful of beans if you want insurance — they cook down)
+**Original servings:** 4 | **Scaled to:** 16 portions (4×) — 12 assigned (8 MM plates + 4 SC plates) + 4 buffer (also covers the bonus 13th meatball portion if eaten)
 
 #### Per-Portion Macro Breakdown
 | Nutrient | Amount |
@@ -293,22 +296,22 @@ Green beans 2kg (620 / 56P / 116C) + butter 100g (718 / 81F) + EVOO 8 Tbsp ≈ 1
 
 ### 🍝 THE CARB: GF pasta, two shapes
 **Product:** Barilla Gluten-Free (corn + rice — certified GF; closest to wheat pasta in texture; verified on Walmart Playa's shelf in Trattoria week 1, Chedraui Selecto backup, baked polenta as last-resort fallback)
-- **GF spaghetti** — meatball + scampi plates (17 portions + buffer) — the classic meatball pairing; scampi's home is the long-strand family (source serves it over linguine/angel hair)
-- **GF penne** — marry me chicken plates (10 portions + buffer) — short, ridged shapes grip cream sauces (source serves it over short cavatappi/orzo)
+- **GF spaghetti** — meatball + scampi plates (runs to 19 portions: 13 meatball + 6 scampi) — the classic meatball pairing; scampi's home is the long-strand family (source serves it over linguine/angel hair)
+- **GF penne** — marry me chicken plates (10 portions + margin) — short, ridged shapes grip cream sauces (source serves it over short cavatappi/orzo)
 
-**Per-portion:** 60g dry (~145g cooked) ≈ **214 kcal / 4P / 50C / 1F** (Barilla GF ≈ 357 kcal/100g dry — consistent with the label's 200 kcal/56g)
+**Per-portion:** 60g dry (~145g cooked) ≈ **214 kcal / 4P / 47C / 1F** (Barilla GF ≈ 357 kcal/100g dry — consistent with the label's 200 kcal/56g)
 **Batch:** cook 1–2 min under package time, reserve pasta water, portion in sauce-safe containers. If only ONE shape is on the shelf, use it for all plates — no re-planning needed.
 
 ## 📦 Packing Instructions
 
 | Dish | Portions Made | Per Container | Container Type |
 |------|---------------|---------------|----------------|
-| Meatballs + marinara | 11 (9 + 2 buffer) | 3 balls + ~120ml sauce ≈ 250g | 500–800ml glass (sauce headroom) |
-| Marry Me Chicken | 10 (9 + 1 buffer) | 1 chicken piece + sauce ≈ 260g | 800ml glass |
+| Meatballs + marinara | 13 (10 + 3 buffer) | 3 balls + ~120ml sauce ≈ 250g | 500–800ml glass (sauce headroom) |
+| Marry Me Chicken | 10 (8 + 2 buffer) | 1 chicken piece + sauce ≈ 260g | 800ml glass |
 | Shrimp Scampi | 6 (4 + 2 buffer) | ~115g shrimp + pan sauce | 500–800ml glass |
-| Peperonata | 12 (11 + 1 buffer) | ~150g | 400ml glass (apart from meat) |
-| Green Beans & Tomatoes | 16 | ~150g | 400ml glass (apart from meat) |
-| GF spaghetti | 17 + buffer (~5) | ~145g cooked | 600ml glass |
+| Peperonata | 12 (10 + 2 buffer) | ~150g | 400ml glass (apart from meat) |
+| Green Beans & Tomatoes | 16 (12 + 4 buffer) | ~150g | 400ml glass (apart from meat) |
+| GF spaghetti | ~19 + margin (4 boxes ≈ 22) | ~145g cooked | 600ml glass |
 | GF penne | 10 + buffer (~2) | ~145g cooked | 600ml glass |
 
 **Day-by-day grab list:**
@@ -322,31 +325,34 @@ Green beans 2kg (620 / 56P / 116C) + butter 100g (718 / 81F) + EVOO 8 Tbsp ≈ 1
 ## 🛒 Shopping List
 
 #### Carnes / Pescado (Protein)
-- [ ] Chicken breasts, boneless skinless — 1.25kg (5 large)
-- [ ] Ground beef 80/20 — 630g
-- [ ] Ground pork — 630g
+- [ ] Chicken breasts, boneless skinless — 1.25kg (5 large; recipe uses 1.13kg)
+- [ ] Ground beef — 630g, **extra-lean 90/10 if available** (80/20 pushes the plate ~55 kcal over — see meatball scaling notes)
+- [ ] Ground pork — 630g, **leanest available**
 - [ ] Large shrimp 16–20 ct, peeled/deveined — 680g (1.5 lb)
+- [ ] Eggs — 2 large (meatballs)
 
 #### Frutas y Verduras (Produce)
 - [ ] Bell peppers, red/yellow/orange — ~1.8kg (8–10 medium)
 - [ ] Green beans — 2kg (+ optional spare handful)
-- [ ] Baby spinach — 750g (10 cups packed — it wilts away)
+- [ ] Baby spinach — 400g (recipe uses 300–350g / 10 cups packed — it wilts away)
 - [ ] Yellow onions — 7 large (4 green beans + 2 peperonata + 1 spare)
 - [ ] Shallots — 4 small (or 1 white onion)
-- [ ] Garlic — 2 heads (≈ 25 cloves across all dishes)
+- [ ] Garlic — 2–3 heads (≈ 30 cloves across all dishes)
 - [ ] Lemons — 3 (scampi juice + wedges)
 - [ ] Fresh basil — 2 bunches (meatballs + peperonata)
 - [ ] Fresh parsley — 2 bunches (meatballs + scampi)
 - [ ] Fresh mint — 1 small bunch (optional, peperonata finish)
 
 #### Abarrotes (Pantry / Dry Goods)
-- [ ] Barilla GF spaghetti — 4 boxes (340g each; 3 covers the plan, 4th = buffer)
+- [ ] Barilla GF spaghetti — 4 boxes (340g each — **take all 4**: 3 boxes = exactly 17 portions with zero headroom, and demand runs to 19)
 - [ ] Barilla GF penne — 2 boxes (340g each)
 - [ ] GF Italian-style breadcrumbs — 1 box, **verify GF label** (or dry + crumb 1 GF baguette)
 - [ ] GF flour 1-to-1 mix — 100g (verify GF label; Amazon MX fallback)
 - [ ] Crushed tomatoes, **no salt added** — 2× 780g cans (marinara) + passata/puré 500ml (peperonata)
-- [ ] Tomato paste — 1 small tub (≈ 85g used)
-- [ ] Chicken broth, **GF-verified** — 1L (cream sauce 563ml + scampi sub)
+- [ ] Chopped tomatoes (canned) — 4× 400g cans (green beans; or 2× 780g)
+- [ ] Sun-dried tomatoes in oil — 1 jar (recipe uses 88g drained)
+- [ ] Tomato paste — 1 small tub (≈ 40g used across marinara + cream sauce)
+- [ ] Chicken broth, **GF-verified** — 1L (cream sauce 450ml + scampi sub 120ml + margin)
 - [ ] Capers — 1 jar (2 tbsp used; rinse well)
 - [ ] Balsamic vinegar — check pantry (left from Trattoria week 1; 4 tbsp needed)
 - [ ] Sugar — pinch (marinara)
@@ -356,7 +362,7 @@ Green beans 2kg (620 / 56P / 116C) + butter 100g (718 / 81F) + EVOO 8 Tbsp ≈ 1
 - [ ] Reduced-fat cream cheese — 1× 150g tub (Philadelphia light)
 - [ ] Media crema (half-and-half) — 1× small carton (~150ml; 113ml used)
 - [ ] Parmigiano-Reggiano block — ~350g wedge
-- [ ] Unsalted butter — 100g (green beans)
+- [ ] Unsalted butter — 2× 90g bars (green beans 100g + scampi 28g)
 
 #### Especias y Condimentos (Spices & Seasonings)
 - [ ] Kosher salt — light hand this week (≈ 4 tsp added across ALL dishes)
@@ -364,8 +370,8 @@ Green beans 2kg (620 / 56P / 116C) + butter 100g (718 / 81F) + EVOO 8 Tbsp ≈ 1
 - [ ] Dry white wine — 1 small bottle (optional — scampi; broth + lemon substitutes)
 
 ## ⚠️ Notes & Considerations
-- **Cream-sauce fit:** the Skinnytaste lighter sauce lands the cream dish at ~685 kcal/plate as served — inside the band without heavy cream. Vodka-cream (RecipeTin Eats) was rejected this round: 693 kcal/serving *with* pasta as written and 1,465mg sodium — flagged as a future indulgence pick.
-- **Macro shape vs. the 30/40/30 target:** pasta every meal pushes this week to ≈ P20 / C45 / F35. That's inherent to the brief ("pasta with each meal" + cream). Protein still averages ~32g/meal (athlete-adequate). If Kaz wants it closer to 30% protein: a 4th meatball (+8P/+110 kcal) or 40g more chicken/plate (+9P/+40 kcal) are the levers — say the word and I'll re-cut.
+- **Cream-sauce fit:** the Skinnytaste lighter sauce lands the cream dish at ~695 kcal/plate as served (top of band; 55g penne trims it to ~675) — inside the band without heavy cream. Vodka-cream (RecipeTin Eats) was rejected this round: 693 kcal/serving *with* pasta as written and 1,465mg sodium — flagged as a future indulgence pick.
+- **Macro shape vs. the 30/40/30 target:** pasta every meal pushes this week to ≈ P20 / C46 / F35. That's inherent to the brief ("pasta with each meal" + cream). Protein still averages ~33g/meal (athlete-adequate). If Kaz wants it closer to 30% protein: a 4th meatball (+8P/+110 kcal) or 40g more chicken/plate (+9P/+40 kcal) are the levers — say the word and I'll re-cut.
 - **Salt protocol (bolognese feedback):** no-salt crushed tomatoes in the marinara; every added-salt figure listed in the audit above; rule for the cook = taste at the end, before adding more.
 - **Eat-early flags:** scampi Fri/Sat fresh (softens frozen); GF pasta Mon/Tue will be softer after freeze-thaw (fresh mini-pot fallback documented). Everything else is freeze-stable.
 - **Availability watch:** GF breadcrumbs and GF flour are the two 🟡 items (Walmart/Chedraui Selecto import aisles or amazon.com.mx); sun-dried tomatoes at the Walmart import aisle; if the second pasta shape is missing, run one shape for everything.
@@ -374,7 +380,7 @@ Green beans 2kg (620 / 56P / 116C) + butter 100g (718 / 81F) + EVOO 8 Tbsp ≈ 1
 ## ✅ Final Checks
 - [x] Every dish has a cited source URL that was fetched and read this week (peperonata: fetched + approved in Trattoria week 1, continuity honored)
 - [x] All quantities cross-checked — source labels reproduced within 5% via USDA ingredient math; ratios sanity-checked (sauce:meat, liquid:pasta, bake/simmer times)
-- [x] Macros calculated from source labels + USDA cross-check, not guessed; per-plate totals 600–700 band (600–690; avg ~665)
+- [x] Macros calculated from source labels + USDA cross-check, not guessed; per-plate totals 600–700 band (600–695; avg ~665)
 - [x] Scaling adjustments documented (salt 0.8×; uniform 2.5× chicken; no-salt marinara base; 3-ball portion trim)
 - [x] Shopping list deduplicated, rounded to purchase units (boxes/cans/jars)
 - [x] GF respected: GF pasta ×2, GF breadcrumbs, GF flour dredge, GF-verified broth; tamari-level watch points listed

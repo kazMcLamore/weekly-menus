@@ -24,6 +24,8 @@
   - **Chopped barbecue** (Once Upon a Chef oven pork butt + KC-style sauce) — approved; homemade sauces preferred; salt-light rubs.
   - **Smoky borracho beans (GF, no beer)** and **braised Southern cabbage** approved as new vegetable sides (Sept 2026); collards remain approved-but-not-requested.
   - Fish + arroz rojo, BBQ + cornbread, shepherd's pie stands alone — this plate pairing pattern was explicitly requested; confirm before assuming it for other weeks.
+- **Italian week 1 feedback (Sept 2026 — Trattoria week, 2026-09-14-week):** All dishes approved (Bolognese, Cacciatore, Shrimp Pomodoro, Peperonata, Zucchini Trifolate, GF pasta carb). **The bolognese was a bit too salty** — when repeating the Plays Well With Butter bolognese or any long-simmered Italian red sauce, cut the added salt meaningfully (pancetta/bacon + parmesan already carry salt; taste at the end before adding more). Salt-light hand applies to Italian red-sauce weeks generally.
+- **Italian week 2 requested (Sept 2026, 2026-09-21-week):** Italian again, GF pasta with every meal, include one cream-sauce dish, keep calories minimized (low end of the 600–700 kcal/meal band). Candidate ballot pending Kaz's approval before portions/menu math.
 - **Cuisine preferences:** Open to all cuisines that can be made GF. Leans toward Mexican, Latin American, Southeast Asian, Mediterranean, and Indian — anything with big flavour.
 
 ## Assistant Profile
